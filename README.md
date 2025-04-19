@@ -1,6 +1,6 @@
 # Revue systématique de la modélisation du temps d’apprentissage dans l’enseignement des mathématiques : tendances et défis actuels
 
-1. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
+1. [Beyond Predictive Accuracy: Challenges in Evaluating Bayesian Knowledge Tracing](Non disponible en ligne)
 2. [Stochastic Processes](Non disponible en ligne)
 3. [An Application of Markov Modeling to the Student Flow in Higher Education in Sudan](Non disponible en ligne)
 4. [Application of Finite Markov Chain to a Model of Schooling](Non disponible en ligne)
@@ -307,4 +307,3 @@
 303. [Towards Unifying Learner Modeling](Non disponible en ligne)
 304. [Deep Knowledge Tracing is Over-Adaptive](Non disponible en ligne)
 305. [Scalability and Generalization in BKT vs. Deep Learning Models](Non disponible en ligne)
-306. [Beyond Predictive Accuracy: Challenges in Evaluating Bayesian Knowledge Tracing](Non disponible en ligne)
