@@ -1,4 +1,4 @@
-# article-review-learning-time
+# Revue systématique de la modélisation du temps d’apprentissage dans l’enseignement des mathématiques : tendances et défis actuels
 
 1. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
 2. [Stochastic Processes](Non disponible en ligne)
