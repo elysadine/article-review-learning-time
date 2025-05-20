@@ -1,4 +1,9 @@
-# Revue systématique de la modélisation du temps d’apprentissage dans l’enseignement des mathématiques : tendances et défis actuels
+# Systematic review of learning time modeling in mathematics education: current trends and challenges
+
+## Sheet of references
+- [Systematic review of learning time modeling in mathematics education: current trends and challenges](https://docs.google.com/spreadsheets/d/1hSjUBiKRwGbxs8HsUCVKDBU0v_rABYarxZQZl_U9izg/)
+
+## References List
 
 1. [Beyond Predictive Accuracy: Challenges in Evaluating Bayesian Knowledge Tracing](Non disponible en ligne)
 2. [Stochastic Processes](Non disponible en ligne)
