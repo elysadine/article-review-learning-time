@@ -297,7 +297,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Most students, perhaps over 90 percent, can master what teachers have to teach them, and it is the task of instruction to find the means which will enable students to master the subject under consideration. A basic task is to determine what is meant by mastery of the subject and to search for methods and materials which will enable the largest proportion of students to attain such mastery. That is, the basic task in education is to find strategies which will take individual differences into consideration but in such a way as to promote the fullest development of the individual. The thesis of this paper is that, to promote mastery learning, 5 variables must be dealt with effectively: (1) aptitude for kinds of learning, viewed as the amount of time required by the learner to attain mastery of the task; (2) quality of instruction, viewed in terms of its approaching the optimum for a given learner; (3) ability to understand instruction, i.e., to understand the nature of the task and the procedures to follow; (4) perseverance, the amount of time one is willing to spend in learning; and (5) time allowed for learning, the key to mastery. (Author/TA)
   </details>
 
   <details>
@@ -309,7 +309,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper describes a novel method to create a quantitative model of an educational content domain of related practice item-types using learning curves. By using a pairwise test to search for the relationships between learning curves for these item-types, we show how the test results in a set of pairwise transfer relationships that can be expressed in a Q-matrix domain model. Creating these Q-matrices for various test criteria we show that the new domain model results in consistently better learning curve fits as shown by cross-validation. Further, the Q-matrices produced can be used by educators or curriculum designers to gain a richer, more integrated perspective on concepts in the domain. The model may also have implications for tracing student knowledge more effectively to sequence practice in tutoring/training software. (Contains 2 figures.) [This research was funded by the U.S. Department of Education, Carnegie Learning Inc., the Pittsburgh Science of Learning Center and DataShop team, and Ronald Zdrojkowski.]
   </details>
 
   <details>
@@ -321,7 +321,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This article is a review of experiments comparing the effectiveness of human tutoring, computer tutoring, and no tutoring. “No tutoring” refers to instruction that teaches the same content without tutoring. The computer tutoring systems were divided by their granularity of the user interface interaction into answer-based, step-based, and substep-based tutoring systems. Most intelligent tutoring systems have step-based or substep-based granularities of interaction, whereas most other tutoring systems (often called CAI, CBT, or CAL systems) have answer-based user interfaces. It is widely believed as the granularity of tutoring decreases, the effectiveness increases. In particular, when compared to No tutoring, the effect sizes of answer-based tutoring systems, intelligent tutoring systems, and adult human tutors are believed to be d = 0.3, 1.0, and 2.0 respectively. This review did not confirm these beliefs. Instead, it found that the effect size of human tutoring was much lower: d = 0.79. Moreover, the effect size of intelligent tutoring systems was 0.76, so they are nearly as effective as human tutoring.
   </details>
 
   <details>
@@ -333,7 +333,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    A model is used to show that teaching behaviors which influence student learning have five interrelated functions: diagnosis, prescription, presentation, monitoring, and feedback. Fourteen major findings from field research report relationships between academic learning time and student achievement, and a relationship is shown between teaching processes and classroom environment in relation to student learning. (JN)
   </details>
 
   <details>
@@ -345,7 +345,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Reviews research that indicates that students achieve more when their teachers emphasize academic objectives in establishing expectations and allocating time, use effective management strategies to ensure that academic learning time is maximized, pace students through the curriculum briskly but in small steps that allow high rates of success, and adapt curriculum materials based on their knowledge of students' characteristics. Qualitative research also indicates that teachers differ in how they perform such instructional behaviors as giving information, asking questions, and providing feedback. Context-specific effects are noted with respect to grade level, socioeconomic status (SES), ability and affect, and teacher intentions. It is concluded that any attempt to improve student achievement must be based on the development of effective teaching behavior. (66 ref) (PsycINFO Database Record (c) 2016 APA, all rights reserved)
   </details>
 
   <details>
@@ -357,7 +357,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Cognitive load theory (CLT) originated in the 1980s and underwent substantial development and expansion in the 1990s by researchers from around the globe. As the articles in this special issue demonstrate, it is a major theory providing a framework for investigations into cognitive processes and instructional design. By simultaneously considering the structure of information and the cognitive architecture that allows learners to process that information, cognitive load theorists have been able to generate a unique variety of new and sometimes counterintuitive instructional designs and procedures.
   </details>
 
   <details>
@@ -369,7 +369,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Traditionally, Cognitive Load Theory (CLT) has focused on instructional methods to decrease extraneous cognitive load so that available cognitive resources can be fully devoted to learning. This article strengthens the cognitive base of CLT by linking cognitive processes to the processes used by biological evolution. The article discusses recent developments in CLT related to the current view in instructional design that real-life tasks should be the driving force for complex learning. First, the complexity, or intrinsic cognitive load, of such tasks is often high so that new methods are needed to manage cognitive load. Second, complex learning is a lengthy process requiring learners’ motivational states and levels of expertise development to be taken into account. Third, this perspective requires more advanced methods to measure expertise and cognitive load so that instruction can be flexibly adapted to individual learners’ needs. Experimental studies are reviewed to illustrate these recent developments. Guidelines for future research are provided.
   </details>
 
   <details>
@@ -381,7 +381,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    A lognormal model for the response times of a person on a set of test items is investigated. The model has a parameter structure analogous to the two-parameter logistic response models in item response theory, with a parameter for the speed of each person as well as parameters for the time intensity and discriminating power of each item. It is shown how these parameters can be estimated by a Markov chain Monte Carlo method (Gibbs sampler). The method was used to analyze response times for the adaptive version of a test from the Armed Services Vocational Aptitude Battery. The same data set was used to test the validity of the model against a normal model using posterior predictive checks on the response times. The lognormal model showed an excellent fit to the data, whereas the normal model seemed unable to allow for a characteristic skewness of the response time distributions. The addition of an equality constraint on the discrimination parameters led only to a slight loss of fit. The potential use of the model for improving the daily practice of testing is indicated.
   </details>
 
   <details>
@@ -393,7 +393,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Current modeling of response times on test items has been strongly influenced by the paradigm of experimental reaction-time research in psychology. For instance, some of the models have a parameter structure that was chosen to represent a speed-accuracy tradeoff, while others equate speed directly with response time. Also, several response-time models seem to be unclear as to the level of parametrization they represent. A hierarchical framework for modeling speed and accuracy on test items is presented as an alternative to these models. The framework allows a “plug-and-play approach” with alternative choices of models for the response and response-time distributions as well as the distributions of their parameters. Bayesian treatment of the framework with Markov chain Monte Carlo (MCMC) computation facilitates the approach. Use of the framework is illustrated for the choice of a normal-ogive response model, a lognormal model for the response times, and multivariate normal models for their parameters with Gibbs sampling from the joint posterior distribution.
   </details>
 
   <details>
@@ -405,7 +405,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    With computerized testing, it is possible to record both the responses of test takers to test questions (i.e., items) and the amount of time spent by a test taker in responding to each question. Various models have been proposed that take into account both test-taker ability and working speed, with the many models assuming a constant working speed throughout the test. The constant working speed assumption may be inappropriate for various reasons. For example, a test taker may need to adjust the pace due to time mismanagement, or a test taker who started out working too fast may reduce the working speed to improve accuracy. A model is proposed here that allows for variable working speed. An illustration of the model using the Amsterdam Chess Test data is provided.
   </details>
 
   <details>
@@ -417,7 +417,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This edited volume gives a new and integrated introduction to item re­ sponse models (predominantly used in measurement applications in psy­ chology, education, and other social science areas) from the viewpoint of the statistical theory of generalized linear and nonlinear mixed models. Moreover, this new framework aHows the domain of item response mod­ els to be co-ordinated and broadened to emphasize their explanatory uses beyond their standard descriptive uses. The basic explanatory principle is that item responses can be modeled as a function of predictors of various kinds. The predictors can be (a) char­ acteristics of items, of persons, and of combinations of persons and items; they can be (b) observed or latent (of either items or persons); and they can be (c) latent continuous or latent categorical. Thus, a broad range of models can be generated, including a wide range of extant item response models as weH as some new ones. Within this range, models with explana­ tory predictors are given special attention, but we also discuss descriptive models. Note that the 'item responses' that we are referring to are not just the traditional 'test data,' but are broadly conceived as categorical data from a repeated observations design. Hence, data from studies with repeated-observations experimental designs, or with longitudinal designs, mayaIso be modeled. The intended audience for this volume is rather broad.
   </details>
 
   <details>
@@ -429,7 +429,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Bayesian Knowledge Tracing (BKT) model is a student knowledge state model that currently widely used in intelligent teaching system. However, BKT still has limitations in capturing dynamic changes during the student learning process and handling multiple characteristics as well as individualized needs. To address the above problems, this paper proposes an adaptive BKT model based on students' personalized features. The core of the model lies in constructing a feature set based on students' previous personalized question-answering data, and dynamically classifying students' current learning situation accordingly. The dynamic classification method classifies students by analyzing their question-answering performance in real time and adjusts the BKT parameters accordingly to more accurately reflect their current knowledge status. On this basis, it predicts students' future learning status and question-answering performance. Comparative experiments show that the model can better adapt to individual learning differences and significantly improve the accuracy of predicting students' future question-answering correctness.
   </details>
 
   <details>
@@ -441,7 +441,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This article describes the application of a dynamic, or process assessment, model for children with reading problems. The purpose of the investigation was to evaluate individual differences in the number of learning trials needed by 36 children (mean age = 7.2) to reach criterion on training words during phonics instruction on two short vowels. Furthermore, the study investigated the extent to which such a process measure of learning rate during training was related to learning outcomes or products (i.e., retention and posttest performance). Findings are discussed in light of their implications for assessment and educational research or practice.
   </details>
 
   <details>
@@ -453,7 +453,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Cognitive load research has shown that learning from worked-out examples, in comparison to problem solving, is very effective during the initial stages of cognitive skill acquisition. In later stages, however, solving problems is superior. In this contribution, theoretical analyses of different types of cognitive load and their changes over the stages of skill acquisition are presented. Two basic arguments are put forth: (a) Intrinsic cognitive load gradually decreases so that a gradual increase of problem-solving demands is possible without inducing cognitive overload. (b) In contrast to the earlier stages, different learner activities during the later stages constitute either germane or extraneous load, because different instructional goals are to be achieved. Based on these analyses, we propose a fading procedure in which problem-solving elements are successively integrated into example study until the learners are expected to solve problems on their own. Empirical evidence supporting this fading procedure is provided, and future research is proposed that focuses on how to ensure that the fading procedure is adaptive to the learners’ prior knowledge levels.
   </details>
 
   <details>
@@ -465,7 +465,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The knowledge required to solve algebra manipulation problems and procedures designed to hasten knowledge acquisition were studied in a series of five experiments. It was hypothesized that, as occurs in other domains, algebra problem-solving skill requires a large number of schemas and that schema acquisition is retarded by conventional problem-solving search techniques. Experiment 1, using Year 9, Year 11, and university mathematics students, found that the more experienced students had a better cognitive representation of algebraic equations than less experienced students as measured by their ability to (a) recall equations, and (b) distinguish between perceptually similar equations on the basis of solution mode. Experiments 2 through 5 studied the use of worked examples as a means of facilitating the acquisition of knowledge needed for effective problem solving. It was found that not only did worked examples, as expected, require considerably less time to process than conventional problems, but that subsequent problems similar to the initial ones also were solved more rapidly. Furthermore, decreased solution time was accompanied by a decrease in the number of mathematical errors. Both of these findings were specific to problems identical in structure to the initial ones. It was concluded that for novice problem solvers, general algebra rules are reflected in only a limited number of schemas. Abstraction of general rules from schemas may occur only with considerable practice and exposure to a wider range of schemas.
   </details>
 
   <details>
@@ -477,7 +477,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    To better understand the self-regulated learning process in online learning environments, this research applied a data mining method, the two-layer hidden Markov model (TL-HMM), to explore the patterns of learning activities. We analyzed 25,818 entries of behavior log data from an intelligent tutoring system. Results indicated that students with different learning outcomes demonstrated distinct learning patterns. Students who failed a problem set exhibited more passive learning behaviors and could hardly learn from practice, while students who mastered a problem set could effectively regulate their learning. Furthermore, we extended the use of TL-HMM to predicting learning outcome from behavior sequences and checked through cross-validation. TL-HMM is demonstrated helpful to gain insight into learners’ interactions with online learning environments. In practice, TL-HMM could be embedded in intelligent tutoring systems to monitor learning behaviors and learner status, so as to detect the difficulties of learners and facilitate learning.
   </details>
 
   <details>
@@ -489,7 +489,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    With the onset of online education via technology-enhanced learning platforms, large amount of educational data is being generated in the form of logs, clickstreams, performance, etc. These Virtual Learning Environments provide an opportunity to the researchers for the application of educational data mining and learning analytics, for mining the students learning behavior. This further helps them in data-driven decision making through timely intervention via early warning systems (EWS), reflecting and optimizing educational environments, and refining pedagogical designs. In this, the role of EWS is to timely identify the at-risk students. This study proposes a modeling methodology deploying interpretable Hidden Markov Model for mining of the sequential learning behavior built upon derived performance features from light-weight assessments. The public OULA dataset having diversified courses and 32 593 student records is used for validation. The results on the unseen test data achieve a classification accuracy ranging from 87.67% to 94.83% and AUC from 0.927 to 0.989, and outperforms other baseline models. For implementation of EWS, the study also predicts the optimal time-period, during the first and second quarter of the course with sufficient number of light-weight assessments in place. With the outcomes, this study tries to establish an efficient generalized modeling framework that may lead the higher educational institutes toward sustainable development.
   </details>
 
   <details>
@@ -501,7 +501,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this experimental study, use of Computer Assisted Instruction (CAI) followed by use of an Intelligent Tutoring System (CAI+ITS) was compared to the use of CAI (CAI only) in tutoring students on the topic of Algebraic Expression. Two groups of students participated in the study. One group of 32 students studied algebraic expression in a CAI learning environment, while the other group of 30 students was in a CAI and ITS (CAI+ITS) environment. Before the experimental treatment began, subjects were given a pre-test on algebraic expression. A posttest was also given at the end of the study. The experimental treatment was administered in eight sessions with one hour per session. For the first stage of the study, both groups of subjects studied algebraic expression in a CAI environment. In the second stage, subjects from the CAI group continued with a tutoring session using the drill and practice section of the CAI package, whereas subjects from the CAI+ITS environment continued their learning using the ITS tutorial. The results of the study showed that there was a significant difference in the students’ achievement in algebraic expression between students who learned with CAI+ITS and who learned with CAI only as the delivery system. The findings of the study indicated that CAI+ITS was more effective in helping students learn algebraic expression as compared to using CAI alone. This study suggests that educators and software developers should focus on the development of ITS based learning tools or integrate ITS elements in courseware development rather than developing a mere CAI tool.
   </details>
 
   <details>
@@ -513,7 +513,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Time-on-task effects on response accuracy in digital reading tasks were examined using PISA 2009 data (N = 34,062, 19 countries/economies). As a baseline, task responses were explained by time on task, tasks' easiness, and persons' digital reading skill (Model 1). Model 2 added a quadratic time-on-task effect, persons' comprehension skill and tasks' navigation demands as predictors. In each country, linear and quadratic time-on-task effects were moderated by person and task characteristics. Strongly positive linear time-on-task effects were found for persons being poor digital readers (Model 1) and poor comprehenders (Model 2), which decreased with increasing skill. Positive linear time-on-task effects were found for hard tasks (Model 1) and tasks high in navigation demands (Model 2). For easy tasks and tasks low in navigation demands, the time-on-task effects were negative, or close to zero, respectively. A negative quadratic component of the time-on-task effect was more pronounced for strong comprehenders, while the linear component was weaker. Correspondingly, for tasks high in navigation demands the negative quadratic component to the time-on-task effect was weaker, and the linear component was stronger. These results are in line with a dual-processing account of digital reading that distinguishes automatic reading components from resource-demanding regulation and navigation processes.
   </details>
 
   <details>
@@ -525,7 +525,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This research evaluated mathematics achievement and attitudinal effects of three instructional methods directed in varying degrees toward accommodating diversity in students' prior achievement. Two randomized field experiments of 16 and 18 weeks' duration, respectively, compared an individualized model, Team Assisted Individualization (TAI); an ability grouped model, Ability Grouped Active Teaching (AGAT); a group-paced model, the Missouri Mathematics Program (MMP); and, in Experiment 2 only, untreated control classes. The first experiment involved pupils in grades 4-6, while the second experiment was conducted with pupils in grades 3-5. Nested analysis of variance on CTBS Computations scores adjusted for pretests indicated that in both experiments, TAI and AGAT exceeded MMP. In Experiment 2, TAI, AGAT, and MMP also exceeded control. No interactions with prior achievement were found. Effects on Liking of Math Class and (in Experiment 1) Self-Concept in Math favored TAI. (Author/MNS)
   </details>
 
   <details>
@@ -537,7 +537,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Panel estimation techniques are utilized to estimate econometric models of the determinants of mathematics achievement for a nationally representative sample of US high school students from the National Education Longitudinal Studies program (NELS88). Among the results, several relate to variables discussed as potentially important policy variables. Extra time spent on mathematics homework increases student test scores while extra hours per day of watching television negatively impacts math test scores. The results of the estimations also indicate the positive and significant effect of an increase in the number of minutes of each class period for mathematics. Given the means and standard deviations of these variables, 3 hours per week for math homework, 2.6 hours per day of watching TV, 52 minutes per math class period, as well as the relatively large effects associated with these variables, the potential for manipulating them to enhance math achievement seems like a real possibility.
   </details>
 
   <details>
@@ -549,7 +549,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Information and communication technologies hold much promise for use in education in developing countries. This study reports on an evaluation conducted on the introduction of computers in the delivery of the mathematics curriculum in one of the provinces of South Africa. Although the request was for an outcome evaluation very early in the implementation of the program, it was tailored in such a way as to fulfill a more formative role. Despite substantial variability in implementation, and in most cases with very weak exposure of the learners to the intervention, sufficient evidence emerged to indicate that this mode of curriculum delivery may be effective. Improvement in mathematics performance was related to a range of variables: some concerned classroom teaching practices, some referred to social differences between the learners, and some to the specific intervention. The strongest of these predictors in the sample was the strength of the intervention: the more time learners spent on using the software to study mathematics, the more improvement they showed from 1 year to the next in their performance in the subject.
   </details>
 
   <details>
@@ -561,7 +561,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Descriptive data on allocated time, engaged time, and academic learning time are presented and examined. The thesis of this paper is that the marked variability in these three variables is the most potent explanatory variable to account for variability in student achievement, after initial aptitude has been removed as a predictor variable. A corollary of this thesis is that interactive teaching behaviors can only be understood through their effects on academic learning time. (MP)
   </details>
 
   <details>
@@ -573,7 +573,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Declining mathematics scores are forcing school administrators to look for nontraditional ways to educate students. Adaptive learning systems have been implemented in schools with the purpose of providing personalized learning opportunities for students. The purpose of this experimental study was to investigate the effect of adaptive supplemental lessons on elementary students’ achievement in mathematics. This study was conducted in a large, urban school district. This study utilized a quasi-experimental research design with a sample size of 7,114 students in Grades 3–6 in the control group (2015–2016 school year) and 7,733 students in Grades 3–6 in the treatment group (2016–2017 school year). The treatment group received supplemental adaptive mathematics lessons within their regular mathematics block. The adaptive learning system used was LGL Math Edge. This study also included analysis of the effects of adaptive learning on various subgroups, as well as the relationship between time spent in LGL Math Edge and mathematics achievement from pretest to posttest. Secondary data were used to compare the mean gain score of the adaptive, diagnostic mathematics assessment (ADAM) pretest and posttest between the control and treatment groups. The results of this study showed that there was a statistically significant difference in student achievement when students received the treatment of adaptive learning. This was true for all subgroups examined. The results of this study also showed there was a statistically significant relationship between the amount of time students spend in LGL Math Edge and mathematics achievement on ADAM. The findings thus revealed that using supplemental adaptive lessons in addition to conventional instruction improved student achievement in mathematics. PRE
   </details>
 
   <details>
@@ -585,7 +585,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this paper we introduce new tools for measuring and visualizing the learning process of students in large classes where students are required to use a computer-supported problem solving learning environment (PSLE) either in class or as homework. These learning environments give students unlimited opportunities to propose a solution to the problem and give them immediate feedback. We show how to create a graphical representation, the Problem Solving Markov Model (PSMM), of the set of all attempted solutions proposed by the class. Each node in the PSMM consists of an equivalence class of attempted solutions and each edge corresponds to a transition from one attempted solution to another in one step. The edges are typically labeled with the number of times a students went directly from one attempted solution to the next, or with the probability of going between the two nodes. We give examples from two tools: CalcTutor for Calculus problems, and Spinoza for Java or Python programming, and we provide several pedagogical applications of PSMMs which give the instructor a simple way to obtain a highly nuanced understanding of mastery of the problem solving process for individual students and for the class as a whole.
   </details>
 
   <details>
