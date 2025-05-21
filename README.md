@@ -93,7 +93,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    We present an attempt to move forward in developing a skill theory in mathematical learning. Since mathematical skill learning can be considered as a process that moves through a set of states in a sequence of steps, we apply upon it basic results from finite Markov chain theory. Thus, we give a new approach to the measurement of skill learning abilities, and succeed in measuring the performance of groups of students during a mathematical skill task. Knowledge of this measure may be useful to the teacher of mathematics in helping his or her students to improve skill learning.
   </details>
 
   <details>
@@ -105,7 +105,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this paper we propose a model to study the appropriation of knowledge of one student in a non-collaborative online class. We formulate a stochastic model based on the quality of the teacher's class and the affinity of the student to understand the sessions, under the assumption that previous sessions have some influence in the understanding of the next sessions. This assumption implies that the process is not even a Markov process. This kind of situation appears in seminars and classes with many different sessions. We derive some recursive expressions for the distribution of the number of sessions that the student comprehends. Furthermore, we study the convergence of this distribution and study the speed of this convergence through some numerical examples.
   </details>
 
   <details>
@@ -117,7 +117,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Motivated by two survey data samples (student and teacher) obtained from institutional records in some school establishments of Mayotte, this paper has two main objectives. Firstly, a global application of statistical models for the analysis of students’ attitude toward mathematics (difficulty, interest or perception, value of the level in mathematics and others attitudes such as social factors, school environment) together with the teachers’ attitude toward mathematics (difficult courses, professional training experience, teaching preparation time, etc). Some didactic analysis have helped to reach conclusions to ensure the consistency of certain characterization. Secondly, we develop a theoretical methodology for parameter estimation of the density of the students’ level in mathematics and teachers’ attitude in the framework of stable and extreme values distributions which are suitable for studying non Gaussian and heavy-tailed distributions. More precisely, we described a new estimation method based on the tail regression estimation method for stable distributions. For the extreme family distributions, we consider a mixture estimation using the EM algorithm. Finaly, we end with a brief discussion on a current experimentation of the statistical and didactic analysis results in the form of Lesson study involving several teachers from the island of Mayotte.
   </details>
 
   <details>
@@ -129,7 +129,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Educational data mining (EDM) is an emerging interdisciplinary research area that deals with the development of methods to explore data originating in an educational context. EDM uses computational approaches to analyze educational data in order to study educational questions. This paper surveys the most relevant studies carried out in this field to date. First, it introduces EDM and describes the different groups of user, types of educational environments, and the data they provide. It then goes on to list the most typical/common tasks in the educational environment that have been resolved through data-mining techniques, and finally, some of the most promising future lines of research are discussed.
   </details>
 
   <details>
@@ -141,7 +141,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Since the end of the prolonged civil war in Liberia in 2003, general enrolment in secondary schools has increased, a scenario that necessitates a signi cant amount of resources. Enrollment forecasting is a critical component of resource allocation budgeting and overall education sector growth planning. Education in primary and secondary schools receives a signi cant amount of public funding. It’s critical to keep track of Secondary School students’ overall development from enrollment to graduation in the three years allotted. The research was carried out in the Monrovia Consolidated School System (MCSS) to demonstrate the stochastic process of absorbing Markov Chain Techniques in studying the progress of students from class to class, to determine secondary completion and dropout rates, retention rates, and the expected duration of schooling by gender in the secondary schools of the Monrovia Consolidated School System (MCSS) from 2nd to 12th grades. The Markov Model concept has been widely utilized in single institutions of learning across the world, mostly in elementary and secondary schools, as well as universities and colleges, although there is no documented history of such use in Liberia. From 2017 to 2020, the target demographic was secondary enrolled students at the MCSS’s William V. S. Tubman, G.W. Gibson, and D-Twe high schools. Our ndings indicated that male students complete more classes than female students, and female dropout rates were greater at all levels when compared to male peers. Female students had a lower duration rate of schooling than their male counterparts, and the overall conclusion revealed that retention rates were lowest in 10th grade and greatest in 12th grade. Data source: O ce of the Director for public a airs and media services; MCSS.
   </details>
 
   <details>
@@ -153,7 +153,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Markov chains are a particularly powerful and widely used tool for analyzing a variety of stochastic (probabilistic) systems over time. This monograph will present a series of Markov models, starting from the basic models and then building up to higher-order models. Included in the higher-order discussions are multivariate models, higher-order multivariate models, and higher-order hidden models. In each case, the focus is on the important kinds of applications that can be made with the class of models being considered in the current chapter. Special attention is given to numerical algorithms that can efficiently solve the models.
   </details>
 
   <details>
@@ -165,7 +165,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Background: The students’ progression towards completing their higher education degrees possesses stochastic characteristics, and can therefore be modelled as an absorbing Markov chain. Such application would have a high practical value and offer great opportunities for implementation in practice. Objectives: The aim of the paper is to develop a stochastic model for estimation and continuous monitoring of various quality and effectiveness indicators of a given higher education study programme. Method: The study programme is modelled by a finite Markov chain with five transient and two absorbing states. The probability transition matrix is constructed. The quantitative characteristics of the absorbing Markov chain, like the expected time until absorption and the probabilities of absorption, are used to determine chosen indicators of the programme. Results: The model is applied to investigate the pattern of students’ enrolment and their academic performance in a Slovenian higher education institution. Based on the students’ intake records, the transition matrix was developed considering eight consecutive academic seasons from 2008/09 until 2016/17. The students’ progression towards the next stage of the study programme was estimated. The expected time that a student spends at a particular stage as well as the expected duration of the study is determined. The graduation and withdrawal probabilities were obtained. Besides, a prediction on the students’ enrolment for the next three academic years was made. The results were interpreted and discussed. Conclusion: The analysis presented is applicable for all higher education stakeholders. It is especially useful for a higher education institution’s managers seeing that it provides useful information to plan improvements regarding the quality and effectiveness of their study programmes to achieve better position in the educational market.
   </details>
 
   <details>
@@ -177,7 +177,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Therefore, Markov Chains: Models, Algorithms and Applications outlines recent developments of Markov chain models for modeling queueing sequences, Internet, re-manufacturing systems, reverse logistics, inventory systems, bio-informatics, DNA sequences, genetic networks, data mining, and many other practical systems.
   </details>
 
   <details>
@@ -189,7 +189,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The analysis of log data generated by online educational systems is an important task for improving the systems, and furthering our knowledge of how students learn. This paper uses previously unseen log data from Edulab, the largest provider of digital learning for mathematics in Denmark, to analyse the sessions of its users, where 1.08 million student sessions are extracted from a subset of their data. We propose to model students as a distribution of different underlying student behaviours, where the sequence of actions from each session belongs to an underlying student behaviour. We model student behaviour as Markov chains, such that a student is modelled as a distribution of Markov chains, which are estimated using a modified k-means clustering algorithm. The resulting Markov chains are readily interpretable, and in a qualitative analysis around 125,000 student sessions are identified as exhibiting unproductive student behaviour. Based on our results this student representation is promising, especially for educational systems offering many different learning usages, and offers an alternative to common approaches like modelling student behaviour as a single Markov chain often done in the literature.
   </details>
 
   <details>
@@ -201,7 +201,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Virtual reality-based instruction is becoming an important resource to improve learning outcomes and communicate hands-on skills in science laboratory courses. Our study attempts first to investigate whether a Markov chain model can predict the students’ performance in conducting an experiment and whether simulations improve learner achievement in handling lab equipment and conducting science experiments in physical labs. In the present study, three cohorts of graduate students are trained on a microscopy experiment using different teaching methodologies. The effectiveness of the teaching strategies is evaluated by observing the sequences of students’ actions, while engaging in the microscopy experiment in real-lab situations. The students’ ability in performing the science experiment is estimated by sequential analysis using a Markov chain model. According to the Markov chain analysis, the students who are trained via a virtual reality software exhibit a higher probability to perform the steps of the experiment without difficulty and without assistance than their fellow students who attend more traditional training scenarios. Our study indicates that a Markov chain model is a powerful tool that can lead to a dynamic evaluation of the students’ performance in science experiments by tracing the students’ knowledge states and by predicting their innate abilities.
   </details>
 
   <details>
@@ -213,7 +213,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The ability to predict student performance in a course or program creates opportunities to improve educational outcomes. With effective performance prediction approaches, instructors can allocate resources and instruction more accurately. Research in this area seeks to identify features that can be used to make predictions, to identify algorithms that can improve predictions, and to quantify aspects of student performance. Moreover, research in predicting student performance seeks to determine interrelated features and to identify the underlying reasons why certain features work better than others. This working group report presents a systematic literature review of work in the area of predicting student performance. Our analysis shows a clearly increasing amount of research in this area, as well as an increasing variety of techniques used. At the same time, the review uncovered a number of issues with research quality that drives a need for the community to provide more detailed reporting of methods and results and to increase efforts to validate and replicate work.
   </details>
 
   <details>
@@ -225,7 +225,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Bayesian Knowledge Tracing (BKT) is a commonly used approach for student modeling, and Long Short Term Memory (LSTM) is a versatile model that can be applied to a wide range of tasks, such as language translation. In this work, we directly compared three models: BKT, its variant Intervention-BKT (IBKT), and LSTM, on two types of student modeling tasks: post-test scores prediction and learning gains prediction. Additionally, while previous work on student learning has often used skill/knowledge components identified by domain experts, we incorporated an automatic skill discovery method (SK), which includes a nonparametric prior over the exercise-skill assignments, to all three models. Thus, we explored a total of six models: BKT, BKT+SK, IBKT, IBKT+SK, LSTM, and LSTM+SK. Two training datasets were employed, one was collected from a natural language physics intelligent tutoring system named Cordillera, and the other was from a standard probability intelligent tutoring system named Pyrenees. Overall, our results showed that BKT and BKT+SK outperformed the others on predicting post-test scores, whereas LSTM and LSTM+SK achieved the highest accuracy, F1-measure, and area under the ROC curve (AUC) on predicting learning gains. Furthermore, we demonstrated that by combining SK with the BKT model, BKT+SK could reliably predict post-test scores using only the earliest 50% of the entire training sequences. For learning gain early prediction, using the earliest 70% of the entire sequences, LSTM can deliver a comparable prediction as using the entire training sequences. The findings yield a learning environment that can foretell students’ performance and learning gains early, and can render adaptive pedagogical strategy accordingly.
   </details>
 
   <details>
@@ -237,7 +237,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Knowledge tracing—where a machine models the knowledge of a student as they interact with coursework—is a well established problem in computer supported education. Though effectively modeling student knowledge would have high educational impact, the task has many inherent challenges. In this paper we explore the utility of using Recurrent Neural Networks (RNNs) to model student learning. The RNN family of models have important advantages over previous methods in that they do not require the explicit encoding of human domain knowledge, and can capture more complex representations of student knowledge. Using neural networks results in substantial improvements in prediction performance on a range of knowledge tracing datasets. Moreover the learned model can be used for intelligent curriculum design and allows straightforward interpretation and discovery of structure in student tasks. These results suggest a promising new line of research for knowledge tracing and an exemplary application task for RNNs
   </details>
 
   <details>
