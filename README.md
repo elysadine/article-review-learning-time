@@ -1197,7 +1197,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The present paper builds on the literature that emphasizes the importance of self-regulation for academic learning or self-regulated learning (SRL). SRL research has traditionally focused on count measures of SRL processing events, however, another important measure of SRL is being recognized: time-on-task. The current study captures the influence of time spent on learning performance. We study time-on-task—from the perspective of self-regulated learning—in the context of clinical reasoning in an intelligent tutoring system. Specifically, we examine the link between the time spent in the three phases of SRL (forethought, performance, and self-reflection) and confidence in diagnosis and diagnosis correctness. Our analyses revealed non-significant links between the time spent in the three phases of SRL and diagnosis correctness. On the other hand, significant associations were found between the time spent in the three phases of SRL and confidence in diagnosis (confidence in diagnosis was: positively associated with time spent in forethought phase; negatively associated with time spent in performance phase; and, positively associated with time spent in self-reflection phase). In addition, confidence in diagnosis was positively linked to diagnosis correctness. Considering learning time offers an alternative perspective on regulation of learning and problem-solving performance. We conclude by offering implications of our findings and recommendations for further research.
   </details>
 
   <details>
@@ -1209,7 +1209,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Computer-based learning environments can easily collect student response times. These can be used for multiple purposes, such as modeling student knowledge and affect, domain modeling, and cheating detection. However, to fully leverage them, it is essential to understand the properties of response times and associated caveats. In this study, we delve into the properties of response time distributions, including the influence of aberrant student behavior on response times. We then provide an overview of modeling approaches that use response times and discuss potential applications of response times for guiding the adaptive behavior of learning environments.
   </details>
 
   <details>
@@ -1221,7 +1221,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The advancements in the education sector made e-learning more popular in recent years. The velocity of learning content creation and its availability is also growing exponentially day after day. It is challenging for a learner to find a learning path for a course with a vast content repository. So, recommending a learning path helps the learners streamline the learning materials systematically and achieve their goals. This article proposes a learning path recommendation approach focused on knowledge building and learning performance analysis. The model considers both static and dynamic learner parameters for learning path generation. The difficulty level of the learning resources is tuned based on the real-time performance analysis of the students. The learning resources are recommended based on learning preferences and the ability of a learner to learn the specific learning resource. The model also predicts the learning time and the expected score for each learner. Root Mean Square Deviation and Coefficient of Determination (R-Squared error) measures are used to find the correctness of the prediction. The model is also checked for its adaptivity to the learners’ changing behavior and diversity of the LOs recommended for different learners. Ninety-six undergraduate learners participated in the study. The experimentations are conducted with 530 LOs from selected courses. The comparison results with three existing models show a better performance from the proposed approach with an average accuracy rise of 30% in learning path prediction based on the expected duration of learning 27.8% in expected score prediction with the second-best performing model. It is observed that the real-time learning analytics using the implicit learner log data benefits the recommendation process. LO rating strongly indicated the enhancement of learner satisfaction and experience with a rise of 25.5% when comparing the rating share with the second-best model.
   </details>
 
   <details>
@@ -1233,7 +1233,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Temporal information plays an important role in student performance prediction, so two interpretable feature factors, namely enthusiasm and stability, are extracted from online and offline blended temporal learning data, which can characterize students’ learning attitudes. A new transfer predicting model called LGES is proposed. The contrast experiments with and without the feature factors, and the experiments with and without transfer learning are carried out. The results show that the proposed model significantly improves the accuracy and the discrimination ability. Furthermore, it confirms that both transfer learning and the two feature factors can effectively improve prediction performance. The ablation experiment of datasets is conducted. It proves that the model trained on the blended data achieved the best performance, and points that the importance of offline data in identifying truly failing students.
   </details>
 
   <details>
@@ -1245,7 +1245,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In a blended learning environment, student learning necessitates a series of decisions made by students. These decisions include selecting which elements of the blend to utilize for specific learning tasks, deciding when to engage in these tasks, and choosing the appropriate learning aids. While research on blended learning typically focuses on designing these learning environments, it often neglects the examination of their actual utilization. This research, set in a naturalistic setting, investigates various patterns of students’ learning behaviors by categorizing their use of e-tutorial learning activities and their timing across different phases. The study was conducted among 1276 students participating in an eight-week introductory mathematics and statistics course delivered in a blended instructional format. By explicitly distinguishing between the first phase (which involves preparing for a tutorial session), the second phase (focused on preparing for a quiz session), and the third phase (which centers around preparing for the final exam), this study aims to enhance our understanding of the timing decisions students make during their learning journey. Our research reveals the existence of six distinct learning profiles characterized by variations in the frequency and timing of their engagement with learning activities. Moreover, different profiles come with different learning dispositions and cultural dimensions. The primary significance of this research resides in identifying not just the dispositions that are crucial in specific learning processes but also in understanding the role of those dispositions in the timing of the learning experiences.
   </details>
 
   <details>
@@ -1257,7 +1257,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    As a prominent aspect of modeling learners in the education domain, knowledge tracing attempts to model learner’s cognitive process, and it has been studied for nearly 30 years. Driven by the rapid advancements in deep learning techniques, deep neural networks have been recently adopted for knowledge tracing and have exhibited unique advantages and capabilities. Due to the complex multilayer structure of deep neural networks and their ”black box” operations, these deep learning based knowledge tracing (DLKT) models also suffer from non-transparent decision processes. The lack of interpretability has painfully impeded DLKT models’ practical applications, as they require the user to trust in the model’s output. To tackle such a critical issue for today’s DLKT models, we present an interpreting method by leveraging explainable artificial intelligence (xAI) techniques. Specifically, the interpreting method focuses on understanding the DLKT model’s predictions from the perspective of its sequential inputs. We conduct comprehensive evaluations to validate the feasibility and effectiveness of the proposed interpreting method at the skill-answer pair level. Moreover, the interpreting results also capture the skill-level semantic information, including the skill-specific difference, distance and inner relationships. This work is a solid step towards fully explainable and practical knowledge tracing models for intelligent education.
   </details>
 
   <details>
@@ -1269,7 +1269,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Self-regulated learning (SRL), or the ability for a learner to monitor and change their cognitive, affective, metacognitive, and motivational processes, is a critical skill to enact, especially while learning about difficult topics within an intelligent tutoring system (ITS). Learners’ enactment of SRL behaviors during learning with ITSs has been extensively studied within the human-computer interaction field but few studies have examined the extent to which learners’ SRL behaviors quantitatively demonstrate a functional system (i.e., equilibrium of repetitive and novel behaviors). However, current analytical approaches do not evaluate how the functionality of learners’ SRL behaviors unfolds as time on task progresses. This paper reviews two analytical approaches, both based within categorical auto-recurrence quantification analysis (aRQA), for examining how learners’ SRL complex behaviors emerge during learning with an ITS. The first approach, binned categorical aRQA, segments learners’ SRL behaviors into bins and performs categorical aRQA on the SRL behaviors enacted within those bins to produce metrics of complexity that demonstrate how learners’ functionality of their SRL systems change over time. The second approach, cumulative categorical aRQA, continuously calculates complexity metrics as learners enact SRL behaviors to identify the evolution of learners’ functional SRL. These two approaches allow researchers to identify how the functionality of SRL behaviors change over time in relationship to the occurrences within the ITS environment. From this discussion, we provide actionable implications for contributing to how learners’ SRL functionality can be visualized and scaffolded during learning with an ITS.
   </details>
 
   <details>
@@ -1281,7 +1281,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In educational assessment, behavioral engagement refers to the extent to which learners actively participate in the assessment process and are motivated to perform well. Behavioral engagement plays a crucial role in the design, use, and interpretation of educational assessments because learners who are engaged in the assessment process are likely to perform better and retain the information being assessed than those who fail to make enough effort when responding to test items. To date, researchers have identified various indicators of behavioral engagement in digital assessments, such as spending sufficient time on each item or task, attempting to answer all questions, and interacting with the assessment environment. Assessment analytics can enable researchers to use these indicators to track, analyze, and interpret learners’ behavioral engagement in digital assessments. This chapter discusses the role of behavioral engagement in digital assessments, including computer-based tests and intelligent tutoring systems. We examine research on behavioral engagement and explain how it can be utilized in assessment analytics. As we describe state-of-the-art methods for modeling and interpreting behavioral engagement, we also present real-life case studies to illustrate these methods.
   </details>
 
   <details>
@@ -1293,7 +1293,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Knowledge tracing (KT) is an essential task in intellectual education, which measures learners’ ability to learn new knowledge by collecting historical learning information from learners. With the introduction of Recurrent Neural Networks (RNN) and Transformer into the field of KT, although effective, they focus only on the temporal order in which the learner information is affected. To model accurately, we propose a KT model BPKT (Bayesian-Attention mechanism Progressive data flow for KT) that allows exercise embedding to be layered in different forms and incorporated into the model multiple times. The BPKT model integrates the relationship between exercises covering knowledge points in both the temporal and spatial aspects, and defines a Bayesian-Attention mechanism based on this, with an in-depth analysis of the realistic meaning of the micro-parameters Q, K, and V in the mechanism. Through experiments on four real benchmark datasets, the results show that the BPKT model is helpful for predicting learners’ future responses on large-scale datasets.
   </details>
 
   <details>
@@ -1305,7 +1305,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The computational model of school achievement represents a novel approach to theorizing school achievement, conceptualizing educational interventions as modifications to students’ learning curves. By modeling the process and products of educational achievement simultaneously, this tool addresses several unresolved questions in educational psychology through computational modeling. For example, prior research has highlighted perplexing inconsistencies in the relationship between time spent on task and academic achievement. The present simulation reveals that even under the assumption that time-on-task always positively contributes to achievement, the correlations between time-on-task and achievement can vary substantially across different contexts and, in some cases, may even be negative. Analysis of the correlation between prior knowledge and knowledge gains uncovers similar patterns. The computational model of school achievement presents a framework, bolstered through simulation, enabling researchers to formalize their assumptions, address ongoing debates, and design tailored interventions that consider both the school environment and individual student contexts.
   </details>
 
   <details>
@@ -1317,7 +1317,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Learning interest (internal driving motivation) and learning persistence (explicit behaviors) are important factors affecting students’ academic development, yet whether they operate reciprocally and how to bolster them are still issues requiring attention. This study aimed to examine the reciprocal relationship between learning interest and persistence as well as the potential mechanisms behind the relationship from the perspectives of internal self-regulation and external feedback (i.e., academic performance). 510 students (Mage = 13.71, SD = 1.77, 44.1% girls) were tracked for one year using questionnaires. Results showed that higher learning interest was linked to greater subsequent learning persistence and vice versa; and both predicted each other over time indirectly through academic performance and the multiple mediating paths from strategies for self-regulated learning behaviors to academic performance. Ancillary analysis verifies the robustness of these results. The findings not only provide evidence of a dynamic relationship between learning motivation and behaviors, highlighting the important role of positive performance feedback in leading to a benign cycle, but also contribute to understanding the potential avenue (i.e., teaching strategies for self-regulation) for optimizing student learning.
   </details>
 
   <details>
@@ -1329,7 +1329,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Contribution: This paper illustrates how to design and implement curricula in terms of the combined use of flipped learning and inquiry-based learning in an engineering course. Background: Elementary courses in engineering schools are conventional and foundational, and involve a considerable amount of knowledge. Throughout such courses, students are also expected to develop insight, which cannot be obtained by only listening to instructors. Having relevant discussions is also difficult for most instructors. Intended Outcomes: The combined use of flipped learning and inquiry-based learning would be beneficial to broaden student achievement. Application Design: Based on an epistemological approach about knowledge and knowing, this paper applies the combined use of flipped learning and inquiry-based learning to enhance student knowledge and advance ways of thinking on a System Modeling and Control course. Findings: The extended learning time and the collective responsibility for learning are discussed as critical issues in applying the combined use of flipped learning and inquiry-based learning in an engineering school.
   </details>
 
   <details>
@@ -1341,7 +1341,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Personalized learning paths are fundamental in saving students learning time, an aspect that significantly improves the learning process through appropriate and effective learning models. The contemporary models designed for personalized learning paths primarily focus on knowledge structures and learner characteristics, a factor that significantly ignores the element of critical roles in establishing learning models. In response to these challenges, this study proposes a dynamic model of a personalized learning path that relies on planning algorithms for online learners. The proposed and designed model computes the difficulties of establishing proper knowledge constructs and points, which help address knowledge challenges in the model. Therefore, learning path algorithms are used to normalize the learning process. This factor establishes the need for novel approaches that may be used to automate education management systems. Thus, this experiment revealed that the personalized learning path model designed through a planning algorithm effectively generates a personalized learning model. The findings establish that a customized learning path planning algorithm may improve learning efficiency, effective learning behavior, and course completion rates.
   </details>
 
   <details>
@@ -1353,7 +1353,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this paper, we study the public elementary course "software engineering" which is based on the StarC platform. StarC is a teaching service platform developed by Central China Normal University. It is one part of national education cloud platform. This paper reports on the relationships between students' patterns of engagement and their course performance. The results indicate that students' participation is positively correlated with their final academic performance. So is students' effective learning time with their final performance. By using questionnaire, interview and results comparison, we found that the cloud classroom teaching is better than the traditional classroom teaching in the aspects of student's participation, satisfaction and learning gain.
   </details>
 
   <details>
@@ -1365,7 +1365,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This article is based on the method of deep learning. Based on previous research on the prediction of MOOCs course performance, multi-dimensional analysis of experimental data is conducted to analyze the correlation between experimental data and courses, the performance of courses, the trend of course performance, and the reasons for course performance. Data visualization and fitting methods are used to determine the feature extraction items in course performance prediction, And modeling based on a deep neural network model. This article proposes three different training methods, including direct training method, sub course training method based on course grouping after course association analysis, and time series prediction method based on the time attribute characteristics of experimental datasets. Finally, the feasibility of course performance prediction was verified through experiments.
   </details>
 
   <details>
@@ -1377,7 +1377,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Personalized learning paths are designed to optimize learning time and improve student learning performance by providing an appropriate learning sequence based on the unique characteristics of each student. A common method for constructing personalized learning paths is based on the student's knowledge but disregards the student's interest in the subject matter. This research employs a deep learning and rule-based approach to recommend suitable material based on the topic's difficulty, student interest, and knowledge level. The difficulty level of the topic is predicted using deep learning. A questionnaire is used to determine the level of student interest, which is then processed using a rule-based approach to generate a learning path. Modeling a dynamic learning path requires measuring student knowledge in each topic and updating the learning path accordingly. Comparing the learning outcomes of students who utilized conventional e-learning versus those who followed a personalized learning path constitutes the evaluation. The results demonstrated that students scored 29% higher, or 15.06 points, than those who utilized conventional e-learning.
   </details>
 
   <details>
@@ -1389,7 +1389,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper presents the results of student engagement with eBRAVO, an Intelligent Tutoring System designed to support students’ development of reading comprehension strategies. The eBRAVO curriculum is a personalized experience based on the students’ previous engagement with the tool as well as their demonstration of deep comprehension of the current materials. This personalization may include support in the form of video lessons that target the comprehension strategy with which the reader has recently struggled embedded within the chapter context the reader was currently working. This paper outlines the results from a deployment during a summer program supporting students reading ecology content, and shows that students are clearly distinguishable into categories that denote their patterns of engagement with these videos. It also discusses how these results connect to comprehension assessment results within the system and at a unit level and the implications these results have for the design of future classroom intervention systems.
   </details>
 
   <details>
@@ -1401,7 +1401,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In Statistical Inference for Probabilistic Functions of Finite State Markov Chains, Baum and Petrie (1966) establish fundamental results for estimating unknown transition (A={aij}) and emission (B={bjk}) matrices in hidden Markov models (HMMs), where an observed process {Yt} is a probabilistic function of an underlying Markov chain {Xt}. The authors prove that maximum likelihood estimators (MLEs) converge almost surely to true parameter values under ergodicity assumptions, using entropy-based arguments H(θ) < H(θ0) unless θ and θ0 define equivalent processes), while also establishing asymptotic normality of the score vector to enable classical statistical inference (e.g., likelihood ratio tests). By leveraging ergodic theory and martingale convergence to derive uniform bounds on conditional probabilities and their derivatives, the work bridges Markov chain theory with statistical inference, providing the theoretical foundations for HMM parameter estimation that would become pivotal in applications ranging from speech recognition to bioinformatics, with proofs emphasizing the interplay between entropy, stationarity, and parameter space geometry.
   </details>
 
   <details>
@@ -1413,7 +1413,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Considerable evidence indicates that domain specific knowledge in the form of schemas is the primary factor distinguishing experts from novices in problem-solving skill. Evidence that conventional problem-solving activity is not effective in schema acquisition is also accumulating. It is suggested that a major reason for the ineffectiveness of problem solving as a learning device, is that the cognitive processes required by the two activities overlap insufficiently, and that conventional problem solving in the form of means-ends analysis requires a relatively large amount of cognitive processing capacity which is consequently unavailable for schema acquisition. A computational model and experimental evidence provide support for this contention. Theoretical and practical implications are discussed. 
   </details>
 
   <details>
