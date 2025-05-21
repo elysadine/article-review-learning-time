@@ -33,7 +33,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper studies the pattern of students’ enrolment and their academic performance in the Department of Mathematical Sciences  (Mathematics Option) Ekiti State University, Ado – Ekiti, Nigeria. In this paper, A transition matrix was developed for ten consecutive academic sessions.  The probabilities of absorption (Graduating and Withdrawal) were obtained. Also fundamental matrix was obtained to determine the expected length of  students’ stay before graduating. Prediction was made on the enrolment and academic performance of students.
   </details>
 
   <details>
@@ -45,7 +45,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    An application of Markov Chain Analysis of student flow at Kuwait University is presented based on a random sample of 1,100 students from the academic years 1996-1997 to 2004-2005. Results were obtained for each college and in total which allows for a comparative study. The students’ mean lifetimes in different levels of study in the colleges as well as the percentage of dropping out of the system are estimated.
   </details>
 
   <details>
@@ -57,7 +57,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this study, we have used Markov chain to model the flow of full time undergraduate students in Universiti Utara Malaysia (UUM) of 2003 and 2004.Through this model, we have estimated the probability of a student to complete a course and the mean times it take to complete it distinguished by age, gender, programme undertaken and the minimum entrance qualification used in enrolling at UUM.
   </details>
 
   <details>
@@ -69,7 +69,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this study, the academic performance of students from the E-Commerce department at Palestine Technical University – Kadoorie is predicted using a Markov chains model and educational data mining. Based on the complete data regarding the achievements of the students from the 2016 cohort of students obtained from the university’s admissions and registration department, a Markov chain is built, in which the states are divided according to the semester average of the student, and the ratio of students in each state is calculated in the long run. The results obtained are compared with the data from the 2015 cohort, which demonstrates the efficiency of the Markov chains model. For educational data mining, the classification technique is applied, and the decision tree algorithm is used to predict the academic performance of the students, generalizing results with an accuracy of 41.67%.
   </details>
 
   <details>
@@ -81,7 +81,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    A learner model reflects learning patterns and characteristics of a learner. A learner model with learning history and its  effectiveness plays a significant role in supporting a learner’s understanding of their strengths and weaknesses of their way  of learning in order to make proper adjustments for improvement. Nowadays, learners have been engaging in online  learning frequently and intensely, leaving behind tremendous learning history data that contain informative insights about  the learners’ learning patterns. This paper proposed a method for developing learner models by applying the Markov chain  to learning history data. Our method transforms individual learners’ resource use data in a learning course into a large  amount of resource use sequences, then develops a Markov learner model, and generates the resource use steady state for  each learner. The resource use density, the resource steady state, and the assessment scores of individual learners tell their  learning patterns and the effectiveness of the learning patterns. From the Markov learner model, we generate a learner  profile for describing learning patterns and an index for measuring the strength of learning habits of the learner. We verified  our method by applying it to each course in the OULAD dataset to predict the learning performance using the index. The  preliminary results gain up to 97% accuracy on the pass/fail prediction problem. 
   </details>
 
   <details>
