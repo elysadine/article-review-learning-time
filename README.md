@@ -249,8 +249,8 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
-  </details>
+      In theoretical cognitive science, there is a tension between highly structured models whose parameters have a direct psychological interpretation and highly complex, general-purpose models whose parameters and representations are difficult to interpret. The former typically provide more insight into cognition but the latter often perform better. This tension has recently surfaced in the realm of educational data mining, where a deep learning approach to predicting students' performance as they work through a series of exercises---termed deep knowledge tracing or DKT---has demonstrated a stunning performance advantage over the mainstay of the field, Bayesian knowledge tracing or BKT. In this article, we attempt to understand the basis for DKT's advantage by considering the sources of statistical regularity in the data that DKT can leverage but which BKT cannot. We hypothesize four forms of regularity that BKT fails to exploit: recency effects, the contextualized trial sequence, inter-skill similarity, and individual variation in ability. We demonstrate that when BKT is extended to allow it more flexibility in modeling statistical regularities---using extensions previously proposed in the literature---BKT achieves a level of performance indistinguishable from that of DKT. We argue that while DKT is a powerful, useful, general-purpose framework for modeling student learning, its gains do not come from the discovery of novel representations---the fundamental advantage of deep learning. To answer the question posed in our title, knowledge tracing may be a domain that does not require `depth'; shallow models like BKT can perform just as well and offer us greater interpretability and explanatory power.
+    </details>
 
   <details>
     <summary>Finding</summary>
@@ -261,7 +261,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Learning Analytics (LA) is a recent research branch that refers to methods for measuring, collecting, analyzing, and reporting learners’ data, in order to better understand and optimize the processes and the environments. Knowledge Tracing (KT) deals with the modeling of the evolution, during the time, of the students’ learning process. Particularly its aim is to predict students’ outcomes in order to avoid failures and to support both students and teachers. Recently, KT has been tackled by exploiting Deep Learning (DL) models and generating a new, ongoing, research line that is known as Deep Knowledge Tracing (DKT). This was made possible by the digitalization process that has simplified the gathering of educational data from many different sources such as online learning platforms, intelligent objects, and mainstream IT-based systems for education. DKT predicts the student’s performances by using the information embedded in the collected data. Moreover, it has been shown to be able to outperform the state-of-the-art models for KT. In this paper, we briefly describe the most promising DL models, by focusing on their prominent contribution in solving the KT task.
   </details>
 
   <details>
@@ -273,7 +273,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Safety training plays a pivotal role in effectively reducing unsafe behaviors in the construction industry. Despite the numerous effort to improve safety training, existing studies lacked consideration of trainees' different learning characters, nor did they adapt the suitable training materials to trainees' mastery of safety knowledge. Against this contextual backdrop, this research proposes a Bayesian-based Knowledge Tracing (BKT) model to recommend personalized training materials according to trainees's learning progress. The proposed BKT model tracks and predicts trainees' performance with their cognitive characters, abilities, and historical training records. It also adjusts trainee's probability of mastering safety knowledge concepts for determining future training sessions. In this way, the safety training is adaptive and personalized, thus more effective. An exploration study is conducted in the laboratory environment to validate the effectiveness and feasibility of the proposed BKT model. The research results showed that 83.33% of the respondents felt gained safety knowledge after the training, and 66.67% of the respondents affirmed the effectiveness of the BKT model-based training system in improving the effectiveness of training. The results demonstrated that the proposed model performed well at educating safety knowledge and reducing unsafe behavior.
   </details>
 
   <details>
@@ -285,7 +285,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Research on intelligent tutoring seeks to develop systems for automating education and to explore epistemological issues concerning the nature of the knowledge presented by tutors and how that knowledge can be learned. The ACT theory of skill acquisition and its successor (PUPS--PenUltimate Production System) provides production-system models of the acquisition of skills such as LISP programming, geometry theorem-proving, and solving of algebraic equations. The three major sections of the document discuss; (l) the cognitive theory that serves as the basis for the tutoring endeavors, (2) the model-tracing methodology and how it derives from the cognitive theory, and (3) issues that arise in implementing the methodology. Knowledge begins in declarative form and is used by analogical processes to solve specific problems. Domain-specific productions are compiled from the traces of these problem solutions. The model-tracing methodology has been developed as a means of displaying this cognitive theory in intelligent tutoring. Implementation of the methodology involves developing a student model, a pedagogical module, and an interface. Work on tutoring and on skill acquisition have proven to be symbiotic -- each has furthered the other's development. (Author/MNS)
   </details>
 
   <details>
