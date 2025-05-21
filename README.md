@@ -21,7 +21,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this paper, we focused on the application of finite Markov chain to a model of Schooling. The sample for the study was selected from one Secondary School in Nigeria. Four sets of graduates' data were used. Thus, 474 students were used as the study sample. Primary data were used as the methodology, while the knowledge of finite Markov chain was used to analyse the data collected for the study. Base on the result obtained in this study when compared with the actual values from the actual data, indicated that the model formulated, proves very efficient and can be accepted as suitable for predicting the Academic progress of the sampled school.
   </details>
 
   <details>
