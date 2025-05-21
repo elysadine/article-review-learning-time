@@ -597,7 +597,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The learning process depends on the nature of the learning environment, particularly in the case of open-ended learning environments, where the learning process is considered to be non-linear. In this paper, we report on the findings of employing a multimodal Hidden Markov Model (HMM) based methodology to investigate the temporal learning processes of two types of learners that have learning gains and a type that does not have learning gains in an open-ended collaborative learning activity. Considering log data, speech behavior, affective states and gaze patterns, we find that all learners start from a similar state of non-productivity, but once out of it they are unlikely to fall back into that state, especially in the case of the learners that have learning gains. Those who have learning gains shift between two problem solving strategies, each characterized by both exploratory and reflective actions, as well as demonstrate speech and gaze patterns associated with these strategies, that differ from those who don't have learning gains. Further, the teams that have learning gains also differ between themselves in the manner in which they employ the problem solving strategies over the interaction, as well as in the manner they express negative emotions while exhibiting a particular strategy. These outcomes contribute to understanding the multiple pathways of learning in an open-ended collaborative learning environment, and provide actionable insights for designing effective interventions.
   </details>
 
   <details>
@@ -609,7 +609,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    While a rich methodology for analyzing response patterns for accuracy and time-on-task is at hand via Item Response Theory (IRT), tests with time cutoffs are so far harder to handle. Given that this test mode is widely applied, especially in the context of paper-and-pencil testing, there is a lack of psychometric techniques for a relevant number of tests. In this context, the original work of Rasch and his Rasch Poisson Counts model indeed offers an approach for this scenario that is adequate to solve the problem but which leads to model violations in many cases. Recent developments in statistical modeling – the so-called Conway Maxwell Poisson Counts Model (CMPCM) – can solve the problem of under- and overdispersion. We apply this model to the norm data of the ELFE II reading comprehension test and analyze patterns of over- and underdispersion with regard to speededness and mode effects. CMPCM with subtest-specific dispersion was adequate to model the raw test data, with underdispersion occurring mainly in highly speeded subtests with low difficulty and overdispersion in less speeded subtests with high difficulty. Thus, the CMPCM could contribute to psychometric methodology to appropriately model tests with time cutoffs on the subtest level.
   </details>
 
   <details>
@@ -621,7 +621,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Complex problem solving (CPS) as an individual skill has gained importance in educational and psychological research, since it requires skills beyond routine reasoning, assessed by computer-based means. However, most of the CPS research has been concerned with the validity of CPS assessments based on students’ responses (i.e., their CPS ability) rather than their response times (i.e., CPS time on task). Therefore, the present investigation was aimed at examining the empirical relation between CPS time on task and CPS ability. On the basis of the data obtained from a representative sample of N = 2,000 Finnish ninth graders, we specified Bayesian response time and structural equation models in order to study the relations between CPS time on task, CPS ability, cognitive and motivational constructs as well as school achievement. Our results suggest that (a) Long time on task in CPS and CPS ability are positively related (ρ = .40); (b) reasoning and students’ performance and mastery orientations have differential effects on CPS time on task (βREASON = .25, βPER-GOALS = − .06, βMAST-GOALS = .13) and CPS ability (βREASON = .54, βPER-GOALS = .03, βMAST-GOALS = .03); and (c) CPS time on task predicts school achievement (β = .12–.22), but does not explain variance beyond CPS ability. We conclude that CPS time on task provides a more differentiated perspective on CPS performance, yielding implications for research on and the assessment of CPS.
   </details>
 
   <details>
@@ -633,7 +633,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The speed-ability trade-off becomes a measurement problem if there is between-subject variation in the speed-ability compromise, as this may affect the comparability of ability estimates. To control individual speed differences, the response-signal (RS) paradigm was applied requiring an immediate response as soon as an acoustic signal is presented. A figural discrimination task and a word recognition task were completed both in an untimed condition allowing individual differences in time spent on task and in several timed conditions where the time available for item completion was limited using the RS paradigm. Thus, speed was manipulated by varying the available time between stimulus-onset and RS. A total of N = 205 high school students participated in the study. Results showed that across timed conditions with decreasing time on task, the ability level and ability variance decreased substantially. Ability correlations between timed conditions were high, whereas correlations between untimed and timed conditions were low. This finding suggested that ability differences being inconsistent to those found in the timed condition are due to individual differences in time on task in the untimed condition. To eliminate these differences, two ways were considered. First, untimed responses were recoded using two-tailed posterior time limits. As expected, correlations between timed and untimed conditions were increased. Second, the log-transformed item response times were included in the item response model, which led to even higher correlations between timed and untimed conditions. Validity and generalizability of the proposed testing procedure are discussed.
   </details>
 
   <details>
@@ -645,7 +645,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The ACT Programming Tutor helps students as they complete short programming exercises. The tutor is constructed around an ideal student model consisting of several hundred production rules. This model allows the tutor to solve exercises along with the student and serves as an overlay model of the student’s knowledge. As the student completes exercises, the tutor maintains an estimate of the probability that student has learned each rule, based on a two-state learning model. These estimates are employed to guide remediation. This paper assesses the predictive validity of this modeling process, and examines the implications for the rules in the ideal student model.
   </details>
 
   <details>
@@ -657,7 +657,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In order to personalize the assessment services, the assessment systems need to build suitable student models for heterogeneous student populations. The present study focuses on efficiently modeling students according to their time-varying behavior during web-based self-assessment, enriching the models with a notion of dynamics. The suggested approach forms and revises the student models on-the-fly, using three popular stream mining classification techniques. All methods use specific time-based features as predictors, and the students' self-assessment achievement levels as target values. The obtained results demonstrate that level of certainty, effort and time-spent on answering correctly/wrongly could contribute to pursuing fine-grained and robust student models during self-assessment.
   </details>
 
   <details>
@@ -669,7 +669,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper examines the role of adaptive student modeling in cognitive tutor research and dissemination. Cognitive tutorsTM are problem solving environments constructed around cognitive models of the knowledge students are acquiring. Over the past decade we in the Pittsburgh Advanced Cognitive Tutor (PACT) Center at Carnegie Mellon have been employing a cognitive programming tutor in university-based teaching and research, while simultaneously developing cognitive mathematics tutors that are currently in use in about 150 schools in 14 states. This paper examines adaptive student modeling issues in these two contexts. We examine the role of student modeling in making the transition from the research lab to widespread classroom use, describe our university-based efforts to empirically validate student modeling in the ACT Programming Tutor, and conclude with a description of the key role that student modeling plays in formative evaluations of the Cognitive Algebra II Tutor.
   </details>
 
   <details>
@@ -681,7 +681,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This study examines whether My Math Academy, a digital gamebased learning environment that provides personalized content and adaptive embedded assessments, can improve math knowledge of Transitional Kindergarten and Kindergarten students. A cluster randomized study was conducted with 20 classrooms, 10 of which were randomly assigned to use My Math Academy for 12–14 weeks. Results of hierarchical linear models indicated that after using the app for about 5 hours, treatment students significantly outperformed the control group in math knowledge and skills as measured by TEMA-3. My Math Academy produced the greatest learning gains in students who began with a moderate level of math knowledge and on the most difficult skills assessed. Additionally, the more games students played, the greater the learning gains they experienced. Teacher surveys revealed that My Math Academy produced positive impacts on students’ interest and self-confidence in learning math. Teachers also recognized My Math Academy as a user-friendly, valuable learning resource that they will continue to use. The study results will inform ongoing development of My Math Academy, including tools to enable teachers to help children with low levels of prior math knowledge.
   </details>
 
   <details>
@@ -693,7 +693,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The use of intelligent tutoring systems (ITSs) is growing rapidly in the field of education. In mathematics, adaptive and personalized scenarios mediated by these systems have been implemented to aid concept comprehension and skill development. This study presents a systematic review on the current status of the use of ITSs in mathematics education in higher education institutions (HEI). More specifically, it inquires about elements rarely addressed in reviews, such as the purposes, advantages, effectiveness, limitations, characteristics, and development and research methodologies in ITSs used for mathematics education. We analyzed 43 documents in 15 specialized and indexed journals in the years 2012-2022. In addition to providing a global overview of the implementation of ITSs in mathematics teaching and learning, we also present trends and opportunities for future research on building educational environments guided by these technologies.that promote SRL to decrease math anxiety and improve student performance.
   </details>
 
   <details>
@@ -705,7 +705,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Educational Data Mining (EDM) aims to enhance education by analyzing learners’ skills and question difficulty levels using machine learning methods. Knowledge Tracing (KT), a subfield of EDM, utilizes Hidden Markov Models to estimate learners’ abilities and predict their performance on unseen questions. While deep learning methods, such as bi-directional RNNs, have improved KT's accuracy, they may lack interpretability from an educational psychology perspective. Item Response Theory (IRT), widely used in educational statistics, offers greater explanatory potential. This study proposes a model that integrates the concept of forgetting into IRT for improved accuracy and explainability in Knowledge Tracing using bi-directional RNNs. The forgetting concept is based on Ebbinghaus’ forgetting curve theory. Three experiments were conducted using synthetic data to compare a model from a previous study, a model based on the proposed method, and a model that combines the previous study's model with IRT but excludes the forgetting concept.
   </details>
 
   <details>
@@ -717,7 +717,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The role of time on task (TOT) for students’ attainment in a low-stakes assessment of cross-curricular skills was examined using the log data collected in the computer-based assessment (CBA). Two structural equation models were compared: Model 1, in which students’ test scores were explained by grade point average (GPA) together with mastery and detrimental motivational attitudes, and Model 2, in which TOT was added to the model to mediate the effects of GPA and the 2 motivational constructs. Fitting the models to nationally representative data of 4,249 Finnish 9th graders (Mage = 15.92 years) confirmed the hypothesis that investment of time plays a key role in explaining test scores in low-stakes assessment even when prior ability (GPA) is taken into account. It was also confirmed that the effects of the detrimental attitudes on students’ attainment were mediated by TOT. The study makes an important contribution to research regarding the role of motivational attitudes and TOT in low-stakes assessment, which is vital for the use of the assessment results in national and international benchmarking. It is concluded that log data provide a functional way to investigate time investment in CBA as an indicator for students’ effort, yielding relevant implications for educational psychologists.
   </details>
 
   <details>
@@ -729,7 +729,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    The dissertation *"Evaluation of an Approach to Intelligent Coaching with Student Modeling"* by Anoosh Khatib Shahidi (Ph.D., University of Pittsburgh, 1993) examines the effectiveness of student modeling in intelligent coaching systems by comparing three approaches: an intelligent coaching system with student modeling (providing tailored feedback by diagnosing knowledge gaps and misconceptions), a rudimentary coaching system without student modeling (offering only correctness feedback), and a passive on-line help system. The results demonstrated that students using the intelligent coaching system achieved significantly higher post-test completion rates with fewer errors, with anaphoric references (feedback linking past actions to current mistakes) proving particularly impactful. The study also extended Goldstein’s (1982) genetic graph formalism to support bidirectional learning (both general-to-specific and specific-to-general knowledge progression). Despite the higher development costs associated with intelligent systems, the findings underscore their educational value in procedural domains like spreadsheet programming, offering insights for designing adaptive instructional systems that leverage student modeling for more effective learning.
   </details>
 
   <details>
@@ -741,7 +741,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Competency-Based Education (CBE) is proposed as a model that can solve some of higher education’s current challenges including the one size fits all approach to student learning. CBE targets this issue by focusing on a student autonomy and personalized learning approaches; however, successful implementation of this requires students have a level of self-regulation skills they often do not have thereby necessitating supports such as implementing educational technologies. This study explored the impact of an Open Social Student Model (OSSM) tool on the self-regulation of students in a competency-based undergraduate technology course. In particular, the study looked at the extent to which the OSSM tool encouraged students to engage in social comparison and self-regulation as measured by course progression and student choice of content completed. Furthermore, additional factors such as gender identity, social comparison orientation and motivation orientation were included because of their influence on the social comparison process and potential moderating effects on the impact of the tool. The study utilized a quasi-experimental between-groups design to compare course progress, content selection and impact of the moderating variables across treatment groups. Results indicated no significant impact on any of the aforementioned areas. While the study may indicate some evidence for the lack of efficacy OSSM tools have in CBE environments the results conflict with a significant amount of literature and indicate that the tool may have been ignored by students or failed to provide desirable comparisons to engage with. Guidelines for improving educational technology integration and therefore utilization based on current literature are covered for future researchers, along with suggestions for modifying OSSM design to improve student comparison opportunities and utilization of the OSSM
   </details>
 
   <details>
@@ -753,7 +753,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Knowledge tracing is a well-known problem in AI for education, consisting of monitoring how the knowledge state of students changes during the learning process and accurately predicting their performance in future exercises. In recent years, many advances have been made thanks to various machine learning and deep learning techniques. Despite their satisfactory performances, they have some pitfalls, e.g., modeling one skill at a time, ignoring the relationships between different skills, or inconsistency for the predictions, i.e., sudden spikes and falls across time steps. For this reason, hybrid machine-learning techniques have also been explored. With this systematic literature review, we aim to illustrate the state of the art in this field. Specifically, we want to identify the potential and the frontiers in integrating prior knowledge sources in the traditional machine learning pipeline as a supplement to the normally considered data. We applied a qualitative analysis to distill a taxonomy with the following three dimensions: knowledge source, knowledge representation, and knowledge integration. Exploiting this taxonomy, we also conducted a quantitative analysis to detect the most common approaches.
   </details>
 
   <details>
@@ -765,7 +765,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Recent studies reiterate the importance of mathematical literacy and the identification of skills, knowledge and cognitive processes which contribute to composite test scores to facilitate targeted remediation and extension activities. To this end, the current article examines data from the 2012 cycle of the Programme for International Student Assessment (PISA), using multilevel modelling techniques to explore the relationship between selected student-level and teacher/school-level factors and the three processes of interpret, employ and formulate which were measured as the skills underlying mathematical literacy in that assessment. Results of the analyses indicate that boys outperform girls significantly (p < 0.001) in all three processes whereby formulate invokes relatively more inter- and intra-level influences compared with interpret. Apart from the relatively higher item-difficulties of formulate, an increase in the complexity of contextual effects at the student and the teacher/school-level emerges as mathematical processes move from interpret to employ to formulate. Findings also reveal that students taught by teachers who had mathematics as a major in their undergraduate studies and who work in relatively smaller classes or groups show higher performance in all three mathematical literacy processes. Use of ICT in mathematics lessons is negatively associated with the three mathematical literacy processes. The additional negative effect of mathematical extracurricular activities at school on the processes highlights the need to rethink how technology and extracurricular lessons are to be used, designed/structured and delivered to optimise the learning of mathematical processes, and ultimately improve mathematical literacy.
   </details>
 
   <details>
@@ -777,7 +777,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    By implementing mastery learning, intelligent tutoring systems aim to present students with exactly the amount of instruction they need to master a concept. In practice, determination of mastery is imperfect. Student knowledge must be inferred from performance, and performance does not always follow knowledge. A standard method is to set a threshold for mastery, representing a level of certainty that the student has attained mastery. Tutors can make two types of errors when assessing student knowledge:(1) false positives, in which a student without knowledge is judged to have mastered a skill, and (2) false negatives, in which a student is presented with additional practice opportunities after acquiring knowledge. Viewed from this perspective, the mastery threshold can be viewed as a parameter that controls the relative frequency of false negatives and false positives. In this paper, we provide a framework for understanding the role of the mastery threshold in Bayesian Knowledge Tracing and use simulations to model the effects of setting different thresholds under different best and worst-case skill modeling assumptions.
   </details>
 
   <details>
@@ -789,7 +789,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Contributions: Prior studies on education have mostly followed the model of the cross-sectional study, namely, examining the pretest and the posttest scores. This article shows that students' knowledge throughout the intervention can be estimated by time-series analysis using a hidden Markov model (HMM). Background: Analyzing time series and the interaction between the students and the game data can result in valuable information that cannot be gained by only cross-sectional studies of the exams. Research Questions: Can an HMM be used to analyze the educational games? Can an HMM be used to make a prediction of the students' performance? Methodology: The study was conducted on (N = 854) students who played the Save Patch game. Students were divided into class 1 and class 2. Class 1 students are those who scored lower in the posttest than class 2 students. The analysis is done by choosing various features of the game as the observations. Findings: The state trajectories can predict the students' performance accurately for both classes 1 and 2.
   </details>
 
   <details>
@@ -801,7 +801,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Massive Open Online Courses ({MOOCs}) have a high attrition rate: most students who register for a course do not complete it. By examining a student’s history of actions during a course, we can predict whether or not they will drop out in the next week, facilitating interventions to improve retention. We compare predictions resulting from several modeling techniques and several features based on different student behaviors. Our best predictor uses a Hidden Markov Model ({HMM}) to model sequences of student actions over time, and encodes several continuous features into a single discrete observable state using a simple cross-product method. It yielded an {ROC} {AUC} (Receiver Operating Characteristic Area Under the Curve score) of 0.710, considerably better than a random predictor. We also use simpler {HMM} models to derive information about which student behaviors are most salient in determining student retention.
   </details>
 
   <details>
@@ -813,7 +813,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This research paper presents an approach for predicting student academic success using Hidden Markov Models (HMMs). Leveraging a comprehensive dataset encompassing students' demographics, academic performance, attendance records, and course engagement, the study employs an HMM framework to model levels of student academic success. Observable emissions derived from the data, such as grades and interaction patterns, are utilized to train the HMM and infer the most likely sequence of hidden states for new students. Evaluation of the proposed model demonstrates promising predictive accuracy. Through rigorous assessment using standard metrics including state prediction accuracy and state transition accuracy, the effectiveness of the HMM in capturing diverse student trajectories is demonstrated, underscoring the potential of HMMs as a powerful tool for understanding and predicting student outcomes, offering valuable insights for educational interventions and support systems.
   </details>
 
   <details>
@@ -825,7 +825,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In this paper we propose the use of a latent Markov Rasch model to investigate the development of the achievement level in math of a group of students in Italy. The latent Markov Rasch model may be seen as an extended version of the Latent Markov model (Wiggins, 1973; Langeheine and van de Pol, 2002). The last is a standard tool for the analysis of binary longitudinal data when the interest is for the individual changes with respect to a certain latent status. This model assumes that the response variables corresponding to the different time occasions are conditionally independent given a discrete latent process which follows a first-order Markov chain. In the latent Markov Rasch model a Rasch parametrization is assumed for the conditional distribution of the response variables given the latent process and this process is time-homogeneous. It may be seen also as an extended version of the latent class Rasch (LCR) model (de Leeuw and Verhelst, 1986, Lindsay at al., 1991) in which a subject is allowed to move between latent classes during time. For the application at hand the achievement is estimated by analyzing a set of binary items which are administrated to the same student for more than one time occasion. The measurement of achievements in a longitudinal setting however, typically by cognitive tests, raises thorny problems. Different approaches have been followed to asses this problem. Rost (1989) proposed to treat different time points as independent data. Another way suggested by Meiser et. al.(1995) was to treat each items as a test of its own with t virtual items reflecting participant item responses to the test at each time point. They propose to use longitudinal mixture Rasch model on this type of data structure. Another way proposed by Fischer (1995) was to treat each time point as different items in one long test.
   </details>
 
   <details>
@@ -837,7 +837,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In the global competitive environment faced by educational institutions, operational excellence enables world-class performance. An important task of education planning involves determining the academic progress of students. The present research focuses on the development and analysis of a Markov model to evaluate the academic performance of students in a four-year engineering program in an institution located in India. Initially, the transition probability matrix is developed for the academic progress of students using the frequency matrix obtained from historical data. The probability of movement of students between successive years of the academic program is computed using the transition probabilities. Using Markovian process, the expected number of years spent in a specified transient state before absorption and the probabilities of absorption are determined. The analysis of results reveals that remedial classes and mentoring activities have played a significant role in increasing the graduation probability as well as decreasing the withdrawal probability.
   </details>
 
   <details>
@@ -849,7 +849,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Performance models are well established in the literature. More specifically, student performance has been of growing concern at all levels. To confront the challenges, researchers have collected data, monitored performance criterion, developed quantitative models, and analyzed patterns to formulate theories and adaptive measures. At the university level, many students' performance deficiencies are keenly noticed and actualized for a variety of reasons. Some reasons may include transition from a home-reporting educational environment to an autonomous setting; lack of a friendly support system; or a host of behavioral circumstances which exacerbate latent academic deficits. One such technique for reviewing student performance can be employed and analyzed using absorbing Markov chains. The use of Markov Chains can provide quantitative information such the characterization potential delays (latency points) within and throughout the system, prediction of probabilistic metrics which define transitions between each stage of a defined state, and adaptability options for enrollment outcomes for use by school administrators. Furthermore, Markov chains can be employed to determine the impact on system resources such as limitations in faculty schedules, classroom assignments, and technology availability. Managers, administrators and advisors may find this information useful when notified of such limitations. This paper is of value to a broad audience such as researchers, managers, and administrators since it augments standard approaches of the Markov model. The blend of stochastic mathematics, applications of stochastic methods and retention theory, as well as the inclusion of adaptive sensitivity analysis are effective performance measures. Therefore, applications in Markov chains and subsequent forecasting models are of contemporary values in educational performance. Each of these concepts and methods contribute to a broader consideration of Markov properties in a branch of mathematics known as Markov Decision Processes (MDP). These types of processes allow researchers the ability to adjust parameters based on rewards, sets of actions, and discount factors. The cases outlined in this paper may be helpful when considering reductions in recidivism rates, improving policies to diminish recidivism, and increasing enrollment options using Markov analysis.
   </details>
 
   <details>
@@ -861,7 +861,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper studies the pattern of students’ enrolment and their academic performance in the department of Statistics Ahmadu Bello University, Zaria. In this paper, a stochastic model for estimation was developed; the study programme was modeled by a finite Markov chain with 4 transient and two absorbing states. The probability transition matrix was constructed. The students’ progression towards the next stage of the study programme was estimated, the expected time that a student spends at a particular stage as well as the expected duration of the study is determined. The probation, withdrawal and graduation probabilities were also obtained. The data was analyzed using R- Software
   </details>
 
   <details>
@@ -873,7 +873,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In the field of education, student learning progression is structured as a hierarchical organization, wherein lower grade levels are set to proceed to higher levels as their knowledge advances. However, their progression is stochastic in nature due to various reasons such as difficulty and number of units of courses. With this, the present study aims to develop a Markov Model to examine the flow of Industrial engineering students in a quarter system. The data used in this research were the enrolled subjects of Industrial engineering students of admission batch 2019 from the first term of their first year up to the third term of the second year, as well as their marks for the said courses. This scenario was modeled as an Absorbing Markov Chain. In the analysis, it was determined that if a student starts his first term in the university, it is expected that he spends an average of 15.5574 terms in the span of the seven terms. Also, if a student starts his first term, there is 29.40% chance that he withdraws and 70.59% that he proceeds. If he starts in the second term, there is 24.99% chance of withdrawing and 75.00% chance of progressing. For the remaining states, the chance of eventually reaching the fourth term of the second year is 100%. Lastly, based on their responses, their failure in courses was mostly due to problems like learning environment and lack of motivation, while they take lesser courses per term due to difficulties in handling multiple courses.
   </details>
 
   <details>
@@ -885,7 +885,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from OGRIS student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chain model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28%, 20% and 52%, respectively. The results are discussed and interpreted.
   </details>
 
   <details>
@@ -897,7 +897,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Medical students must meet curricular expectations and pass national licensing examinations to become physicians. However, no previous studies explicitly modeled stages of medical students acquiring basic science knowledge. In this study, we employed an innovative statistical model to characterize students’ growth using progress testing results over time and predict licensing examination performance.
   </details>
 
   <details>
@@ -909,7 +909,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Students from a middle school (N=152) and from a high school (N=33) completed the same energy-efficient home design challenges in a simulated environment for engineering design (SEED) supported by rich design tool with construction and analysis capabilities, Energy3D. As students design in Energy3D, a log of all of their design actions are collected. In this work-in-progress a subsample of the five most engaged students from both the middle and high school samples are analyzed to identify similarities and differences in their design sequences through Markov chain models. Sequence learning is important to many fields of study, particularly fields that have a large practice component such as engineering and design. Design sequences represent micro-strategies for developing a design. By aggregating these sequences into a model we aim to characterize and compare their design process. Markov chains aid in modeling these sequences by developing a matrix of transition probabilities between actions. Preliminary results suggest we can identify similarities and differences between the groups and that their design sequences reflect important considerations of the design problem. We conclude that Markov chains hold promise for modeling student practices.
   </details>
 
   <details>
@@ -921,7 +921,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In 2011, the Philippine government started transitioning towards a 13-year basic education model which added two additional years of high school to the previous model. This policy change necessitated an assessment of how student progress across the educational system has been affected by the shift in curriculum. One method applied towards similar goals is the use of absorbing Markov chains to better understand the attributes of student flow within an education system. To date, no published work seems to have explored the potential of Markov analysis in the context of the Philippine educational landscape. This study thus used enrollment data from the past decade to construct absorbing Markov models that compared student movement through the Philippine secondary education system before and after the execution of the K-12 program. Results show that although student withdrawals from high school decreased under the new education program, there was a noticeable increase in the number of students repeating grade levels. This insight points to a need for the Philippine Department of Education to reinforce efforts in helping students meet academic expectations and assisting them in finishing school on time.
   </details>
 
   <details>
@@ -933,7 +933,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Higher education in America is characterized by widespread access to college but low rates of completion, especially among undergraduates at less selective institutions. We analyze longitudinal transcript data to examine processes leading to graduation, using Hidden Markov modeling. We identify several latent states that are associated with patterns of course taking, and show that a trained Hidden Markov model can predict graduation or nongraduation based on only a few semesters of transcript data. We compare this approach to more conventional methods and conclude that certain college-specific processes, associated with graduation, should be analyzed in addition to socio-economic factors. The results from the Hidden Markov trajectories indicate that both graduating and nongraduating students take the more difficult mathematical and technical courses at an equal rate. However, undergraduates who complete their bachelor’s degree within 6 years are more likely to alternate between these semesters with a heavy course load and the less course-intense semesters. The course-taking patterns found among college students also indicate that nongraduates withdraw more often from coursework than average, yet when graduates withdraw, they tend do so in exactly those semesters of the college career in which more difficult courses are taken. These findings, as well as the sequence methodology itself, emphasize the importance of careful course selection and counseling early on in student’s college career.
   </details>
 
   <details>
@@ -945,7 +945,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    American universities use a procedure based on a rolling six-year graduation rate to calculate statistics regarding their students’ final educational outcomes (graduating or not graduating). As an alternative to the six-year graduation rate method, many studies have applied absorbing Markov chains for estimating graduation rates. In both cases, a frequentist approach is used. For the standard six-year graduation rate method, the frequentist approach corresponds to counting the number of students who finished their program within six years and dividing by the number of students who entered that year. In the case of absorbing Markov chains, the frequentist approach is used to compute the underlying transition matrix, which is then used to estimate the graduation rate. In this paper, we apply a sensitivity analysis to compare the performance of the standard six-year graduation rate method with that of absorbing Markov chains. Through the analysis, we highlight significant limitations with regards to the estimation accuracy of both approaches when applied to small sample sizes or cohorts at a university. Additionally, we note that the Absorbing Markov chain method introduces a significant bias, which leads to an underestimation of the true graduation rate. To overcome both these challenges, we propose and evaluate the use of a regularly updating multi-level absorbing Markov chain (RUML-AMC) in which the transition matrix is updated year to year. We empirically demonstrate that the proposed RUML-AMC approach nearly eliminates estimation bias while reducing the estimation variation by more than 40%, especially for populations with small sample sizes.
   </details>
 
   <details>
@@ -957,7 +957,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    John B. Carroll’s "A Model of School Learning" proposes a foundational framework to analyze student success and failure in educational settings. Emphasizing the need for a simplified yet comprehensive model, Carroll identifies *learning tasks* as core units of instruction—defined as measurable goals ranging from broad competencies (e.g., reading) to specific skills (e.g., a grammar lesson). The model’s strength lies in its adaptability: it integrates diverse educational research findings into a unified structure while remaining applicable to tasks of any scope, provided they are clearly defined and assessable. By focusing on the interplay of factors like time, aptitude, and instructional quality, Carroll’s work aims to guide both theoretical research and practical interventions in preventing and remedying learning difficulties. This conceptual model serves as a bridge between fragmented educational psychology concepts and actionable insights for improving school-based learning outcomes.
   </details>
 
   <details>
@@ -969,7 +969,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Private institutions have a challenge to convert incoming students into sophomore status as determined by the critical sequence of courses in their curriculum. The flow through mathematics models the behavior of passing from remedial mathematics courses to second year courses. Quantifying the flow probabilities gives a flow status measure and illustrates the effects of actions to eliminate the remediation steps, thus reducing the attrition rate. At University of Turabo we have experienced an improvement in entry level mathematics though summer seminars and placement tests to shorten the completion time of their career path. The baseline data comes from the 2011 cohort and future cohorts will provide the effects of the treatment. The summer seminars provided by engineering students have had a significant improvement in eliminating steps in the curriculum flow for incoming students (new freshmen or transfers).
   </details>
 
   <details>
@@ -981,7 +981,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    International students are a small and diverse student population present in any sizable American university. One of the greatest obstacles in their path is the acquisition of the English language. English for Academic Purposes (EAP) programs, such as the English Language Institute (ELI) at the University of Akron, attempt to address this problem. By studying how this student population progresses in their academic studies, EAP programs and their associated universities can make well-informed decisions on how best to serve their English Language Learners. One way to study International students is through the use of a Markov model based on university data. The statistically calibrated model is helpful in that it can reveal at what stage of their studies students are struggling the most or succeeding the most. Our results show that ELI students are well prepared, since international students who are first time freshman seem to have a higher progression rate to the sophomore level than the standard STEM population of students. We also find that students who repeat their freshman year are more likely to repeat again than progress to the sophomore level.
   </details>
 
   <details>
@@ -993,7 +993,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Through the use of three mathematical examples, our study explores the origins of students abilities to model (a) the process in which students acquire the ability to both model and learn transferable modeling abilities across modeling activities, and (b) the way in which the modeling cycle should be characterized. We conclude by suggesting that philosophical issues are present in understanding how the modeling ability emerges in students who have never modelled. This is linked to efforts to find activities and methods that will enable better modeling capabilities to be learned.
   </details>
 
   <details>
@@ -1005,7 +1005,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper describes an effort to model students' changing knowledge state during skill acquisition. Students in this research are learning to write short programs with the ACT Programming Tutor (APT). APT is constructed around a production rule cognitive model of programming knowledge, called theideal student model. This model allows the tutor to solve exercises along with the student and provide assistance as necessary. As the student works, the tutor also maintains an estimate of the probability that the student has learned each of the rules in the ideal model, in a process calledknowledge tracing. The tutor presents an individualized sequence of exercises to the student based on these probability estimates until the student has ‘mastered’ each rule. The programming tutor, cognitive model and learning and performance assumptions are described. A series of studies is reviewed that examine the empirical validity of knowledge tracing and has led to modifications in the process. Currently the model is quite successful in predicting test performance. Further modifications in the modeling process are discussed that may improve performance levels.
   </details>
 
   <details>
@@ -1017,7 +1017,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This book develops an intuitive understanding of IRT principles through the use of graphical displays and analogies to familiar psychological principles. It surveys contemporary IRT models, estimation methods, and computer programs. Polytomous IRT models are given central coverage since many psychological tests use rating scales. Ideal for clinical, industrial, counseling, educational, and behavioral medicine professionals and students familiar with classical testing principles, exposure to material covered in first-year graduate statistics courses is helpful. All symbols and equations are thoroughly explained verbally and graphically.
   </details>
 
   <details>
@@ -1029,7 +1029,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    It seems likely the magnitude of any causal link between achievement and instruction time depends upon the quality of instruction, the classroom environment and the rate that students translate classroom time into added knowledge. In this article, we use panel data methods to investigate instruction time effects in the 2009 Programme for International Student Assessment data. The empirical analysis shows that achievement increases with instruction time and that the increase varies by both the amount of time and the classroom environment. The results indicate that school circumstances are important determinants of the benefits and desirability of increased instruction time.
   </details>
 
   <details>
@@ -1041,7 +1041,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This yearbook includes 28 articles related to teachers and students of mathematics education and their changing roles. Part 1, "New Perspectives on Teaching and Learning," focuses on the relationship between research and practice and suggests a perspective based on the belief that mathematical learning consists of students constructing mathematical concepts and procedures. Part 2 offers suggestions for effective methods of teaching mathematics. Part 3 discusses how to broaden horizons in assessing students' mathematical understanding. Part 4, "Cultural Factors in Teaching and Learning," addresses the changing demographics in the United States. Part 5 discusses the role of students in shaping classroom events and the importance of contexts of mathematical applications. Part 6 deals with technology, its increased role in society, and the various types of technology available for classroom use. The last part takes the point of view that teachers must be empowered as decision makers and that the teachers' role must be reconceptualized as they are given increased professional responsibility. (YP)
   </details>
 
   <details>
@@ -1053,7 +1053,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Many studies in the field of education analytics have identified student grade point averages (GPA) as an important indicator and predictor of students' final academic outcomes (graduate or halt). And while semester-to-semester fluctuations in GPA are considered normal, significant changes in academic performance may warrant more thorough investigation and consideration, particularly with regards to final academic outcomes. However, such an approach is challenging due to the difficulties of representing complex academic trajectories over an academic career. In this study, we apply a Hidden Markov Model (HMM) to provide a standard and intuitive classification over students' academic-performance levels, which leads to a compact representation of academic-performance trajectories. Next, we explore the relationship between different academic-performance trajectories and their correspondence to final academic success. Based on student transcript data from University of Central Florida, our proposed HMM is trained using sequences of students' course grades for each semester. Through the HMM, our analysis follows the expected finding that higher academic performance levels correlate with lower halt rates. However, in this paper, we identify that there exist many scenarios in which both improving or worsening academic-performance trajectories actually correlate to higher graduation rates. This counter-intuitive finding is made possible through the proposed and developed HMM model.
   </details>
 
   <details>
@@ -1065,7 +1065,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In the proposed work, hidden Markov model (HMM) has been deployed to improve the learner's performance or grades on the basis of their psychological and environmental factors like connect/gather isolation, pleasure/comfort, depression, trust, anxiety, proper guidance, improper guidance, entertainment, and stress. The categorization of psychological and environmental factors has been done on the basis of two factors as positive and negative. The responsibility of the positive factor is to boost up learner's performance or grades, whereas negative factors reduce learning performance respectively. Finally, this paper addresses the application of HMM to determine the optimal sequence of states for different states as grades A, B, and C for different emission observations. The states identification leads to training the HMM model where optimal value of individual states computed using different observation sequences which determines the probability of state sequences. The probability of achieved optimal states is shown in different logical combinations where best state is searched among available different states using different search techniques. The computational results obtained after training are encouraging and useful.
   </details>
 
   <details>
@@ -1077,7 +1077,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Provision of adaptive and personalized Computer Based Assessment (CBA) services to learners is a multidimensional research field. In this paper we investigate the effect of extraversion and conscientiousness with temporal learning analytics on students' performance during computer based testing. For this purpose, we used the LAERS assessment environment to track the temporal activity - time spent behavior - of 96 students and the Big Five Instrument (BFI) questionnaire to record their personality traits. Partial Least Squares (PLS) was used to find fundamental relationships between the collected data. Preliminary results indicate a positive effect of conscientiousness on (un-)certainty and a positive effect of extraversion on goal expectancy. Further implications of these results are also discussed.
   </details>
 
   <details>
@@ -1089,7 +1089,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper explores a relatively new methodological approach for the field integrating learning and education, with other research areas, such as neurobiological, cognitive, and computational sciences. Specifically, presented work is an interdisciplinary piece of research aiming to simulate appropriately a challenging and critical issue concerned with academic performance in e-learning systems. Namely, considering face to face tutoring phenomenon observed while an interactive e-learning process is performed. Referring to strong interest announced by educationalists to know how neurons' synapses inside the brain are interconnected. Together to perform communication processing among brain regions. Herein, a special attention has been developed towards dynamical academic evaluation of timely based brain learning via face to face (FTF) interactive tutoring. In other words, this piece of research presents an interdisciplinary realistic dynamic investigation. For academic performance phenomenon associated with e-learners' contribution as time response performed human's brain neuronal function. Accordingly, Artificial Neural Networks (ANNS) have been adopted for realistic modeling of academic performance evaluation based on timely dependant student's response till attaining learning convergence (desired output). After running of designed realistic simulation program, some interesting results have been presented. Interestingly, individual differences' phenomenon observed via after statistical analysis of obtained simulation results.
   </details>
 
   <details>
@@ -1101,7 +1101,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Knowledge tracing (KT) models students' mastery level of knowledge concepts based on their responses to the questions in the past and predicts the probability that they correctly answer subsequent questions in the future. Recent KT models are mostly developed with deep neural networks and have demonstrated superior performance over traditional approaches. However, they ignore the explicit modeling of the learning curve theory, which generally says that more practices on the same knowledge concept enhance one's mastery level of the concept. Based on this theory, we propose a Convolution-Augmented Knowledge Tracing (CAKT) model to enable learning curve modeling. In particular, when predicting a student's response to the next question associated with a specific knowledge concept, CAKT uses a module built with three-dimensional convolutional neural networks to learn the student's recent experience on that concept. Moreover, CAKT employs LSTM networks to learn the overall knowledge state, which is fused with the feature learned by the convolutional module. As such, CAKT can learn the student's overall knowledge state as well as the knowledge state of the concept in the next question. Experimental results on four real-life datasets show that CAKT achieves better performance compared to existing deep KT models.
   </details>
 
   <details>
@@ -1113,7 +1113,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    In the realm of intelligent education, which is crucial for fostering sustainable student growth, predicting student performance stands out as a pivotal element. At its heart, the challenge of forecasting academic success lies in unraveling the complex, hidden relationships within performance data. While numerous investigations have addressed this challenge, existing approaches often overlook comprehensive, multi-perspective modeling and fail to capture the intricate spatial and temporal dependencies synchronously. To bridge these gaps, this study introduces a multi-graph spatial-temporal synchronous network (MGSTSN) to enhance the precision of performance predictions. By innovatively crafting spatial trend and pattern graphs alongside temporal causal graphs, this approach enables a holistic representation of the diverse spatial-temporal dynamics at play. Furthermore, the development of dual spatial-temporal synchronous graphs and their allied synchronous modules marks a novel strategy for simultaneously learning the interplay between spatial and temporal factors affecting student performance. Rigorous evaluations on authentic datasets reveal that MGSTSN significantly outperforms existing models, demonstrating an 8.17% to 11.34% enhancement across various metrics. This validates MGSTSN’s advanced capability in capturing the multifaceted nature of student performance data.
   </details>
 
   <details>
@@ -1125,7 +1125,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Video learning analytics are not open to education stakeholders, such as researchers and teachers, because online video platforms do not share the interactions of the users with their systems. Nevertheless, video learning analytics are necessary to all researchers and teachers that need to understand and improve the effectiveness of the video lecture pedagogy. In this paper, we present an open video learning analytics service, which is freely accessible online. The video learning analytics service (named Social Skip) facilitates the analysis of video learning behavior by capturing learners' interactions with the video player (e.g., seek/scrub, play, pause). The service empowers any researcher or teacher to create a custom video-based experiment by selecting: 1) a video lecture from You Tube, 2) quiz questions from Google Drive, and 3) custom video player buttons. The open video analytics system has been validated through dozens of user studies, which produced thousands of video interactions. In this study, we present an indicative example, which highlights the usability and usefulness of the system. In addition to interaction frequencies, the system models the captured data as a learner activity time series. Further research should consider user modeling and personalization in order to dynamically respond to the interactivity of students with video lectures.
   </details>
 
   <details>
@@ -1137,7 +1137,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper takes the online learning behavior and performance data of online courses as the research object, analyzes the factors that affect the course performance in online learning behavior, and establishes a performance prediction model. First, the influencing factors of course achievement are analyzed by calculating the correlation coefficient between learning behavior features and course achievement; then, a linear regression performance prediction model is constructed by using single or multiple learning behavior features, and the regression coefficients are solved by the least squares method or gradient descent method; Finally, the mean square error and coefficient of determination are used to evaluate the model performance. The experimental results show that the top three learning behavior features that have the greatest impact on course performance are the audio and video learning time, number of chapter study times and the number of task points completed, while the multiple linear regression model established using these three learning behavior characteristics and assignment scores has the highest prediction accuracy. The research results can provide reference for online course teachers and learners, help to promote online course learning early warning and performance prediction, and improve the quality of online course teaching.
   </details>
 
   <details>
@@ -1149,7 +1149,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Recent usage of virtual reality (VR) technology in surgical training has emerged because of its cost-effectiveness, time savings, and cognition-based feedback generation. However, the quantitative evaluation of its effectiveness in training is still not thoroughly studied. This article demonstrates the effectiveness of a VR-based surgical training simulator in laparoscopic surgery and investigates how stochastic modeling, represented as continuous-time Markov chain (CTMC), can be used to explicit determine the training status of the surgeon. By comparing the training in real environments and in VR-based training simulators, the authors also explore the validity of the VR simulator in laparoscopic surgery. The study further aids in establishing learning models for surgeons, supporting continuous evaluation of training processes for the derivation of real-time feedback by CTMC-based modeling.
   </details>
 
   <details>
@@ -1161,7 +1161,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    This paper discusses the design for an intelligent and adaptive tutoring system offering pedagogical support that deviates from the traditional chalk and talk form of teaching for online courses. The design proposed utilizes the information in the MOOC database with user-system interaction logs to create a model which enables the system to adapt according to user needs. There also exists room for manual intervention by the course administrators in case of at-risk participants. Educational data mining and learning analytics techniques have been applied to pinpoint the best instructional methods and pedagogical support for each student over time. The design proposed allows the system to personalize the learning experience and supports the instructor in administering the course to a huge number of participants.
   </details>
 
   <details>
@@ -1173,7 +1173,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Educational big data significantly impacts education, and Massive Open Online Courses (MOOCs), a crucial learning approach, have evolved to be more intelligent with these technologies. Deep neural networks have significantly advanced the crucial task within MOOCs, predicting student academic performance. However, most deep learning-based methods usually ignore the temporal information and interaction behaviors during the learning activities, which can effectively enhance the model’s predictive accuracy. To tackle this, we formulate the learning processes of e-learning students as dynamic temporal graphs to encode the temporal information and interaction behaviors during their studying. We propose a novel academic performance prediction model (APP-TGN) based on temporal graph neural networks. Specifically, in APP-TGN, a dynamic graph is constructed from online learning activity logs. A temporal graph network with low-high filters learns potential academic performance variations encoded in dynamic graphs. Furthermore, a global sampling module is developed to mitigate the problem of false correlations in deep learning-based models. Finally, multi-head attention is utilized for predicting academic outcomes. Extensive experiments are conducted on a well-known public dataset. The experimental results indicate that APP-TGN significantly surpasses existing methods and demonstrates excellent potential in automated feedback and personalized learning.
   </details>
 
   <details>
@@ -1185,7 +1185,7 @@
 
   <details>
     <summary>Abstract</summary>
-    ...
+    Knowledge Tracing (KT) aims to predict students’ future practice performance through their historical interaction with Intelligent Tutoring Systems (ITS). This method plays an important role in computer-assisted education and adaptive learning research. In the learner’s learning process, as the learning time increases, the time distance between the learner’s historical records continues to increase, resulting in a long-term dependency problem when capturing the correlation of knowledge concepts in exercises. In addition, the learner’s learning status is affected by time. How to accurately judge the learner’s knowledge status at different time levels is also a challenge. To tackle the above problems, we propose A Temporal-Enhanced Model for Knowledge Tracing (TEKT). On the one hand, the problem of long-term dependence is solved by using the Probabilistic Sparse Attention mechanism; On the other hand, the Fine-grained Temporal Features are embedded to capture learner’s knowledge status at different time granularities. The method proposed in this paper has been fully experimented and verified on three datasets. The experimental results show that the proposed method demonstrates an improvement in Accuracy (ACC) and Area Under The Receiver Operating Characteristic Curve (AUC) evaluation metrics, which compared to the existing KT methods. Thus, it proves the effectiveness of the proposed method.
   </details>
 
   <details>
