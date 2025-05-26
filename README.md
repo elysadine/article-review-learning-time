@@ -304,7 +304,7 @@
       
   </details>
 
-- [(Not exist) Educational Data Mining: A review of the state of the art ](https://ieeexplore.ieee.org/document/5524021)
+- [`(Not exist)` Educational Data Mining: A review of the state of the art ](https://ieeexplore.ieee.org/document/5524021)
 
   <details>
     <summary>Abstract</summary>
