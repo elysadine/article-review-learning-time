@@ -3741,7 +3741,13 @@
     <summary>Cite</summary>
       
     ```bibtex
-    @
+    @article{Sweller1988,
+      author = {Sweller, John},
+      title = {Cognitive load during problem solving: Effects on learning},
+      journal = {Cognitive Science},
+        abstract={Considerable evidence indicates that domain specific knowledge in the form of schemas is the primary factor distinguishing experts from novices in problem-solving skill. Evidence that conventional problem-solving activity is not effective in schema acquisition is also accumulating. It is suggested that a major reason for the ineffectiveness of problem solving as a learning device, is that the cognitive processes required by the two activities overlap insufficiently, and that conventional problem solving in the form of means-ends analysis requires a relatively large amount of cognitive processing capacity which is consequently unavailable for schema acquisition. A computational model and experimental evidence provide support for this contention. Theoretical and practical implications are discussed.},
+      year = {1988}
+    }
     ```
       
   </details>
