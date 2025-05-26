@@ -13,8 +13,18 @@
   </details>
 
   <details>
-    <summary>Finding</summary>
-    In progress
+    <summary>Citer</summary>
+      
+    ```bibtex
+    @article{fancsali_implementation_nodate,
+        title = {Implementation Factors and Outcomes for Intelligent Tutoring Systems: A Case Study of Time and Efficiency with Cognitive Tutor Algebra},
+        abstract = {While many expect that the use of advanced learning technologies like intelligent tutoring systems ({ITSs}) will substitute for human teaching and thus reduce the influence of teachers on student outcomes, studies consistently show that outcomes vary substantially across teachers and schools (Pane et al. 2010; Pane et al. 2014; Ritter et al. 2007a; Koedinger et al. 1997; Koedinger and Sueker 2014). Despite these findings, there have been few efforts (e.g., Schofield 1995) to understand the mechanisms by which teacher practices influence student learning on such systems. We present analyses of Carnegie Learning’s Cognitive Tutor {ITS} data from a large school district in the southeastern United States, which present a variety of usage and implementation profiles that illuminate disparities in deployments in practical, day-to-day educational settings. We focus on differential effectiveness of teachers’ implementations and how implementations may drive learner efficiency in {ITS} usage, affecting long term learning outcomes. These results are consistent with previous studies of predictors and causes of learning outcomes for students using Cognitive Tutor. We provide recommendations for practitioners seeking to deploy intelligent learning technologies in real world settings.},
+        author = {Fancsali, Stephen E and Ritter, Steven and Yudelson, Michael and Sandbothe, Michael and Berman, Susan R},
+        year={2016},
+        langid = {english}
+    }
+    ```
+      
   </details>
 
 - [Application of Finite Markov Chain to a Model of Schooling](https://www.academia.edu/download/68004443/Application_of_Finite_Markov_Chain_to_a_20210711-3839-l8etgr.pdf)
