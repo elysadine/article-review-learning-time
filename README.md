@@ -3784,42 +3784,42 @@
     ```
       
   </details>
-  
-  - [Modelling students'academic performance and progress : a discrete-time Markov chain approach](https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049)
 
-  <details>
+- [Modelling students'academic performance and progress : a discrete-time Markov chain approach](https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049)
+
+  <details>
     <summary>Abstract</summary>
-    Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5% chance of graduating and a 19.5% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.
-  </details>
+    Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5% chance of graduating and a 19.5% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.
+  </details>
 
   <details>
     <summary>Cite</summary>
       
     ```bibtex
     @article{yekeen_modelling_2024,
-    title = {Modelling students'academic performance and progress : a discrete-time Markov chain approach},
-    volume = {8},
-    rights = {Copyright (c) 2024 {FUDMA} {JOURNAL} {OF} {SCIENCES}},
-    issn = {2616-1370},
-    url = {[https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049](https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049)},
-    doi = {10.33003/fjs-2024-0806-3049},
-    shorttitle = {Modelling students'academic performance and progress},
-    abstract = {Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5\% chance of graduating and a 19.5\% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4\% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4\% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.},
-    pages = {444--449},
-    number = {6},
-    journaltitle = {{FUDMA} {JOURNAL} {OF} {SCIENCES}},
-    author = {Yekeen, Balikis Oluwakemi and Yakubu, Yisa and Muhammad, Nuratu},
-    urldate = {2025-05-06},
-    date = {2024-12-31},
-    langid = {english},
-    note = {Number: 6},
-    keywords = {Absorbing State, Absorption Probability, Academic Performance, Discrete-Time Markov Chain, Transient State}
-}
+        title = {Modelling students'academic performance and progress : a discrete-time Markov chain approach},
+        volume = {8},
+        rights = {Copyright (c) 2024 {FUDMA} {JOURNAL} {OF} {SCIENCES}},
+        issn = {2616-1370},
+        url = {[https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049](https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049)},
+        doi = {10.33003/fjs-2024-0806-3049},
+        shorttitle = {Modelling students'academic performance and progress},
+        abstract = {Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5\% chance of graduating and a 19.5\% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4\% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4\% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.},
+        pages = {444--449},
+        number = {6},
+        journaltitle = {{FUDMA} {JOURNAL} {OF} {SCIENCES}},
+        author = {Yekeen, Balikis Oluwakemi and Yakubu, Yisa and Muhammad, Nuratu},
+        urldate = {2025-05-06},
+        date = {2024-12-31},
+        langid = {english},
+        note = {Number: 6},
+        keywords = {Absorbing State, Absorption Probability, Academic Performance, Discrete-Time Markov Chain, Transient State}
+    }
     ```
       
   </details>
 
-  - [Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model]()
+  - [Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model](http://)
 
   <details>
     <summary>Abstract</summary>
@@ -4530,7 +4530,7 @@ Publisher: Multidisciplinary Digital Publishing Institute},
       
   </details>
 
-  - [Analysis of Online Learning Time in Flipped classroom Based on MCMC | Proceedings of the 5th International Conference on Distance Education and Learning](https://dl.acm.org/doi/10.1145/3402569.3402579)
+- [Analysis of Online Learning Time in Flipped classroom Based on MCMC | Proceedings of the 5th International Conference on Distance Education and Learning](https://dl.acm.org/doi/10.1145/3402569.3402579)
 
   <details>
     <summary>Abstract</summary>
@@ -4539,18 +4539,18 @@ Publisher: Multidisciplinary Digital Publishing Institute},
 
   <details>
     <summary>Cite</summary>
-      
+
     ```bibtex
-    @online{noauthor_analysis_nodate,
-    title = {Analysis of Online Learning Time in Flipped classroom Based on {MCMC} {\textbar} Proceedings of the 5th International Conference on Distance Education and Learning},
-    url = {[https://dl.acm.org/doi/10.1145/3402569.3402579](https://dl.acm.org/doi/10.1145/3402569.3402579)},
-    titleaddon = {{ACM} Other conferences},
-    urldate = {2025-05-06},
-    doi = {10.1145/3402569.3402579},
-    note = {Archive Location: world},
-    author={Hongli Yuan, Wenjuan Sun, Yan Chen},
-    Year={2020}
-}
+    @online{noauthor_analysis_nodate,
+        title = {Analysis of Online Learning Time in Flipped classroom Based on {MCMC} {\textbar} Proceedings of the 5th International Conference on Distance Education and Learning},
+        url = {[https://dl.acm.org/doi/10.1145/3402569.3402579](https://dl.acm.org/doi/10.1145/3402569.3402579)},
+        titleaddon = {{ACM} Other conferences},
+        urldate = {2025-05-06},
+        doi = {10.1145/3402569.3402579},
+        note = {Archive Location: world},
+        author={Hongli Yuan, Wenjuan Sun, Yan Chen},
+        Year={2020}
+    }
     ```
-      
+
   </details>
