@@ -3788,15 +3788,15 @@
 - [Modelling students'academic performance and progress : a discrete-time Markov chain approach](https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049)
 
   <details>
-    <summary>Abstract</summary>
+    <summary>Abstract</summary>
     Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5% chance of graduating and a 19.5% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.
   </details>
 
   <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{yekeen_modelling_2024,
+    <summary>Cite</summary>
+    
+    ```bibtex
+    @article{yekeen_modelling_2024,
         title = {Modelling students'academic performance and progress : a discrete-time Markov chain approach},
         volume = {8},
         rights = {Copyright (c) 2024 {FUDMA} {JOURNAL} {OF} {SCIENCES}},
@@ -3815,7 +3815,7 @@
         note = {Number: 6},
         keywords = {Absorbing State, Absorption Probability, Academic Performance, Discrete-Time Markov Chain, Transient State}
     }
-    ```
+    ```
       
   </details>
 
