@@ -3754,6 +3754,7 @@
 
 <hr/>
 
+
 - [Students Progress throughout Examination Process as a Markov Chain](http://www.ccsenet.org/journal/index.php/ies/article/view/39240)
 
   <details>
@@ -3792,765 +3793,764 @@
     Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5% chance of graduating and a 19.5% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.
   </details>
 
-  <details>
+  <details>
     <summary>Cite</summary>
     
     ```bibtex
     @article{yekeen_modelling_2024,
-        title = {Modelling students'academic performance and progress : a discrete-time Markov chain approach},
-        volume = {8},
-        rights = {Copyright (c) 2024 {FUDMA} {JOURNAL} {OF} {SCIENCES}},
-        issn = {2616-1370},
-        url = {[https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049](https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049)},
-        doi = {10.33003/fjs-2024-0806-3049},
-        shorttitle = {Modelling students'academic performance and progress},
-        abstract = {Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5\% chance of graduating and a 19.5\% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4\% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4\% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.},
-        pages = {444--449},
-        number = {6},
-        journaltitle = {{FUDMA} {JOURNAL} {OF} {SCIENCES}},
-        author = {Yekeen, Balikis Oluwakemi and Yakubu, Yisa and Muhammad, Nuratu},
-        urldate = {2025-05-06},
-        date = {2024-12-31},
-        langid = {english},
-        note = {Number: 6},
-        keywords = {Absorbing State, Absorption Probability, Academic Performance, Discrete-Time Markov Chain, Transient State}
+        title = {Modelling students'academic performance and progress : a discrete-time Markov chain approach},
+        volume = {8},
+        rights = {Copyright (c) 2024 {FUDMA} {JOURNAL} {OF} {SCIENCES}},
+        issn = {2616-1370},
+        url = {[https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049](https://fjs.fudutsinma.edu.ng/index.php/fjs/article/view/3049)},
+        doi = {10.33003/fjs-2024-0806-3049},
+        shorttitle = {Modelling students'academic performance and progress},
+        abstract = {Predicting students' performance has become increasingly challenging due to the large volume of data in educational databases. Academic achievement reflects learning effectiveness and serves as a key indicator of teaching quality, institutional standards, and overall student development. Higher education systems operate hierarchically, with students progressing through academic levels annually or exiting as graduates or dropouts. Understanding and evaluating student progression is vital amidst evolving educational dynamics. This study models students’ academic performance and progression using a discrete-time Markov chain approach to predict future outcomes. Data on students’ enrollment and performance for five(5) sessions were collected from the Department of Statistics, Federal University of Technology, Minna. The Markov chain model was constructed for different academic levels and their absorbing states. Key metrics, including expected time spent at each level, absorption probabilities, and graduation or withdrawal likelihoods, were estimated. The findings show that 100-level entrants have an 80.5\% chance of graduating and a 19.5\% risk of withdrawal, with graduation likelihoods increasing with progression—reaching 99.4\% at 500-level. The forecasts from the constructed Markov chain models showed that 100-level entrants are 99.4\% likely to graduate after five sessions, 200-level entrants after three sessions, and 300-level entrants after one session. The study shows that while attrition rates are higher in the early stages, students advancing beyond the 200-level exhibit strong prospects for completion. These findings underscore the university’s effective programs and support systems, particularly in retaining and advancing students beyond the critical early stages.},
+        pages = {444--449},
+        number = {6},
+        journaltitle = {{FUDMA} {JOURNAL} {OF} {SCIENCES}},
+        author = {Yekeen, Balikis Oluwakemi and Yakubu, Yisa and Muhammad, Nuratu},
+        urldate = {2025-05-06},
+        date = {2024-12-31},
+        langid = {english},
+        note = {Number: 6},
+        keywords = {Absorbing State, Absorption Probability, Academic Performance, Discrete-Time Markov Chain, Transient State}
     }
     ```
-      
-  </details>
+      
+  </details>
 
-  - [Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model](http://)
+- [Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model](http://dd)
 
-  <details>
-    <summary>Abstract</summary>
-    This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28%, 20% and 52%, respectively. The results are discussed and interpreted.
-  </details>
+  <details>
+    <summary>Abstract</summary>
+    This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28%, 20% and 52%, respectively. The results are discussed and interpreted.
+  </details>
 
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{mavruk_academic_nodate,
-    title = {Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model},
-    abstract = {This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28\%, 20\% and 52\%, respectively. The results are discussed and interpreted.},
-    author = {Mavruk, Can and Kiral, Ersin},
-    langid = {english}
-}
-    ```
-      
-  </details>
-
-  - [A Temporal-Enhanced Model for Knowledge Tracing](https://doi.org/10.1007/978-3-031-72356-8_27)
-
-  <details>
-    <summary>Abstract</summary>
-    Knowledge Tracing (KT) aims to predict students’ future practice performance through their historical interaction with Intelligent Tutoring Systems (ITS). This method plays an important role in computer-assisted education and adaptive learning research. In the learner’s learning process, as the learning time increases, the time distance between the learner’s historical records continues to increase, resulting in a long-term dependency problem when capturing the correlation of knowledge concepts in exercises. In addition, the learner’s learning status is affected by time. How to accurately judge the learner’s knowledge status at different time levels is also a challenge. To tackle the above problems, we propose A Temporal-Enhanced Model for Knowledge Tracing (TEKT). On the one hand, the problem of long-term dependence is solved by using the Probabilistic Sparse Attention mechanism; On the other hand, the Fine-grained Temporal Features are embedded to capture learner’s knowledge status at different time granularities. The method proposed in this paper has been fully experimented and verified on three datasets. The experimental results show that the proposed method demonstrates an improvement in Accuracy (ACC) and Area Under The Receiver Operating Characteristic Curve (AUC) evaluation metrics, which compared to the existing KT methods. Thus, it proves the effectiveness of the proposed method.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @inproceedings{cui_temporal-enhanced_2024,
-    location = {Cham},
-    title = {A Temporal-Enhanced Model for Knowledge Tracing},
-    isbn = {978-3-031-72356-8},
-    doi = {10.1007/978-3-031-72356-8_27},
-    abstract = {Knowledge Tracing ({KT}) aims to predict students’ future practice performance through their historical interaction with Intelligent Tutoring Systems ({ITS}). This method plays an important role in computer-assisted education and adaptive learning research. In the learner’s learning process, as the learning time increases, the time distance between the learner’s historical records continues to increase, resulting in a long-term dependency problem when capturing the correlation of knowledge concepts in exercises. In addition, the learner’s learning status is affected by time. How to accurately judge the learner’s knowledge status at different time levels is also a challenge. To tackle the above problems, we propose A Temporal-Enhanced Model for Knowledge Tracing ({TEKT}). On the one hand, the problem of long-term dependence is solved by using the Probabilistic Sparse Attention mechanism; On the other hand, the Fine-grained Temporal Features are embedded to capture learner’s knowledge status at different time granularities. The method proposed in this paper has been fully experimented and verified on three datasets. The experimental results show that the proposed method demonstrates an improvement in Accuracy ({ACC}) and Area Under The Receiver Operating Characteristic Curve ({AUC}) evaluation metrics, which compared to the existing {KT} methods. Thus, it proves the effectiveness of the proposed method.},
-    pages = {407--421},
-    booktitle = {Artificial Neural Networks and Machine Learning – {ICANN} 2024},
-    publisher = {Springer Nature Switzerland},
-    author = {Cui, Shaoguo and Wang, Mingyang and Xu, Song},
-    editor = {Wand, Michael and Malinovská, Kristína and Schmidhuber, Jürgen and Tetko, Igor V.},
-    date = {2024},
-    langid = {english},
-}
-    ```
-      
-  </details>
-
-  - [Dynamics of learning: time-varying feedback effects within the intelligent tutoring system of structure strategy (ITSS)](https://doi.org/10.1007/s11423-021-10049-w)
-
-  <details>
-    <summary>Abstract</summary>
-    The intelligent tutoring system of structure strategy (ITSS) is a web-based digital tutoring system proven to be effective in helping students recognize and use text structures to comprehend and recall texts. However, little is known about the dynamic learning processes within the ITSS. This study aims to investigate the effects of feedback dosage on lesson mastery throughout the progression of ITSS lessons. We applied a confirmatory factor analysis and extended vector autoregressive model to assess the dynamic relationships among three tasks embedded within the ITSS and found: (1) significant cross-regression effects among the three reading tasks; (2) distinct effects of feedback dosage on the specific reading task; and (3) different effect sizes of feedback across lessons. Results provide helpful insights on ways to design better modules in further development of the ITSS.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{lee_dynamics_2021,
-    title = {Dynamics of learning: time-varying feedback effects within the intelligent tutoring system of structure strategy ({ITSS})},
-    volume = {69},
-    issn = {1556-6501},
-    url = {[https://doi.org/10.1007/s11423-021-10049-w](https://doi.org/10.1007/s11423-021-10049-w)},
-    doi = {10.1007/s11423-021-10049-w},
-    shorttitle = {Dynamics of learning},
-    abstract = {The intelligent tutoring system of structure strategy ({ITSS}) is a web-based digital tutoring system proven to be effective in helping students recognize and use text structures to comprehend and recall texts. However, little is known about the dynamic learning processes within the {ITSS}. This study aims to investigate the effects of feedback dosage on lesson mastery throughout the progression of {ITSS} lessons. We applied a confirmatory factor analysis and extended vector autoregressive model to assess the dynamic relationships among three tasks embedded within the {ITSS} and found: (1) significant cross-regression effects among the three reading tasks; (2) distinct effects of feedback dosage on the specific reading task; and (3) different effect sizes of feedback across lessons. Results provide helpful insights on ways to design better modules in further development of the {ITSS}.},
-    pages = {2963--2984},
-    number = {6},
-    journaltitle = {Educational Technology Research and Development},
-    shortjournal = {Education Tech Research Dev},
-    author = {Lee, Jungmin and Chow, Sy-Miin and Lei, Puiwa and Wijekumar, Kausalai (Kay) and Molenaar, Peter C. M.},
-    urldate = {2025-05-06},
-    date = {2021-12-01},
-    langid = {english},
-    keywords = {Digital Education and Educational Technology, Dynamical systems, Evaluation methodologies, Feedback effectiveness, Human–computer interaction, Reading comprehension},
-}
-    ```
-      
-  </details>
-
-  - [Algorithms for the Development of Deep Learning Models for Classification and Prediction of Learner Behaviour in MOOCs](https://doi.org/10.1007/978-3-030-92245-0_3)
-
-  <details>
-    <summary>Abstract</summary>
-    Massive open online courses (MOOCs) are used by universities and institutions offer valuable free courses to huge numbers of people around the world through MOOC platforms. However, because of the huge number of learners, they often not receive sufficient support from instructors and their peers during the learning process, leading to high dropout, low completion, and low success rates observed in the MOOCs. This chapter focuses on analysing relevant algorithms to develop a deep learning model to predict learner behaviour (learner interactions) in the learning process. For this analysis, we use data from UNESCO’s International Institute for Capacity Building in Africa MOOC platform designed for teacher training in Africa. We employed various geographical, social, and learning behavioural features to build deep learning models based on three types of recurrent neural networks (RNNs): simple RNNs, gated recurrent unit (GRU) RNNs, and long short-term memory (LSTM) RNNs. The models were trained using L2 regularization. Results showed that simple RNNs gave the best performance and accuracy on the dataset. We also observed correlations between video viewing, quiz behaviour, and the participation of the learner and conclude that we can use learner’s video or quiz viewing behaviour to predict their behaviour concerning other MOOC contents. We also observed that the shorter the video or quiz, the greater the number of viewers. These results suggest the need for deeper research on educational video and educational quiz design for MOOCs.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @incollection{fotso_algorithms_2022,
-    location = {Cham},
-    title = {Algorithms for the Development of Deep Learning Models for Classification and Prediction of Learner Behaviour in {MOOCs}},
-    isbn = {978-3-030-92245-0},
-    url = {[https://doi.org/10.1007/978-3-030-92245-0_3](https://doi.org/10.1007/978-3-030-92245-0_3)},
-    abstract = {Massive open online courses ({MOOCs}) are used by universities and institutions offer valuable free courses to huge numbers of people around the world through {MOOC} platforms. However, because of the huge number of learners, they often not receive sufficient support from instructors and their peers during the learning process, leading to high dropout, low completion, and low success rates observed in the {MOOCs}. This chapter focuses on analysing relevant algorithms to develop a deep learning model to predict learner behaviour (learner interactions) in the learning process. For this analysis, we use data from {UNESCO}’s International Institute for Capacity Building in Africa {MOOC} platform designed for teacher training in Africa. We employed various geographical, social, and learning behavioural features to build deep learning models based on three types of recurrent neural networks ({RNNs}): simple {RNNs}, gated recurrent unit ({GRU}) {RNNs}, and long short-term memory ({LSTM}) {RNNs}. The models were trained using L2 regularization. Results showed that simple {RNNs} gave the best performance and accuracy on the dataset. We also observed correlations between video viewing, quiz behaviour, and the participation of the learner and conclude that we can use learner’s video or quiz viewing behaviour to predict their behaviour concerning other {MOOC} contents. We also observed that the shorter the video or quiz, the greater the number of viewers. These results suggest the need for deeper research on educational video and educational quiz design for {MOOCs}.},
-    pages = {41--73},
-    booktitle = {Artificial Intelligence for Data Science in Theory and Practice},
-    publisher = {Springer International Publishing},
-    author = {Fotso, José Edmond Meku and Batchakui, Bernabe and Nkambou, Roger and Okereke, George},
-    editor = {Alloghani, Mohamed and Thron, Christopher and Subair, Saad},
-    urldate = {2025-05-06},
-    date = {2022},
-    langid = {english},
-    doi = {10.1007/978-3-030-92245-0_3},
-}
-    ```
-      
-  </details>
-
-  - [Modeling the Effort and Learning Ability of Students in MOOCs](https://ieeexplore.ieee.org/document/8818052)
-
-  <details>
-    <summary>Abstract</summary>
-    With the popularity of MOOCs and other online learning platforms, Educational Data Mining (EDM) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability (ELA) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{gao_modeling_2019,
-    title = {Modeling the Effort and Learning Ability of Students in {MOOCs}},
-    volume = {7},
-    issn = {2169-3536},
-    url = {[https://ieeexplore.ieee.org/document/8818052](https://ieeexplore.ieee.org/document/8818052)},
-    doi = {10.1109/ACCESS.2019.2937985},
-    abstract = {With the popularity of {MOOCs} and other online learning platforms, Educational Data Mining ({EDM}) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability ({ELA}) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.},
-    pages = {128035--128042},
-    journaltitle = {{IEEE} Access},
-    author = {Gao, Lina and Zhao, Zhongying and Qi, Liang and Liang, Yongquan and Du, Junwei},
-    urldate = {2025-05-06},
-    date = {2019},
-    keywords = {Computational modeling, computer science, Computer science, Correlation, Data mining, Educational data mining, effort, information processing, learning ability, Markov processes, Statistical analysis, Task analysis}
-}
-    ```
-      
-  </details>
-
-  - [SMART: Student modeling approach for responsive tutoring](https://doi.org/10.1007/BF01101800)
-
-  <details>
-    <summary>Abstract</summary>
-    This paper describes a new student modeling paradigm called SMART. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the SMART approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). SMART works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of SMART examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{shute_smart_1995,
-    title = {{SMART}: Student modeling approach for responsive tutoring},
-    volume = {5},
-    issn = {1573-1391},
-    url = {[https://doi.org/10.1007/BF01101800](https://doi.org/10.1007/BF01101800)},
-    doi = {10.1007/BF01101800},
-    shorttitle = {{SMART}},
-    abstract = {This paper describes a new student modeling paradigm called {SMART}. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the {SMART} approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). {SMART} works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of {SMART} examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.},
-    pages = {1--44},
-    number = {1},
-    journaltitle = {User Modeling and User-Adapted Interaction},
-    shortjournal = {User Model User-Adap Inter},
-    author = {Shute, Valerie J.},
-    urldate = {2025-05-06},
-    date = {1995-03-01},
-    langid = {english},
-    keywords = {Aptitudes, cognitive diagnosis, learning outcomes, macroadaptation, mastery learning, microadaptation, remediation},
-}
-    ```
-      
-  </details>
-
-  - [Analysis of Online Learning Time in Flipped classroom Based on MCMC | Proceedings of the 5th International Conference on Distance Education and Learning](https://dl.acm.org/doi/10.1145/3402569.3402579)
-
-  <details>
-    <summary>Abstract</summary>
-    (Abstract not provided in the BibTeX entry)
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @online{noauthor_analysis_nodate,
-    title = {Analysis of Online Learning Time in Flipped classroom Based on {MCMC} {\textbar} Proceedings of the 5th International Conference on Distance Education and Learning},
-    url = {[https://dl.acm.org/doi/10.1145/3402569.3402579](https://dl.acm.org/doi/10.1145/3402569.3402579)},
-    titleaddon = {{ACM} Other conferences},
-    urldate = {2025-05-06},
-    doi = {10.1145/3402569.3402579},
-    note = {Archive Location: world},
-    author={Hongli Yuan, Wenjuan Sun, Yan Chen},
-    Year={2020}
-}
-    ```
-      
-  </details>
-
-  - [Using Markov chain on onlinr learning history data to develop learner model for measuring strength of learning habits](https://doi.org/10.33965/CELDA2022_202207C047)
-
-  <details>
-    <summary>Abstract</summary>
-    A learner model reflects learning patterns and characteristics of a learner. A learner model with learning history and its effectiveness plays a significant role in supporting a learner’s understanding of their strengths and weaknesses of their way of learning in order to make proper adjustments for improvement. Nowadays, learners have been engaging in online learning frequently and intensely, leaving behind tremendous learning history data that contain informative insights about the learners’ learning patterns. This paper proposed a method for developing learner models by applying the Markov chain to learning history data. Our method transforms individual learners’ resource use data in a learning course into a large amount of resource use sequences, then develops a Markov learner model, and generates the resource use steady state for each learner. The resource use density, the resource steady state, and the assessment scores of individual learners tell their learning patterns and the effectiveness of the learning patterns. From the Markov learner model, we generate a learner profile for describing learning patterns and an index for measuring the strength of learning habits of the learner. We verified our method by applying it to each course in the OULAD dataset to predict the learning performance using the index. The preliminary results gain up to 97% accuracy on the pass/fail prediction problem.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @online{noauthor_using_2022,
-    title = {Using Markov chain on onlinr learning history data to develop learner model for measuring strength of learning habits},
-    isbn = {978-989-8704-43-6},
-    doi = {[https://doi.org/10.33965/CELDA2022_202207C047](https://doi.org/10.33965/CELDA2022_202207C047)},
-    abstract = {A learner model reflects learning patterns and characteristics of a learner. A learner model with learning history and its effectiveness plays a significant role in supporting a learner’s understanding of their strengths and weaknesses of their way of learning in order to make proper adjustments for improvement. Nowadays, learners have been engaging in online learning frequently and intensely, leaving behind tremendous learning history data that contain informative insights about the learners’ learning patterns. This paper proposed a method for developing learner models by applying the Markov chain to learning history data. Our method transforms individual learners’ resource use data in a learning course into a large amount of resource use sequences, then develops a Markov learner model, and generates the resource use steady state for each learner. The resource use density, the resource steady state, and the assessment scores of individual learners tell their learning patterns and the effectiveness of the learning patterns. From the Markov learner model, we generate a learner profile for describing learning patterns and an index for measuring the strength of learning habits of the learner. We verified our method by applying it to each course in the {OULAD} dataset to predict the learning performance using the index. The preliminary results gain up to 97\% accuracy on the pass/fail prediction problem.},
-    eventtitle = {19th International Conference on Cognition and Exploratory Learning in the Digital Age ({CELDA} 2022)},
-    booktitle = {Proceeedings of the 19th International Conference on Cognition and Exploratory Learning in the Digital Age ({CELDA} 2022)},
-    publisher = {{IADIS} Press},
-    urldate = {2025-04-30},
-    date = {2022-11-08},
-    langid = {english}
-}
-    ```
-      
-  </details>
-
-  - [Educational Data Mining and Learning Analytics](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118956588.ch16)
-
-  <details>
-    <summary>Abstract</summary>
-    In recent years, there has been increasing interest in using the methods of educational data mining (EDM) and learning analytics (LA) to study and measure learner cognition. In this chapter, we discuss how these types of methods can be used to measure complex cognition and meta-cognition in types of environments where inference can be challenging: exploratory and inquiry learning environments, complex games, and project-based learning. We give examples from a range of projects for the types of constructs that can be inferred using EDM/LA methods and how these measures compare to what can be obtained from more traditional methods. We conclude with a discussion of future discussion and potentials for these kinds of methods.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @incollection{baker_educational_2016,
-    title = {Educational Data Mining and Learning Analytics},
-    rights = {© 2017 John Wiley \& Sons, Inc.},
-    isbn = {978-1-118-95658-8},
-    url = {[https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118956588.ch16](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118956588.ch16)},
-    abstract = {In recent years, there has been increasing interest in using the methods of educational data mining ({EDM}) and learning analytics ({LA}) to study and measure learner cognition. In this chapter, we discuss how these types of methods can be used to measure complex cognition and meta-cognition in types of environments where inference can be challenging: exploratory and inquiry learning environments, complex games, and project-based learning. We give examples from a range of projects for the types of constructs that can be inferred using {EDM}/{LA} methods and how these measures compare to what can be obtained from more traditional methods. We conclude with a discussion of future discussion and potentials for these kinds of methods.},
-    pages = {379--396},
-    booktitle = {The Wiley Handbook of Cognition and Assessment},
-    publisher = {John Wiley \& Sons, Ltd},
-    author = {Baker, Ryan S. and Martin, Taylor and Rossi, Lisa M.},
-    urldate = {2025-05-06},
-    date = {2016},
-    langid = {english},
-    doi = {10.1002/9781118956588.ch16},
-    note = {Section: 16
-    \_eprint: [https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118956588.ch16](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118956588.ch16)},
-    keywords = {complex games, educational data mining, educational measurement, exploratory learning environments, inquiry learning environments, learning analytics}
-}
-    ```
-      
-  </details>
-
-  - [Improving precision of ability estimation: Getting more from response times](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)
-
-  <details>
-    <summary>Abstract</summary>
-    By considering information about response time (RT) in addition to response accuracy (RA), joint models for RA and RT such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider RA. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between RT and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual RTs. We propose a posterior predictive check for evaluating the assumption of conditional independence between RT and ability given speed. Furthermore, we propose an extension of the hierarchical model that contains cross-loadings between ability and RT, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an RA-only model is considered. The model is applied to data from a high-stakes educational test.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{bolsinova_improving_2018,
-    title = {Improving precision of ability estimation: Getting more from response times},
-    volume = {71},
-    rights = {© 2017 The British Psychological Society},
-    issn = {2044-8317},
-    url = {[https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)},
-    doi = {10.1111/bmsp.12104},
-    shorttitle = {Improving precision of ability estimation},
-    abstract = {By considering information about response time ({RT}) in addition to response accuracy ({RA}), joint models for {RA} and {RT} such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider {RA}. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between {RT} and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual {RTs}. We propose a posterior predictive check for evaluating the assumption of conditional independence between {RT} and ability given speed. Furthermore, we propose an an extension of the hierarchical model that contains cross-loadings between ability and {RT}, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an {RA}-only model is considered. The model is applied to data from a high-stakes educational test.},
-    pages = {13--38},
-    number = {1},
-    journaltitle = {British Journal of Mathematical and Statistical Psychology},
-    author = {Bolsinova, Maria and Tijmstra, Jesper},
-    urldate = {2025-05-06},
-    date = {2018},
-    langid = {english},
-    note = {\_eprint: [https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104)},
-    keywords = {collateral information, hierarchical model, item response theory, measurement precision, response times}
-}
-    ```
-      
-  </details>
-
-  - [Origine Sociale et réussite scolaire: un modèle en Chaîne de Markov estimé sur données individuelles belges](https://www.cambridge.org/core/journals/recherches-economiques-de-louvain-louvain-economic-review/article/abs/origine-sociale-et-reussite-scolaire-un-modele-en-chaine-de-markov-estime-sur-donnees-individuelles-belges/DAF949A2700A968640AC70C72A30838E)
-
-  <details>
-    <summary>Abstract</summary>
-    Cet article étudie les relations entre l'origine socio-économique des élèves belges et leur parcours scolaire primaire et secondaire. Il repose sur l'hypothèse que le parcours scolaire des élèves peut être décrit par un processus de Markov. Sur la base d'un échantillon transversal d'un millier d'enfants, en fonction de variables socio-économiques et pour chacune des années de scolarité obligatoire, les probabilités individuelles de poursuivre un parcours scolaire «normal», c.-à-d. sans redoublement ni relégation dans une filière de second choix, sont estimées. Nos résultats montrent que derrière les substantiels taux agrégés de redoublement qui caractérisent le système scolaire belge se cachent en fait de profondes inégalités sociales., SummaryThis paper examines the relationship between socio-economic background and primary and secondary school achievements of Belgian students. It relies on the assumption that the schooling path of students may be described through a Markovian process. Based on a cross-section sample of about 1000 children, the individual probabilities of following a «normal» schooling path, i.e., without repeating or demeaning reorientation, are estimated for each year of compulsory schooling and as a function of socio-economic background variables. Our results show that, behind the very high aggregated rate of repeating which characterizes the Belgian school system are actually hidden considerable social inequalities.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{donni_origine_1997,
-    title = {Origine Sociale et réussite scolaire: un modèle en Chaîne de Markov estimé sur données individuelles belges},
-    volume = {63},
-    issn = {0770-4518, 1782-1495},
-    url = {[https://www.cambridge.org/core/journals/recherches-economiques-de-louvain-louvain-economic-review/article/abs/origine-sociale-et-reussite-scolaire-un-modele-en-chaine-de-markov-estime-sur-donnees-individuelles-belges/DAF949A2700A968640AC70C72A30838E](https://www.cambridge.org/core/journals/recherches-economiques-de-louvain-louvain-economic-review/article/abs/origine-sociale-et-reussite-scolaire-un-modele-en-chaine-de-markov-estime-sur-donnees-individuelles-belges/DAF949A2700A968640AC70C72A30838E)},
-    doi = {10.1017/S0770451800010885},
-    shorttitle = {Origine Sociale et réussite scolaire},
-    abstract = {Cet article étudie les relations entre l'origine socio-économique des élèves belges et leur parcours scolaire primaire et secondaire. Il repose sur l'hypothèse que le parcours scolaire des élèves peut être décrit par un processus de Markov. Sur la base d'un échantillon transversal d'un millier d'enfants, en fonction de variables socio-économiques et pour chacune des années de scolarité obligatoire, les probabilités individuelles de poursuivre un parcours scolaire «normal», c.-à-d. sans redoublement ni relégation dans une filière de second choix, sont estimées. Nos résultats montrent que derrière les substantiels taux agrégés de redoublement qui caractérisent le système scolaire belge se cachent en fait de profondes inégalités sociales., {SummaryThis} paper examines the relationship between socio-economic background and primary and secondary school achievements of Belgian students. It relies on the assumption that the schooling path of students may be described through a Markovian process. Based on a cross-section sample of about 1000 children, the individual probabilities of following a «normal» schooling path, i.e., without repeating or demeaning reorientation, are estimated for each year of compulsory schooling and as a function of socio-economic background variables. Our results show that, behind the very high aggregated rate of repeating which characterizes the Belgian school system are actually hidden considerable social inequalities.},
-    pages = {421--446},
-    number = {4},
-    journaltitle = {Recherches Économiques de Louvain/ Louvain Economic Review},
-    author = {Donni, Olivier and Lejeun, Bernard},
-    urldate = {2025-05-05},
-    date = {1997-01},
-    langid = {english},
-    keywords = {I21}
-}
-    ```
-      
-  </details>
-
-- [Modeling of student's academic performance and progression in Indian private universities using Markov chain](http://rspublication.com/IJRES/2020/dec20/1.pdf)
-
-  <details>
-    <summary>Abstract</summary>
-      Knowing the pattern of student academic performance and their progression across various levels during their study period will enable the University to make prediction based on which proper learning can be achieved. This research work employ Markov chain approach to study the pattern of student’s movement across various study levels at department of Business Administration Mewar University. In this research work, a model for estimation was developed based on the stochastic nature of the data, a finite Markov chain with three transient and two absorbing states was developed. It was discovered that the probability of graduation increases,while the rate of withdrawal decreases as the student progress to the highest level. It was also established that, a student at Mewar University is expected to spend 1.0270 academic year for the first year, 0.9411 academic year for the second year and 0.9060 academic year for the third year.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{ikibiya_modeling_2020,
-        title = {Modeling of student's academic performance and progression in Indian private universities using Markov chain},
-        volume = {4},
-        issn = {25724304},
-        url = {[http://rspublication.com/IJRES/2020/dec20/1.pdf](http://rspublication.com/IJRES/2020/dec20/1.pdf)},
-        doi = {10.26808/rs.re.v4i6.01},
-        abstract = {Knowing the pattern of student academic performance and their progression across various levels during their study period will enable the University to make prediction based on which proper learning can be achieved. This research work employ Markov chain approach to study the pattern of student’s movement across various study levels at department of Business Administration Mewar University. In this research work, a model for estimation was developed based on the stochastic nature of the data, a finite Markov chain with three transient and two absorbing states was developed. It was discovered that the probability of graduation increases,while the rate of withdrawal decreases as the student progress to the highest level. It was also established that, a student at Mewar University is expected to spend 1.0270 academic year for the first year, 0.9411 academic year for the second year and 0.9060 academic year for the third year.},
-        number = {6},
-        journaltitle = {International Journal of Research in Engineering \& Science},
-        shortjournal = {{IJRES}},
-        author = {I.Kibiya, Yakubu and A. Sabo, Shamsuddeen and Musa, Ibrahim Z. and Ibrahim, J. M.},
-        urldate = {2025-04-30},
-        date = {2020},
-        langid = {english}
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{mavruk_academic_nodate,
+        title = {Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model},
+        abstract = {This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28\%, 20\% and 52\%, respectively. The results are discussed and interpreted.},
+        author = {Mavruk, Can and Kiral, Ersin},
+        langid = {english}
     }
-    ```
-  </details>
+    ```
+      
+  </details>
 
-  - [Cognitive Load Theory: A Special Issue of educational Psychologist](https://doi.org/10.4324/9780203764770)
+- [A Temporal-Enhanced Model for Knowledge Tracing](https://doi.org/10.1007/978-3-031-72356-8_27)
 
-  <details>
-    <summary>Abstract</summary>
-    The papers of this special issue demonstrate that cognitive load theory provides the framework for investigations into cognitive processes and instructional design. The genesis of Cognitive Load Theory emerged from an international symposium organized at the bi-annual conference of the European Association for Research on Learning and Instruction in 2001 in Fribourg, Switzerland. Most of the papers are based on contributions to that symposium and discuss the most recent work carried out within the cognitive load framework. As a whole, this issue is demonstrating that cognitive load theory is continuing its role of using cognitive psychology principles to generate novel instructional design procedures.
-  </details>
+  <details>
+    <summary>Abstract</summary>
+    Knowledge Tracing (KT) aims to predict students’ future practice performance through their historical interaction with Intelligent Tutoring Systems (ITS). This method plays an important role in computer-assisted education and adaptive learning research. In the learner’s learning process, as the learning time increases, the time distance between the learner’s historical records continues to increase, resulting in a long-term dependency problem when capturing the correlation of knowledge concepts in exercises. In addition, the learner’s learning status is affected by time. How to accurately judge the learner’s knowledge status at different time levels is also a challenge. To tackle the above problems, we propose A Temporal-Enhanced Model for Knowledge Tracing (TEKT). On the one hand, the problem of long-term dependence is solved by using the Probabilistic Sparse Attention mechanism; On the other hand, the Fine-grained Temporal Features are embedded to capture learner’s knowledge status at different time granularities. The method proposed in this paper has been fully experimented and verified on three datasets. The experimental results show that the proposed method demonstrates an improvement in Accuracy (ACC) and Area Under The Receiver Operating Characteristic Curve (AUC) evaluation metrics, which compared to the existing KT methods. Thus, it proves the effectiveness of the proposed method.
+  </details>
 
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @collection{paas_cognitive_2016,
-    location = {New York},
-    title = {Cognitive Load Theory: A Special Issue of educational Psychologist},
-    isbn = {978-0-203-76477-0},
-    shorttitle = {Cognitive Load Theory},
-    abstract = {The papers of this special issue demonstrate that cognitive load theory provides the framework for investigations into cognitive processes and instructional design. The genesis of Cognitive Load Theory emerged from an international symposium organized at the bi-annual conference of the European Association for Research on Learning and Instruction in 2001 in Fribourg, Switzerland. Most of the papers are based on contributions to that symposium and discuss the most recent work carried out within the cognitive load framework. As a whole, this issue is demonstrating that cognitive load theory is continuing its role of using cognitive psychology principles to generate novel instructional design procedures.},
-    pagetotal = {80},
-    publisher = {Routledge},
-    editor = {Paas, Fred and Renkl, Alexander and Sweller, John},
-    date = {2016-02-04},
-    doi = {10.4324/9780203764770},
-}
-    ```
-      
-  </details>
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @inproceedings{cui_temporal-enhanced_2024,
+        location = {Cham},
+        title = {A Temporal-Enhanced Model for Knowledge Tracing},
+        isbn = {978-3-031-72356-8},
+        doi = {10.1007/978-3-031-72356-8_27},
+        abstract = {Knowledge Tracing ({KT}) aims to predict students’ future practice performance through their historical interaction with Intelligent Tutoring Systems ({ITS}). This method plays an important role in computer-assisted education and adaptive learning research. In the learner’s learning process, as the learning time increases, the time distance between the learner’s historical records continues to increase, resulting in a long-term dependency problem when capturing the correlation of knowledge concepts in exercises. In addition, the learner’s learning status is affected by time. How to accurately judge the learner’s knowledge status at different time levels is also a challenge. To tackle the above problems, we propose A Temporal-Enhanced Model for Knowledge Tracing ({TEKT}). On the one hand, the problem of long-term dependence is solved by using the Probabilistic Sparse Attention mechanism; On the other hand, the Fine-grained Temporal Features are embedded to capture learner’s knowledge status at different time granularities. The method proposed in this paper has been fully experimented and verified on three datasets. The experimental results show that the proposed method demonstrates an improvement in Accuracy ({ACC}) and Area Under The Receiver Operating Characteristic Curve ({AUC}) evaluation metrics, which compared to the existing {KT} methods. Thus, it proves the effectiveness of the proposed method.},
+        pages = {407--421},
+        booktitle = {Artificial Neural Networks and Machine Learning – {ICANN} 2024},
+        publisher = {Springer Nature Switzerland},
+        author = {Cui, Shaoguo and Wang, Mingyang and Xu, Song},
+        editor = {Wand, Michael and Malinovská, Kristína and Schmidhuber, Jürgen and Tetko, Igor V.},
+        date = {2024},
+        langid = {english},
+    }
+    ```
+      
+  </details>
 
-  - [Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model]()
+- [Dynamics of learning: time-varying feedback effects within the intelligent tutoring system of structure strategy (ITSS)](https://doi.org/10.1007/s11423-021-10049-w)
 
-  <details>
-    <summary>Abstract</summary>
-    This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28%, 20% and 52%, respectively. The results are discussed and interpreted.
-  </details>
+  <details>
+    <summary>Abstract</summary>
+    The intelligent tutoring system of structure strategy (ITSS) is a web-based digital tutoring system proven to be effective in helping students recognize and use text structures to comprehend and recall texts. However, little is known about the dynamic learning processes within the ITSS. This study aims to investigate the effects of feedback dosage on lesson mastery throughout the progression of ITSS lessons. We applied a confirmatory factor analysis and extended vector autoregressive model to assess the dynamic relationships among three tasks embedded within the ITSS and found: (1) significant cross-regression effects among the three reading tasks; (2) distinct effects of feedback dosage on the specific reading task; and (3) different effect sizes of feedback across lessons. Results provide helpful insights on ways to design better modules in further development of the ITSS.
+  </details>
 
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{mavruk_academic_nodate,
-    title = {Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model},
-    abstract = {This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28\%, 20\% and 52\%, respectively. The results are discussed and interpreted.},
-    author = {Mavruk, Can and Kiral, Ersin},
-    year={2016},
-    langid = {english}
-}
-    ```
-      
-  </details>
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{lee_dynamics_2021,
+        title = {Dynamics of learning: time-varying feedback effects within the intelligent tutoring system of structure strategy ({ITSS})},
+        volume = {69},
+        issn = {1556-6501},
+        url = {[https://doi.org/10.1007/s11423-021-10049-w](https://doi.org/10.1007/s11423-021-10049-w)},
+        doi = {10.1007/s11423-021-10049-w},
+        shorttitle = {Dynamics of learning},
+        abstract = {The intelligent tutoring system of structure strategy ({ITSS}) is a web-based digital tutoring system proven to be effective in helping students recognize and use text structures to comprehend and recall texts. However, little is known about the dynamic learning processes within the {ITSS}. This study aims to investigate the effects of feedback dosage on lesson mastery throughout the progression of {ITSS} lessons. We applied a confirmatory factor analysis and extended vector autoregressive model to assess the dynamic relationships among three tasks embedded within the {ITSS} and found: (1) significant cross-regression effects among the three reading tasks; (2) distinct effects of feedback dosage on the specific reading task; and (3) different effect sizes of feedback across lessons. Results provide helpful insights on ways to design better modules in further development of the {ITSS}.},
+        pages = {2963--2984},
+        number = {6},
+        journaltitle = {Educational Technology Research and Development},
+        shortjournal = {Education Tech Research Dev},
+        author = {Lee, Jungmin and Chow, Sy-Miin and Lei, Puiwa and Wijekumar, Kausalai (Kay) and Molenaar, Peter C. M.},
+        urldate = {2025-05-06},
+        date = {2021-12-01},
+        langid = {english},
+        keywords = {Digital Education and Educational Technology, Dynamical systems, Evaluation methodologies, Feedback effectiveness, Human–computer interaction, Reading comprehension},
+    }
+    ```
+      
+  </details>
 
-  - [Learning with Explainable AI-Recommendations at School: Extracting Patterns of Self-Directed Learning from Learning Logs](https://ieeexplore.ieee.org/abstract/document/10260876)
+- [Algorithms for the Development of Deep Learning Models for Classification and Prediction of Learner Behaviour in MOOCs](https://doi.org/10.1007/978-3-030-92245-0_3)
 
-  <details>
-    <summary>Abstract</summary>
-    Educational explainable AI (XAI) applications are gaining research focus and have distinct needs in the domain of Education. This research presents Educational eXplainable AI Tool (EXAIT), a system for math quiz recommendations, along with an explanation. EXAIT was implemented in a Japanese public high school where students received the top 5 math problems based on Bayesian Knowledge Tracing (BKT) algorithm in a learning analytics dashboard. It aimed to help them complete their summer vacation assignments having 240 questions. On click, the students were redirected to an eBook platform to submit their accuracy and confidence level in each problem. We conducted a study with a quasi-experimental design and divided into 3 groups based on compliance of use. RecoExp group received and used explanations regarding why an item was recommended and how it aims to maximize learners' knowledge-gaining path. RecoCon was the control group that received just the recommendations and used it and RecoNone group did not use the system at all during the time period. We provide a framework to analyze learning logs from EXAIT and extract emerging self-directed learning patterns. Analyzing 222 students' EXAIT logs, we found learners who had checked explanations while selecting recommendations had significantly higher performance. Further differential process mining highlighted significant active daily engagement transitions of the RecoExp group in the self-directed activity.
-  </details>
+  <details>
+    <summary>Abstract</summary>
+    Massive open online courses (MOOCs) are used by universities and institutions offer valuable free courses to huge numbers of people around the world through MOOC platforms. However, because of the huge number of learners, they often not receive sufficient support from instructors and their peers during the learning process, leading to high dropout, low completion, and low success rates observed in the MOOCs. This chapter focuses on analysing relevant algorithms to develop a deep learning model to predict learner behaviour (learner interactions) in the learning process. For this analysis, we use data from UNESCO’s International Institute for Capacity Building in Africa MOOC platform designed for teacher training in Africa. We employed various geographical, social, and learning behavioural features to build deep learning models based on three types of recurrent neural networks (RNNs): simple RNNs, gated recurrent unit (GRU) RNNs, and long short-term memory (LSTM) RNNs. The models were trained using L2 regularization. Results showed that simple RNNs gave the best performance and accuracy on the dataset. We also observed correlations between video viewing, quiz behaviour, and the participation of the learner and conclude that we can use learner’s video or quiz viewing behaviour to predict their behaviour concerning other MOOC contents. We also observed that the shorter the video or quiz, the greater the number of viewers. These results suggest the need for deeper research on educational video and educational quiz design for MOOCs.
+  </details>
 
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @inproceedings{majumdar_learning_2023,
-    title = {Learning with Explainable {AI}-Recommendations at School: Extracting Patterns of Self-Directed Learning from Learning Logs},
-    url = {[https://ieeexplore.ieee.org/abstract/document/10260876](https://ieeexplore.ieee.org/abstract/document/10260876)},
-    doi = {10.1109/ICALT58122.2023.00078},
-    shorttitle = {Learning with Explainable {AI}-Recommendations at School},
-    abstract = {Educational explainable {AI} ({XAI}) applications are gaining research focus and have distinct needs in the domain of Education. This research presents Educational {eXplainable} {AI} Tool ({EXAIT}), a system for math quiz recommendations, along with an explanation. {EXAIT} was implemented in a Japanese public high school where students received the top 5 math problems based on Bayesian Knowledge Tracing ({BKT}) algorithm in a learning analytics dashboard. It aimed to help them complete their summer vacation assignments having 240 questions. On click, the students were redirected to an {eBook} platform to submit their accuracy and confidence level in each problem. We conducted a study with a quasi-experimental design and divided into 3 groups based on compliance of use. {RecoExp} group received and used explanations regarding why an item was recommended and how it aims to maximize learners' knowledge-gaining path. {RecoCon} was the control group that received just the recommendations and used it and {RecoNone} group did not use the system at all during the time period. We provide a framework to analyze learning logs from {EXAIT} and extract emerging self-directed learning patterns. Analyzing 222 students' {EXAIT} logs, we found learners who had checked explanations while selecting recommendations had significantly higher performance. Further differential process mining highlighted significant active daily engagement transitions of the {RecoExp} group in the self-directed activity.},
-    eventtitle = {2023 {IEEE} International Conference on Advanced Learning Technologies ({ICALT})},
-    pages = {245--249},
-    booktitle = {2023 {IEEE} International Conference on Advanced Learning Technologies ({ICALT})},
-    author = {Majumdar, Rwitajit and Takami, Kyosuke and Ogata, Hiroaki},
-    urldate = {2025-04-28},
-    date = {2023-07},
-    note = {{ISSN}: 2161-377X},
-    keywords = {Artificial intelligence, Bayes methods, Education, Electronic publishing, {LA}, {LEAF}, pattern mining, {SDL}, {XAI}},
-}
-    ```
-      
-  </details>
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @incollection{fotso_algorithms_2022,
+        location = {Cham},
+        title = {Algorithms for the Development of Deep Learning Models for Classification and Prediction of Learner Behaviour in {MOOCs}},
+        isbn = {978-3-030-92245-0},
+        url = {[https://doi.org/10.1007/978-3-030-92245-0_3](https://doi.org/10.1007/978-3-030-92245-0_3)},
+        abstract = {Massive open online courses ({MOOCs}) are used by universities and institutions offer valuable free courses to huge numbers of people around the world through {MOOC} platforms. However, because of the huge number of learners, they often not receive sufficient support from instructors and their peers during the learning process, leading to high dropout, low completion, and low success rates observed in the {MOOCs}. This chapter focuses on analysing relevant algorithms to develop a deep learning model to predict learner behaviour (learner interactions) in the learning process. For this analysis, we use data from {UNESCO}’s International Institute for Capacity Building in Africa {MOOC} platform designed for teacher training in Africa. We employed various geographical, social, and learning behavioural features to build deep learning models based on three types of recurrent neural networks ({RNNs}): simple {RNNs}, gated recurrent unit ({GRU}) {RNNs}, and long short-term memory ({LSTM}) {RNNs}. The models were trained using L2 regularization. Results showed that simple {RNNs} gave the best performance and accuracy on the dataset. We also observed correlations between video viewing, quiz behaviour, and the participation of the learner and conclude that we can use learner’s video or quiz viewing behaviour to predict their behaviour concerning other {MOOC} contents. We also observed that the shorter the video or quiz, the greater the number of viewers. These results suggest the need for deeper research on educational video and educational quiz design for {MOOCs}.},
+        pages = {41--73},
+        booktitle = {Artificial Intelligence for Data Science in Theory and Practice},
+        publisher = {Springer International Publishing},
+        author = {Fotso, José Edmond Meku and Batchakui, Bernabe and Nkambou, Roger and Okereke, George},
+        editor = {Alloghani, Mohamed and Thron, Christopher and Subair, Saad},
+        urldate = {2025-05-06},
+        date = {2022},
+        langid = {english},
+        doi = {10.1007/978-3-030-92245-0_3},
+    }
+    ```
+      
+  </details>
 
-  - [Application of Markov Chain for Comparing the Performance of Students in Adaptive E-Assessment]()
+- [Modeling the Effort and Learning Ability of Students in MOOCs](https://ieeexplore.ieee.org/document/8818052)
 
-  <details>
-    <summary>Abstract</summary>
-    Information and Communication Technologies have become an integral part of teaching learning process. New Technologies have provided the educational field with innovations to improve the teaching learning process. One of the fastest evolving fields in the teaching learning process is assessing the performance of the students. Adaptive E-assessment with multiple choice questions is one of the reliable methods of assessing the students on a large scale. Its success largely depends on the caliber of the questions and their classification to different degree of difficulty to suit individual student ability. An adaptive Eassessment approach has been articulated and this study applies Markov chain to assess the consistency of grading the questions and its effectiveness in the assessment of student performance. Comparisons of performance between two batches of students with different backgrounds have also been carried out.
-  </details>
+  <details>
+    <summary>Abstract</summary>
+    With the popularity of MOOCs and other online learning platforms, Educational Data Mining (EDM) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability (ELA) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.
+  </details>
 
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{geetha_application_2018,
-    title = {Application of Markov Chain for Comparing the Performance of Students in Adaptive E-Assessment},
-    abstract = {Information and Communication Technologies have become an integral part of teaching learning process. New Technologies have provided the educational field with innovations to improve the teaching learning process. One of the fastest evolving fields in the teaching learning process is assessing the performance of the students. Adaptive E-assessment with multiple choice questions is one of the reliable methods of assessing the students on a large scale. Its success largely depends on the caliber of the questions and their classification to different degree of difficulty to suit individual student ability. An adaptive Eassessment approach has been articulated and this study applies Markov chain to assess the consistency of grading the questions and its effectiveness in the assessment of student performance. Comparisons of performance between two batches of students with different backgrounds have also been carried out.},
-    year = {2018},
-    author = {Geetha, V and Nandakumar, G S and Vivek, R},
-    langid = {english}
-}
-    ```
-      
-  </details>
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{gao_modeling_2019,
+        title = {Modeling the Effort and Learning Ability of Students in {MOOCs}},
+        volume = {7},
+        issn = {2169-3536},
+        url = {[https://ieeexplore.ieee.org/document/8818052](https://ieeexplore.ieee.org/document/8818052)},
+        doi = {10.1109/ACCESS.2019.2937985},
+        abstract = {With the popularity of {MOOCs} and other online learning platforms, Educational Data Mining ({EDM}) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability ({ELA}) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.},
+        pages = {128035--128042},
+        journaltitle = {{IEEE} Access},
+        author = {Gao, Lina and Zhao, Zhongying and Qi, Liang and Liang, Yongquan and Du, Junwei},
+        urldate = {2025-05-06},
+        date = {2019},
+        keywords = {Computational modeling, computer science, Computer science, Correlation, Data mining, Educational data mining, effort, information processing, learning ability, Markov processes, Statistical analysis, Task analysis}
+    }
+    ```
+      
+  </details>
 
-  - [Application of Markov chain in students’ assessment and performance: a case study of School of Mathematical Sciences, one of the public university in Malaysia](https://www.itm-conferences.org/articles/itmconf/abs/2021/01/itmconf_icmsa2021_01004/itmconf_icmsa2021_01004.html)
+- [SMART: Student modeling approach for responsive tutoring](https://doi.org/10.1007/BF01101800)
 
-  <details>
-    <summary>Abstract</summary>
-    The quality education is an essential element in economic, political and social development of any country. Therefore, enrollment forecasting is needed in higher education to assist the universities in the preparation of their educational frameworks including budgeting, provide all necessary facilities and planning the overall short and long term goals. This research study the pattern of students’ assessment and their academic performance in School of Mathematical Sciences, Universiti Sains Malaysia. The target population is all undergraduate enrollment from 2016/2017 until 2018/2019 sessions. An absorbing Markov chain model is applied to study the absorption, retention and repetitive rates of the students by the academic programs and gender. The fundamental matrix is constructed to determine the expected duration of schooling before graduating. The enrollment projection is also estimated to study the probability of the performances of the students in the long run. In summary, this research addresses on the use of Markov chain model to describe the stochastic pattern of the enrollment and assessment of the students.
-  </details>
+  <details>
+    <summary>Abstract</summary>
+    This paper describes a new student modeling paradigm called SMART. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the SMART approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). SMART works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of SMART examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.
+  </details>
 
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{yahaya_application_2021,
-    title = {Application of Markov chain in students’ assessment and performance: a case study of School of Mathematical Sciences, one of the public university in Malaysia},
-    volume = {36},
-    rights = {© The Authors, published by {EDP} Sciences, 2021},
-    issn = {2271-2097},
-    url = {[https://www.itm-conferences.org/articles/itmconf/abs/2021/01/itmconf_icmsa2021_01004/itmconf_icmsa2021_01004.html](https://www.itm-conferences.org/articles/itmconf/abs/2021/01/itmconf_icmsa2021_01004/itmconf_icmsa2021_01004.html)},
-    doi = {10.1051/itmconf/20213601004},
-    shorttitle = {Application of Markov chain in students’ assessment and performance},
-    abstract = {The quality education is an essential element in economic, political and social development of any country. Therefore, enrollment forecasting is needed in higher education to assist the universities in the preparation of their educational frameworks including budgeting, provide all necessary facilities and planning the overall short and long term goals. This research study the pattern of students’ assessment and their academic performance in School of Mathematical Sciences, Universiti Sains Malaysia. The target population is all undergraduate enrollment from 2016/2017 until 2018/2019 sessions. An absorbing Markov chain model is applied to study the absorption, retention and repetitive rates of the students by the academic programs and gender. The fundamental matrix is constructed to determine the expected duration of schooling before graduating. The enrollment projection is also estimated to study the probability of the performances of the students in the long run. In summary, this research addresses on the use of Markov chain model to describe the stochastic pattern of the enrollment and assessment of the students.},
-    pages = {01004},
-    journaltitle = {{ITM} Web of Conferences},
-    shortjournal = {{ITM} Web Conf.},
-    author = {Yahaya, Khairun Husna and Hasan, Husna},
-    urldate = {2025-04-30},
-    date = {2021},
-    langid = {english},
-    note = {Publisher: {EDP} Sciences}
-}
-    ```
-      
-  </details>
-
-  - [Student learning time analysis during COVID-19 using linear programming - Simplex method](https://www.sciencedirect.com/science/article/pii/S2590291122000201)
-
-  <details>
-    <summary>Abstract</summary>
-    Covid-19 has made a significant impact on the lives of people. The education sector is also impacted by it. The unwarranted change was difficult to handle at first, but slowly got mitigated. The schools and colleges closed to avoid mass gatherings and communication. To help the education system cope with this virus, there was a need to understand how students would accept the change and what could be the impact of students' learning approaches due to Covid-19. This research focuses on examining students' learning habits during the pandemic. A dataset was constructed to examine Indian (Maharashtra) Students' learning habits during the time schools, and colleges were suspended due to the novel coronavirus- SARS-CoV-2 (COVID-19). In response to understanding the potential effects of the coronavirus pandemic, the questionnaires were spread over a network of educational communities on Facebook and Whatsapp from September 30 to October 20, 2020. Researchers delivered the given survey to teachers and parents to collect information. In order to live the influence of students' socioeconomic status and occupational aspirations on their learning habits of students during school closures, the survey included three significant information concerns: (A) Individual demographics, including family socioeconomic status(B) Student's learning time spent during COVID-19, Support system as teachers and parents guidance; and (C) Importance of Self-learning and Effectiveness of it. But this research focuses on the Student's learning time spent during COVID-19. Around 859 responses were received through the survey. With the effective aid of the LP model and the Simplex method, the importance of instructors during online learning can be analyzed. This paper presents results with the applied approach.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{pardeshi_student_2022,
-    title = {Student learning time analysis during {COVID}-19 using linear programming - Simplex method},
-    volume = {5},
-    issn = {2590-2911},
-    url = {[https://www.sciencedirect.com/science/article/pii/S2590291122000201](https://www.sciencedirect.com/science/article/pii/S2590291122000201)},
-    doi = {10.1016/j.ssaho.2022.100266},
-    abstract = {Covid-19 has made a significant impact on the lives of people. The education sector is also impacted by it. The unwarranted change was difficult to handle at first, but slowly got mitigated. The schools and colleges closed to avoid mass gatherings and communication. To help the education system cope with this virus, there was a need to understand how students would accept the change and what could be the impact of students' learning approaches due to Covid-19. This research focuses on examining students' learning habits during the pandemic. A dataset was constructed to examine Indian (Maharashtra) Students' learning habits during the time schools, and colleges were suspended due to the novel coronavirus- {SARS}-{CoV}-2 ({COVID}-19). In response to understanding the potential effects of the coronavirus pandemic, the questionnaires were spread over a network of educational communities on Facebook and Whatsapp from September 30 to October 20, 2020. Researchers delivered the given survey to teachers and parents to collect information. In order to live the influence of students' socioeconomic status and occupational aspirations on their learning habits of students during school closures, the survey included three significant information concerns: (A) Individual demographics, including family socioeconomic status(B) Student's learning time spent during {COVID}-19, Support system as teachers and parents guidance; and (C) Importance of Self-learning and Effectiveness of it. But this research focuses on the Student's learning time spent during {COVID}-19. Around 859 responses were received through the survey. With the effective aid of the {LP} model and the Simplex method, the importance of instructors during online learning can be analyzed. This paper presents results with the applied approach.},
-    pages = {100266},
-    number = {1},
-    journaltitle = {Social Sciences \& Humanities Open},
-    shortjournal = {Social Sciences \& Humanities Open},
-    author = {Pardeshi, Sujata and Gawade, Sushopti and Hemant, Palivela},
-    urldate = {2025-05-02},
-    date = {2022-01-01},
-    keywords = {{COVID}-19, Educational systems, learning habits, Linear programming, Offline, Online, Simplex method}
-}
-    ```
-      
-  </details>
-
-  - [Using Educational Data Mining to Identify and Analyze Student Learning Strategies in an Online Flipped Classroom](https://www.mdpi.com/2227-7102/11/11/668)
-
-  <details>
-    <summary>Abstract</summary>
-    Analyzing the learning analytics from a course provides insights that can impact instructional design decisions. This study used educational data mining techniques, specifically a longitudinal k-means cluster analysis, to identify the strategies students used when completing the online portion of an online flipped spreadsheet course. An analysis of these results showed that students did tend to follow a specific learning strategy as they completed this course. However, students also self-regulated to some degree, based on the topic and context of specific lessons. These insights not only improve our understanding about the students taking the course, but they also provide guidance for how the instructional design of the course might be improved. Of note is the practical value of this proof-of-concept study in using educational data mining to improve the instructional design of a course.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{davies_using_2021,
-    title = {Using Educational Data Mining to Identify and Analyze Student Learning Strategies in an Online Flipped Classroom},
-    volume = {11},
-    rights = {[http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)},
-    issn = {2227-7102},
-    url = {[https://www.mdpi.com/2227-7102/11/11/668](https://www.mdpi.com/2227-7102/11/11/668)},
-    doi = {10.3390/educsci11110668},
-    abstract = {Analyzing the learning analytics from a course provides insights that can impact instructional design decisions. This study used educational data mining techniques, specifically a longitudinal k-means cluster analysis, to identify the strategies students used when completing the online portion of an online flipped spreadsheet course. An analysis of these results showed that students did tend to follow a specific learning strategy as they completed this course. However, students also self-regulated to some degree, based on the topic and context of specific lessons. These insights not only improve our understanding about the students taking the course, but they also provide guidance for how the instructional design of the course might be improved. Of note is the practical value of this proof-of-concept study in using educational data mining to improve the instructional design of a course.},
-    pages = {668},
-    number = {11},
-    journaltitle = {Education Sciences},
-    author = {Davies, Randall and Allen, Gove and Albrecht, Conan and Bakir, Nesrin and Ball, Nick},
-    urldate = {2025-05-02},
-    date = {2021-11},
-    langid = {english},
-    note = {Number: 11
-Publisher: Multidisciplinary Digital Publishing Institute},
-    keywords = {data analytics, education, instructional design, learning analytics, online learning}
-}
-    ```
-      
-  </details>
-
-  - [Analysis of the Factors Influencing Learners’ Performance Prediction With Learning Analytics](https://ieeexplore.ieee.org/document/8948025)
-
-  <details>
-    <summary>Abstract</summary>
-    The advancement of learning analytics has enabled the development of predictive models to forecast learners' behaviors and outcomes (e.g., performance). However, many of these models are only applicable to specific learning environments and it is usually difficult to know which factors influence prediction results, including the predictor variables as well as the type of prediction outcome. Knowing these factors would be relevant to generalize to other contexts, compare approaches, improve the predictive models and enhance the possible interventions. In this direction, this work aims to analyze how several factors can make an influence on the prediction of students' performance. These factors include the effect of previous grades, forum variables, variables related to exercises, clickstream data, course duration, type of assignments, data collection procedure, question format in an exam, and the prediction outcome (considering intermediate assignment grades, including the final exam, and the final grade). Results show that variables related to exercises are the best predictors, unlike variables about forum, which are useless. Clickstream data can be acceptable predictors when exercises are not available, but they do not add prediction power if variables related to exercises are present. Predictive power was also better for concept-oriented assignments and best models usually contained only the last interactions. In addition, results showed that multiple-choice questions were easier to predict than coding questions, and the final exam grade (actual knowledge at a specific moment) was harder to predict than the final grade (average knowledge in the long term), based on different assignments during the course.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{moreno-marcos_analysis_2020,
-    title = {Analysis of the Factors Influencing Learners’ Performance Prediction With Learning Analytics},
-    volume = {8},
-    issn = {2169-3536},
-    url = {[https://ieeexplore.ieee.org/document/8948025](https://ieeexplore.ieee.org/document/8948025)},
-    doi = {10.1109/ACCESS.2019.2963503},
-    abstract = {The advancement of learning analytics has enabled the development of predictive models to forecast learners' behaviors and outcomes (e.g., performance). However, many of these models are only applicable to specific learning environments and it is usually difficult to know which factors influence prediction results, including the predictor variables as well as the type of prediction outcome. Knowing these factors would be relevant to generalize to other contexts, compare approaches, improve the predictive models and enhance the possible interventions. In this direction, this work aims to analyze how several factors can make an influence on the prediction of students' performance. These factors include the effect of previous grades, forum variables, variables related to exercises, clickstream data, course duration, type of assignments, data collection procedure, question format in an exam, and the prediction outcome (considering intermediate assignment grades, including the final exam, and the final grade). Results show that variables related to exercises are the best predictors, unlike variables about forum, which are useless. Clickstream data can be acceptable predictors when exercises are not available, but they do not add prediction power if variables related to exercises are present. Predictive power was also better for concept-oriented assignments and best models usually contained only the last interactions. In addition, results showed that multiple-choice questions were easier to predict than coding questions, and the final exam grade (actual knowledge at a specific moment) was harder to predict than the final grade (average knowledge in the long term), based on different assignments during the course.},
-    pages = {5264--5282},
-    journaltitle = {{IEEE} Access},
-    author = {Moreno-Marcos, Pedro Manuel and Pong, Ting-Chuen and Muñoz-Merino, Pedro J. and Delgado Kloos, Carlos},
-    urldate = {2025-05-05},
-    date = {2020},
-    keywords = {Behavioral sciences, Computer aided instruction, Educational courses, {edX}, Human factors, learners’ grades, learning analytics, {MOOCs}, Prediction, Predictive models}
-}
-    ```
-      
-  </details>
-
-  - [Knowledge Tracing: A Survey](https://dl.acm.org/doi/10.1145/3569576)
-
-  <details>
-    <summary>Abstract</summary>
-    Humans’ ability to transfer knowledge through teaching is one of the essential aspects for human intelligence. A human teacher can track the knowledge of students to customize the teaching on students’ needs. With the rise of online education platforms, there is a similar need for machines to track the knowledge of students and tailor their learning experience. This is known as the Knowledge Tracing (KT) problem in the literature. Effectively solving the KT problem would unlock the potential of computer-aided education applications such as intelligent tutoring systems, curriculum learning, and learning materials’ recommendation. Moreover, from a more general viewpoint, a student may represent any kind of intelligent agents including both human and artificial agents. Thus, the potential of KT can be extended to any machine teaching application scenarios which seek for customizing the learning experience for a student agent (i.e., a machine learning model). In this paper, we provide a comprehensive survey for the KT literature. We cover a broad range of methods starting from the early attempts to the recent state-of-the-art methods using deep learning, while highlighting the theoretical aspects of models and the characteristics of benchmark datasets. Besides these, we shed light on key modelling differences between closely related methods and summarize them in an easy-to-understand format. Finally, we discuss current research gaps in the KT literature and possible future research and application directions.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{abdelrahman_knowledge_2023,
-    title = {Knowledge Tracing: A Survey},
-    volume = {55},
-    url = {[https://dl.acm.org/doi/10.1145/3569576](https://dl.acm.org/doi/10.1145/3569576)},
-    doi = {10.1145/3569576},
-    shorttitle = {Knowledge Tracing},
-    abstract = {Humans’ ability to transfer knowledge through teaching is one of the essential aspects for human intelligence. A human teacher can track the knowledge of students to customize the teaching on students’ needs. With the rise of online education platforms, there is a similar need for machines to track the knowledge of students and tailor their learning experience. This is known as the Knowledge Tracing ({KT}) problem in the literature. Effectively solving the {KT} problem would unlock the potential of computer-aided education applications such as intelligent tutoring systems, curriculum learning, and learning materials’ recommendation. Moreover, from a more general viewpoint, a student may represent any kind of intelligent agents including both human and artificial agents. Thus, the potential of {KT} can be extended to any machine teaching application scenarios which seek for customizing the learning experience for a student agent (i.e., a machine learning model). In this paper, we provide a comprehensive survey for the {KT} literature. We cover a broad range of methods starting from the early attempts to the recent state-of-the-art methods using deep learning, while highlighting the theoretical aspects of models and the characteristics of benchmark datasets. Besides these, we shed light on key modelling differences between closely related methods and summarize them in an easy-to-understand format. Finally, we discuss current research gaps in the {KT} literature and possible future research and application directions.},
-    pages = {1--37},
-    number = {11},
-    journaltitle = {{ACM} Computing Surveys},
-    author = {Abdelrahman, Ghodai and {[https://orcid.org/0000-0002-7470-0494](https://orcid.org/0000-0002-7470-0494)} and {View Profile} and Wang, Qing and {[https://orcid.org/0000-0001-9504-4273](https://orcid.org/0000-0001-9504-4273)} and {View Profile} and Nunes, Bernardo and {[https://orcid.org/0000-0001-9764-9401](https://orcid.org/0000-0001-9764-9401)} and {View Profile}},
-    urldate = {2025-05-06},
-    date = {2023-02-09},
-    note = {Publisher: Association for Computing Machinery},
-    keywords = {Bayesian knowledge tracing ({BKT}), deep learning, factor analysis, intelligent education, key-value memory, Knowledge tracing, memory networks, sequence modelling, survey}
-}
-    ```
-      
-  </details>
-
-  - [Improving precision of ability estimation: Getting more from response times](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)
-
-  <details>
-    <summary>Abstract</summary>
-    By considering information about response time (RT) in addition to response accuracy (RA), joint models for RA and RT such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider RA. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between RT and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual RTs. We propose a posterior predictive check for evaluating the assumption of conditional independence between RT and ability given speed. Furthermore, we propose an extension of the hierarchical model that contains cross-loadings between ability and RT, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an RA-only model is considered. The model is applied to data from a high-stakes educational test.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{bolsinova_improving_2018,
-    title = {Improving precision of ability estimation: Getting more from response times},
-    volume = {71},
-    rights = {© 2017 The British Psychological Society},
-    issn = {2044-8317},
-    url = {[https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)},
-    doi = {10.1111/bmsp.12104},
-    shorttitle = {Improving precision of ability estimation},
-    abstract = {By considering information about response time ({RT}) in addition to response accuracy ({RA}), joint models for {RA} and {RT} such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider {RA}. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between {RT} and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual {RTs}. We propose a posterior predictive check for evaluating the assumption of conditional independence between {RT} and ability given speed. Furthermore, we propose an extension of the hierarchical model that contains cross-loadings between ability and {RT}, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an {RA}-only model is considered. The model is applied to data from a high-stakes educational test.},
-    pages = {13--38},
-    number = {1},
-    journaltitle = {British Journal of Mathematical and Statistical Psychology},
-    author = {Bolsinova, Maria and Tijmstra, Jesper},
-    urldate = {2025-05-06},
-    date = {2018},
-    langid = {english},
-    note = {\_eprint: [https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104)},
-    keywords = {collateral information, hierarchical model, item response theory, measurement precision, response times}
-}
-    ```
-      
-  </details>
-
-  - [Modeling the Effort and Learning Ability of Students in MOOCs](https://ieeexplore.ieee.org/document/8818052)
-
-  <details>
-    <summary>Abstract</summary>
-    With the popularity of MOOCs and other online learning platforms, Educational Data Mining (EDM) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability (ELA) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{gao_modeling_2019,
-    title = {Modeling the Effort and Learning Ability of Students in {MOOCs}},
-    volume = {7},
-    issn = {2169-3536},
-    url = {[https://ieeexplore.ieee.org/document/8818052](https://ieeexplore.ieee.org/document/8818052)},
-    doi = {10.1109/ACCESS.2019.2937985},
-    abstract = {With the popularity of {MOOCs} and other online learning platforms, Educational Data Mining ({EDM}) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability ({ELA}) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.},
-    pages = {128035--128042},
-    journaltitle = {{IEEE} Access},
-    author = {Gao, Lina and Zhao, Zhongying and Qi, Liang and Liang, Yongquan and Du, Junwei},
-    urldate = {2025-05-06},
-    date = {2019},
-    keywords = {Computational modeling, computer science, Computer science, Correlation, Data mining, Educational data mining, effort, information processing, learning ability, Markov processes, Statistical analysis, Task analysis}
-}
-    ```
-      
-  </details>
-
-  - [SMART: Student modeling approach for responsive tutoring](https://doi.org/10.1007/BF01101800)
-
-  <details>
-    <summary>Abstract</summary>
-    This paper describes a new student modeling paradigm called SMART. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the SMART approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). SMART works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of SMART examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.
-  </details>
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @article{shute_smart_1995,
-    title = {{SMART}: Student modeling approach for responsive tutoring},
-    volume = {5},
-    issn = {1573-1391},
-    url = {[https://doi.org/10.1007/BF01101800](https://doi.org/10.1007/BF01101800)},
-    doi = {10.1007/BF01101800},
-    shorttitle = {{SMART}},
-    abstract = {This paper describes a new student modeling paradigm called {SMART}. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the {SMART} approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). {SMART} works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of {SMART} examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.},
-    pages = {1--44},
-    number = {1},
-    journaltitle = {User Modeling and User-Adapted Interaction},
-    shortjournal = {User Model User-Adap Inter},
-    author = {Shute, Valerie J.},
-    urldate = {2025-05-06},
-    date = {1995-03-01},
-    langid = {english},
-    keywords = {Aptitudes, cognitive diagnosis, learning outcomes, macroadaptation, mastery learning, microadaptation, remediation},
-}
-    ```
-      
-  </details>
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{shute_smart_1995,
+        title = {{SMART}: Student modeling approach for responsive tutoring},
+        volume = {5},
+        issn = {1573-1391},
+        url = {[https://doi.org/10.1007/BF01101800](https://doi.org/10.1007/BF01101800)},
+        doi = {10.1007/BF01101800},
+        shorttitle = {{SMART}},
+        abstract = {This paper describes a new student modeling paradigm called {SMART}. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the {SMART} approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). {SMART} works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of {SMART} examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.},
+        pages = {1--44},
+        number = {1},
+        journaltitle = {User Modeling and User-Adapted Interaction},
+        shortjournal = {User Model User-Adap Inter},
+        author = {Shute, Valerie J.},
+        urldate = {2025-05-06},
+        date = {1995-03-01},
+        langid = {english},
+        keywords = {Aptitudes, cognitive diagnosis, learning outcomes, macroadaptation, mastery learning, microadaptation, remediation},
+    }
+    ```
+      
+  </details>
 
 - [Analysis of Online Learning Time in Flipped classroom Based on MCMC | Proceedings of the 5th International Conference on Distance Education and Learning](https://dl.acm.org/doi/10.1145/3402569.3402579)
 
-  <details>
-    <summary>Abstract</summary>
-    (Abstract not provided in the BibTeX entry)
-  </details>
+  <details>
+    <summary>Abstract</summary>
+    (Abstract not provided in the BibTeX entry)
+  </details>
 
-  <details>
-    <summary>Cite</summary>
-
-    ```bibtex
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
     @online{noauthor_analysis_nodate,
-        title = {Analysis of Online Learning Time in Flipped classroom Based on {MCMC} {\textbar} Proceedings of the 5th International Conference on Distance Education and Learning},
-        url = {[https://dl.acm.org/doi/10.1145/3402569.3402579](https://dl.acm.org/doi/10.1145/3402569.3402579)},
-        titleaddon = {{ACM} Other conferences},
-        urldate = {2025-05-06},
-        doi = {10.1145/3402569.3402579},
-        note = {Archive Location: world},
-        author={Hongli Yuan, Wenjuan Sun, Yan Chen},
-        Year={2020}
+        title = {Analysis of Online Learning Time in Flipped classroom Based on {MCMC} {\textbar} Proceedings of the 5th International Conference on Distance Education and Learning},
+        url = {[https://dl.acm.org/doi/10.1145/3402569.3402579](https://dl.acm.org/doi/10.1145/3402569.3402579)},
+        titleaddon = {{ACM} Other conferences},
+        urldate = {2025-05-06},
+        doi = {10.1145/3402569.3402579},
+        note = {Archive Location: world},
+        author={Hongli Yuan, Wenjuan Sun, Yan Chen},
+        Year={2020}
     }
-    ```
+    ```
+      
+  </details>
 
-  </details>
+- [Using Markov chain on onlinr learning history data to develop learner model for measuring strength of learning habits](https://doi.org/10.33965/CELDA2022_202207C047)
+
+  <details>
+    <summary>Abstract</summary>
+    A learner model reflects learning patterns and characteristics of a learner. A learner model with learning history and its effectiveness plays a significant role in supporting a learner’s understanding of their strengths and weaknesses of their way of learning in order to make proper adjustments for improvement. Nowadays, learners have been engaging in online learning frequently and intensely, leaving behind tremendous learning history data that contain informative insights about the learners’ learning patterns. This paper proposed a method for developing learner models by applying the Markov chain to learning history data. Our method transforms individual learners’ resource use data in a learning course into a large amount of resource use sequences, then develops a Markov learner model, and generates the resource use steady state for each learner. The resource use density, the resource steady state, and the assessment scores of individual learners tell their learning patterns and the effectiveness of the learning patterns. From the Markov learner model, we generate a learner profile for describing learning patterns and an index for measuring the strength of learning habits of the learner. We verified our method by applying it to each course in the OULAD dataset to predict the learning performance using the index. The preliminary results gain up to 97% accuracy on the pass/fail prediction problem.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @online{noauthor_using_2022,
+        title = {Using Markov chain on onlinr learning history data to develop learner model for measuring strength of learning habits},
+        isbn = {978-989-8704-43-6},
+        doi = {[https://doi.org/10.33965/CELDA2022_202207C047](https://doi.org/10.33965/CELDA2022_202207C047)},
+        abstract = {A learner model reflects learning patterns and characteristics of a learner. A learner model with learning history and its effectiveness plays a significant role in supporting a learner’s understanding of their strengths and weaknesses of their way of learning in order to make proper adjustments for improvement. Nowadays, learners have been engaging in online learning frequently and intensely, leaving behind tremendous learning history data that contain informative insights about the learners’ learning patterns. This paper proposed a method for developing learner models by applying the Markov chain to learning history data. Our method transforms individual learners’ resource use data in a learning course into a large amount of resource use sequences, then develops a Markov learner model, and generates the resource use steady state for each learner. The resource use density, the resource steady state, and the assessment scores of individual learners tell their learning patterns and the effectiveness of the learning patterns. From the Markov learner model, we generate a learner profile for describing learning patterns and an index for measuring the strength of learning habits of the learner. We verified our method by applying it to each course in the {OULAD} dataset to predict the learning performance using the index. The preliminary results gain up to 97\% accuracy on the pass/fail prediction problem.},
+        eventtitle = {19th International Conference on Cognition and Exploratory Learning in the Digital Age ({CELDA} 2022)},
+        booktitle = {Proceeedings of the 19th International Conference on Cognition and Exploratory Learning in the Digital Age ({CELDA} 2022)},
+        publisher = {{IADIS} Press},
+        urldate = {2025-04-30},
+        date = {2022-11-08},
+        langid = {english}
+    }
+    ```
+      
+  </details>
+
+- [Educational Data Mining and Learning Analytics](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118956588.ch16)
+
+  <details>
+    <summary>Abstract</summary>
+    In recent years, there has been increasing interest in using the methods of educational data mining (EDM) and learning analytics (LA) to study and measure learner cognition. In this chapter, we discuss how these types of methods can be used to measure complex cognition and meta-cognition in types of environments where inference can be challenging: exploratory and inquiry learning environments, complex games, and project-based learning. We give examples from a range of projects for the types of constructs that can be inferred using EDM/LA methods and how these measures compare to what can be obtained from more traditional methods. We conclude with a discussion of future discussion and potentials for these kinds of methods.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @incollection{baker_educational_2016,
+        title = {Educational Data Mining and Learning Analytics},
+        rights = {© 2017 John Wiley \& Sons, Inc.},
+        isbn = {978-1-118-95658-8},
+        url = {[https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118956588.ch16](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118956588.ch16)},
+        abstract = {In recent years, there has been increasing interest in using the methods of educational data mining ({EDM}) and learning analytics ({LA}) to study and measure learner cognition. In this chapter, we discuss how these types of methods can be used to measure complex cognition and meta-cognition in types of environments where inference can be challenging: exploratory and inquiry learning environments, complex games, and project-based learning. We give examples from a range of projects for the types of constructs that can be inferred using {EDM}/{LA} methods and how these measures compare to what can be obtained from more traditional methods. We conclude with a discussion of future discussion and potentials for these kinds of methods.},
+        pages = {379--396},
+        booktitle = {The Wiley Handbook of Cognition and Assessment},
+        publisher = {John Wiley \& Sons, Ltd},
+        author = {Baker, Ryan S. and Martin, Taylor and Rossi, Lisa M.},
+        urldate = {2025-05-06},
+        date = {2016},
+        langid = {english},
+        doi = {10.1002/9781118956588.ch16},
+        note = {Section: 16
+        \_eprint: [https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118956588.ch16](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118956588.ch16)},
+        keywords = {complex games, educational data mining, educational measurement, exploratory learning environments, inquiry learning environments, learning analytics}
+    }
+    ```
+      
+  </details>
+
+- [Improving precision of ability estimation: Getting more from response times](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)
+
+  <details>
+    <summary>Abstract</summary>
+    By considering information about response time (RT) in addition to response accuracy (RA), joint models for RA and RT such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider RA. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between RT and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual RTs. We propose a posterior predictive check for evaluating the assumption of conditional independence between RT and ability given speed. Furthermore, we propose an extension of the hierarchical model that contains cross-loadings between ability and RT, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an RA-only model is considered. The model is applied to data from a high-stakes educational test.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{bolsinova_improving_2018,
+        title = {Improving precision of ability estimation: Getting more from response times},
+        volume = {71},
+        rights = {© 2017 The British Psychological Society},
+        issn = {2044-8317},
+        url = {[https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)},
+        doi = {10.1111/bmsp.12104},
+        shorttitle = {Improving precision of ability estimation},
+        abstract = {By considering information about response time ({RT}) in addition to response accuracy ({RA}), joint models for {RA} and {RT} such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider {RA}. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between {RT} and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual {RTs}. We propose a posterior predictive check for evaluating the assumption of conditional independence between {RT} and ability given speed. Furthermore, we propose an an extension of the hierarchical model that contains cross-loadings between ability and {RT}, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an {RA}-only model is considered. The model is applied to data from a high-stakes educational test.},
+        pages = {13--38},
+        number = {1},
+        journaltitle = {British Journal of Mathematical and Statistical Psychology},
+        author = {Bolsinova, Maria and Tijmstra, Jesper},
+        urldate = {2025-05-06},
+        date = {2018},
+        langid = {english},
+        note = {\_eprint: [https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104)},
+        keywords = {collateral information, hierarchical model, item response theory, measurement precision, response times}
+    }
+    ```
+      
+  </details>
+
+- [Origine Sociale et réussite scolaire: un modèle en Chaîne de Markov estimé sur données individuelles belges](https://www.cambridge.org/core/journals/recherches-economiques-de-louvain-louvain-economic-review/article/abs/origine-sociale-et-reussite-scolaire-un-modele-en-chaine-de-markov-estime-sur-donnees-individuelles-belges/DAF949A2700A968640AC70C72A30838E)
+
+  <details>
+    <summary>Abstract</summary>
+    Cet article étudie les relations entre l'origine socio-économique des élèves belges et leur parcours scolaire primaire et secondaire. Il repose sur l'hypothèse que le parcours scolaire des élèves peut être décrit par un processus de Markov. Sur la base d'un échantillon transversal d'un millier d'enfants, en fonction de variables socio-économiques et pour chacune des années de scolarité obligatoire, les probabilités individuelles de poursuivre un parcours scolaire «normal», c.-à-d. sans redoublement ni relégation dans une filière de second choix, sont estimées. Nos résultats montrent que derrière les substantiels taux agrégés de redoublement qui caractérisent le système scolaire belge se cachent en fait de profondes inégalités sociales., SummaryThis paper examines the relationship between socio-economic background and primary and secondary school achievements of Belgian students. It relies on the assumption that the schooling path of students may be described through a Markovian process. Based on a cross-section sample of about 1000 children, the individual probabilities of following a «normal» schooling path, i.e., without repeating or demeaning reorientation, are estimated for each year of compulsory schooling and as a function of socio-economic background variables. Our results show that, behind the very high aggregated rate of repeating which characterizes the Belgian school system are actually hidden considerable social inequalities.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{donni_origine_1997,
+        title = {Origine Sociale et réussite scolaire: un modèle en Chaîne de Markov estimé sur données individuelles belges},
+        volume = {63},
+        issn = {0770-4518, 1782-1495},
+        url = {[https://www.cambridge.org/core/journals/recherches-economiques-de-louvain-louvain-economic-review/article/abs/origine-sociale-et-reussite-scolaire-un-modele-en-chaine-de-markov-estime-sur-donnees-individuelles-belges/DAF949A2700A968640AC70C72A30838E](https://www.cambridge.org/core/journals/recherches-economiques-de-louvain-louvain-economic-review/article/abs/origine-sociale-et-reussite-scolaire-un-modele-en-chaine-de-markov-estime-sur-donnees-individuelles-belges/DAF949A2700A968640AC70C72A30838E)},
+        doi = {10.1017/S0770451800010885},
+        shorttitle = {Origine Sociale et réussite scolaire},
+        abstract = {Cet article étudie les relations entre l'origine socio-économique des élèves belges et leur parcours scolaire primaire et secondaire. Il repose sur l'hypothèse que le parcours scolaire des élèves peut être décrit par un processus de Markov. Sur la base d'un échantillon transversal d'un millier d'enfants, en fonction de variables socio-économiques et pour chacune des années de scolarité obligatoire, les probabilités individuelles de poursuivre un parcours scolaire «normal», c.-à-d. sans redoublement ni relégation dans une filière de second choix, sont estimées. Nos résultats montrent que derrière les substantiels taux agrégés de redoublement qui caractérisent le système scolaire belge se cachent en fait de profondes inégalités sociales., {SummaryThis} paper examines the relationship between socio-economic background and primary and secondary school achievements of Belgian students. It relies on the assumption that the schooling path of students may be described through a Markovian process. Based on a cross-section sample of about 1000 children, the individual probabilities of following a «normal» schooling path, i.e., without repeating or demeaning reorientation, are estimated for each year of compulsory schooling and as a function of socio-economic background variables. Our results show that, behind the very high aggregated rate of repeating which characterizes the Belgian school system are actually hidden considerable social inequalities.},
+        pages = {421--446},
+        number = {4},
+        journaltitle = {Recherches Économiques de Louvain/ Louvain Economic Review},
+        author = {Donni, Olivier and Lejeun, Bernard},
+        urldate = {2025-05-05},
+        date = {1997-01},
+        langid = {english},
+        keywords = {I21}
+    }
+    ```
+      
+  </details>
+
+- [Modeling of student's academic performance and progression in Indian private universities using Markov chain](http://rspublication.com/IJRES/2020/dec20/1.pdf)
+
+  <details>
+    <summary>Abstract</summary>
+      Knowing the pattern of student academic performance and their progression across various levels during their study period will enable the University to make prediction based on which proper learning can be achieved. This research work employ Markov chain approach to study the pattern of student’s movement across various study levels at department of Business Administration Mewar University. In this research work, a model for estimation was developed based on the stochastic nature of the data, a finite Markov chain with three transient and two absorbing states was developed. It was discovered that the probability of graduation increases,while the rate of withdrawal decreases as the student progress to the highest level. It was also established that, a student at Mewar University is expected to spend 1.0270 academic year for the first year, 0.9411 academic year for the second year and 0.9060 academic year for the third year.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{ikibiya_modeling_2020,
+        title = {Modeling of student's academic performance and progression in Indian private universities using Markov chain},
+        volume = {4},
+        issn = {25724304},
+        url = {[http://rspublication.com/IJRES/2020/dec20/1.pdf](http://rspublication.com/IJRES/2020/dec20/1.pdf)},
+        doi = {10.26808/rs.re.v4i6.01},
+        abstract = {Knowing the pattern of student academic performance and their progression across various levels during their study period will enable the University to make prediction based on which proper learning can be achieved. This research work employ Markov chain approach to study the pattern of student’s movement across various study levels at department of Business Administration Mewar University. In this research work, a model for estimation was developed based on the stochastic nature of the data, a finite Markov chain with three transient and two absorbing states was developed. It was discovered that the probability of graduation increases,while the rate of withdrawal decreases as the student progress to the highest level. It was also established that, a student at Mewar University is expected to spend 1.0270 academic year for the first year, 0.9411 academic year for the second year and 0.9060 academic year for the third year.},
+        number = {6},
+        journaltitle = {International Journal of Research in Engineering \& Science},
+        shortjournal = {{IJRES}},
+        author = {I.Kibiya, Yakubu and A. Sabo, Shamsuddeen and Musa, Ibrahim Z. and Ibrahim, J. M.},
+        urldate = {2025-04-30},
+        date = {2020},
+        langid = {english}
+    }
+    ```
+  </details>
+
+- [Cognitive Load Theory: A Special Issue of educational Psychologist](https://doi.org/10.4324/9780203764770)
+
+  <details>
+    <summary>Abstract</summary>
+    The papers of this special issue demonstrate that cognitive load theory provides the framework for investigations into cognitive processes and instructional design. The genesis of Cognitive Load Theory emerged from an international symposium organized at the bi-annual conference of the European Association for Research on Learning and Instruction in 2001 in Fribourg, Switzerland. Most of the papers are based on contributions to that symposium and discuss the most recent work carried out within the cognitive load framework. As a whole, this issue is demonstrating that cognitive load theory is continuing its role of using cognitive psychology principles to generate novel instructional design procedures.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @collection{paas_cognitive_2016,
+        location = {New York},
+        title = {Cognitive Load Theory: A Special Issue of educational Psychologist},
+        isbn = {978-0-203-76477-0},
+        shorttitle = {Cognitive Load Theory},
+        abstract = {The papers of this special issue demonstrate that cognitive load theory provides the framework for investigations into cognitive processes and instructional design. The genesis of Cognitive Load Theory emerged from an international symposium organized at the bi-annual conference of the European Association for Research on Learning and Instruction in 2001 in Fribourg, Switzerland. Most of the papers are based on contributions to that symposium and discuss the most recent work carried out within the cognitive load framework. As a whole, this issue is demonstrating that cognitive load theory is continuing its role of using cognitive psychology principles to generate novel instructional design procedures.},
+        pagetotal = {80},
+        publisher = {Routledge},
+        editor = {Paas, Fred and Renkl, Alexander and Sweller, John},
+        date = {2016-02-04},
+        doi = {10.4324/9780203764770},
+    }
+    ```
+      
+  </details>
+
+- [Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model]()
+
+  <details>
+    <summary>Abstract</summary>
+    This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28%, 20% and 52%, respectively. The results are discussed and interpreted.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{mavruk_academic_nodate,
+        title = {Academic progress of students in quantitative courses at nidge university vocational school of social sciences : a prediction using Markov model},
+        abstract = {This study analyzes and predicts the academic progress of vocational school of social sciences students in quantitative courses in order to improve student progress in education. A population of 232 students taking commercial mathematics and statistics courses in 2014/2015 academic year is selected. The academic progress of students are estimated by using final examination scores extracted from {OGRIS} student otomation system of Nigde University. Academic progress is classified with respect to the mean test score as “greater”, “stable” and “lower”. Chi-square test is used for statistical analysis and predictions are estimated by one step stochastic Markov chai n model. Direction of academic progress is predicted by the product of the initial probability matrix and transition probability matrix. In 2028-2029 academic year, the probabilities of improvement, no change and decline become stable approximately at 28\%, 20\% and 52\%, respectively. The results are discussed and interpreted.},
+        author = {Mavruk, Can and Kiral, Ersin},
+        year={2016},
+        langid = {english}
+    }
+    ```
+      
+  </details>
+
+- [Learning with Explainable AI-Recommendations at School: Extracting Patterns of Self-Directed Learning from Learning Logs](https://ieeexplore.ieee.org/abstract/document/10260876)
+
+  <details>
+    <summary>Abstract</summary>
+    Educational explainable AI (XAI) applications are gaining research focus and have distinct needs in the domain of Education. This research presents Educational eXplainable AI Tool (EXAIT), a system for math quiz recommendations, along with an explanation. EXAIT was implemented in a Japanese public high school where students received the top 5 math problems based on Bayesian Knowledge Tracing (BKT) algorithm in a learning analytics dashboard. It aimed to help them complete their summer vacation assignments having 240 questions. On click, the students were redirected to an eBook platform to submit their accuracy and confidence level in each problem. We conducted a study with a quasi-experimental design and divided into 3 groups based on compliance of use. RecoExp group received and used explanations regarding why an item was recommended and how it aims to maximize learners' knowledge-gaining path. RecoCon was the control group that received just the recommendations and used it and RecoNone group did not use the system at all during the time period. We provide a framework to analyze learning logs from EXAIT and extract emerging self-directed learning patterns. Analyzing 222 students' EXAIT logs, we found learners who had checked explanations while selecting recommendations had significantly higher performance. Further differential process mining highlighted significant active daily engagement transitions of the RecoExp group in the self-directed activity.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @inproceedings{majumdar_learning_2023,
+        title = {Learning with Explainable {AI}-Recommendations at School: Extracting Patterns of Self-Directed Learning from Learning Logs},
+        url = {[https://ieeexplore.ieee.org/abstract/document/10260876](https://ieeexplore.ieee.org/abstract/document/10260876)},
+        doi = {10.1109/ICALT58122.2023.00078},
+        shorttitle = {Learning with Explainable {AI}-Recommendations at School},
+        abstract = {Educational explainable {AI} ({XAI}) applications are gaining research focus and have distinct needs in the domain of Education. This research presents Educational {eXplainable} {AI} Tool ({EXAIT}), a system for math quiz recommendations, along with an explanation. {EXAIT} was implemented in a Japanese public high school where students received the top 5 math problems based on Bayesian Knowledge Tracing ({BKT}) algorithm in a learning analytics dashboard. It aimed to help them complete their summer vacation assignments having 240 questions. On click, the students were redirected to an {eBook} platform to submit their accuracy and confidence level in each problem. We conducted a study with a quasi-experimental design and divided into 3 groups based on compliance of use. {RecoExp} group received and used explanations regarding why an item was recommended and how it aims to maximize learners' knowledge-gaining path. {RecoCon} was the control group that received just the recommendations and used it and {RecoNone} group did not use the system at all during the time period. We provide a framework to analyze learning logs from {EXAIT} and extract emerging self-directed learning patterns. Analyzing 222 students' {EXAIT} logs, we found learners who had checked explanations while selecting recommendations had significantly higher performance. Further differential process mining highlighted significant active daily engagement transitions of the {RecoExp} group in the self-directed activity.},
+        eventtitle = {2023 {IEEE} International Conference on Advanced Learning Technologies ({ICALT})},
+        pages = {245--249},
+        booktitle = {2023 {IEEE} International Conference on Advanced Learning Technologies ({ICALT})},
+        author = {Majumdar, Rwitajit and Takami, Kyosuke and Ogata, Hiroaki},
+        urldate = {2025-04-28},
+        date = {2023-07},
+        note = {{ISSN}: 2161-377X},
+        keywords = {Artificial intelligence, Bayes methods, Education, Electronic publishing, {LA}, {LEAF}, pattern mining, {SDL}, {XAI}},
+    }
+    ```
+      
+  </details>
+
+- [Application of Markov Chain for Comparing the Performance of Students in Adaptive E-Assessment]()
+
+  <details>
+    <summary>Abstract</summary>
+    Information and Communication Technologies have become an integral part of teaching learning process. New Technologies have provided the educational field with innovations to improve the teaching learning process. One of the fastest evolving fields in the teaching learning process is assessing the performance of the students. Adaptive E-assessment with multiple choice questions is one of the reliable methods of assessing the students on a large scale. Its success largely depends on the caliber of the questions and their classification to different degree of difficulty to suit individual student ability. An adaptive Eassessment approach has been articulated and this study applies Markov chain to assess the consistency of grading the questions and its effectiveness in the assessment of student performance. Comparisons of performance between two batches of students with different backgrounds have also been carried out.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{geetha_application_2018,
+        title = {Application of Markov Chain for Comparing the Performance of Students in Adaptive E-Assessment},
+        abstract = {Information and Communication Technologies have become an integral part of teaching learning process. New Technologies have provided the educational field with innovations to improve the teaching learning process. One of the fastest evolving fields in the teaching learning process is assessing the performance of the students. Adaptive E-assessment with multiple choice questions is one of the reliable methods of assessing the students on a large scale. Its success largely depends on the caliber of the questions and their classification to different degree of difficulty to suit individual student ability. An adaptive Eassessment approach has been articulated and this study applies Markov chain to assess the consistency of grading the questions and its effectiveness in the assessment of student performance. Comparisons of performance between two batches of students with different backgrounds have also been carried out.},
+        year = {2018},
+        author = {Geetha, V and Nandakumar, G S and Vivek, R},
+        langid = {english}
+    }
+    ```
+      
+  </details>
+
+- [Application of Markov chain in students’ assessment and performance: a case study of School of Mathematical Sciences, one of the public university in Malaysia](https://www.itm-conferences.org/articles/itmconf/abs/2021/01/itmconf_icmsa2021_01004/itmconf_icmsa2021_01004.html)
+
+  <details>
+    <summary>Abstract</summary>
+    The quality education is an essential element in economic, political and social development of any country. Therefore, enrollment forecasting is needed in higher education to assist the universities in the preparation of their educational frameworks including budgeting, provide all necessary facilities and planning the overall short and long term goals. This research study the pattern of students’ assessment and their academic performance in School of Mathematical Sciences, Universiti Sains Malaysia. The target population is all undergraduate enrollment from 2016/2017 until 2018/2019 sessions. An absorbing Markov chain model is applied to study the absorption, retention and repetitive rates of the students by the academic programs and gender. The fundamental matrix is constructed to determine the expected duration of schooling before graduating. The enrollment projection is also estimated to study the probability of the performances of the students in the long run. In summary, this research addresses on the use of Markov chain model to describe the stochastic pattern of the enrollment and assessment of the students.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{yahaya_application_2021,
+        title = {Application of Markov chain in students’ assessment and performance: a case study of School of Mathematical Sciences, one of the public university in Malaysia},
+        volume = {36},
+        rights = {© The Authors, published by {EDP} Sciences, 2021},
+        issn = {2271-2097},
+        url = {[https://www.itm-conferences.org/articles/itmconf/abs/2021/01/itmconf_icmsa2021_01004/itmconf_icmsa2021_01004.html](https://www.itm-conferences.org/articles/itmconf/abs/2021/01/itmconf_icmsa2021_01004/itmconf_icmsa2021_01004.html)},
+        doi = {10.1051/itmconf/20213601004},
+        shorttitle = {Application of Markov chain in students’ assessment and performance},
+        abstract = {The quality education is an essential element in economic, political and social development of any country. Therefore, enrollment forecasting is needed in higher education to assist the universities in the preparation of their educational frameworks including budgeting, provide all necessary facilities and planning the overall short and long term goals. This research study the pattern of students’ assessment and their academic performance in School of Mathematical Sciences, Universiti Sains Malaysia. The target population is all undergraduate enrollment from 2016/2017 until 2018/2019 sessions. An absorbing Markov chain model is applied to study the absorption, retention and repetitive rates of the students by the academic programs and gender. The fundamental matrix is constructed to determine the expected duration of schooling before graduating. The enrollment projection is also estimated to study the probability of the performances of the students in the long run. In summary, this research addresses on the use of Markov chain model to describe the stochastic pattern of the enrollment and assessment of the students.},
+        pages = {01004},
+        journaltitle = {{ITM} Web of Conferences},
+        shortjournal = {{ITM} Web Conf.},
+        author = {Yahaya, Khairun Husna and Hasan, Husna},
+        urldate = {2025-04-30},
+        date = {2021},
+        langid = {english},
+        note = {Publisher: {EDP} Sciences}
+    }
+    ```
+      
+  </details>
+
+- [Student learning time analysis during COVID-19 using linear programming - Simplex method](https://www.sciencedirect.com/science/article/pii/S2590291122000201)
+
+  <details>
+    <summary>Abstract</summary>
+    Covid-19 has made a significant impact on the lives of people. The education sector is also impacted by it. The unwarranted change was difficult to handle at first, but slowly got mitigated. The schools and colleges closed to avoid mass gatherings and communication. To help the education system cope with this virus, there was a need to understand how students would accept the change and what could be the impact of students' learning approaches due to Covid-19. This research focuses on examining students' learning habits during the pandemic. A dataset was constructed to examine Indian (Maharashtra) Students' learning habits during the time schools, and colleges were suspended due to the novel coronavirus- SARS-CoV-2 (COVID-19). In response to understanding the potential effects of the coronavirus pandemic, the questionnaires were spread over a network of educational communities on Facebook and Whatsapp from September 30 to October 20, 2020. Researchers delivered the given survey to teachers and parents to collect information. In order to live the influence of students' socioeconomic status and occupational aspirations on their learning habits of students during school closures, the survey included three significant information concerns: (A) Individual demographics, including family socioeconomic status(B) Student's learning time spent during COVID-19, Support system as teachers and parents guidance; and (C) Importance of Self-learning and Effectiveness of it. But this research focuses on the Student's learning time spent during COVID-19. Around 859 responses were received through the survey. With the effective aid of the LP model and the Simplex method, the importance of instructors during online learning can be analyzed. This paper presents results with the applied approach.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{pardeshi_student_2022,
+        title = {Student learning time analysis during {COVID}-19 using linear programming - Simplex method},
+        volume = {5},
+        issn = {2590-2911},
+        url = {[https://www.sciencedirect.com/science/article/pii/S2590291122000201](https://www.sciencedirect.com/science/article/pii/S2590291122000201)},
+        doi = {10.1016/j.ssaho.2022.100266},
+        abstract = {Covid-19 has made a significant impact on the lives of people. The education sector is also impacted by it. The unwarranted change was difficult to handle at first, but slowly got mitigated. The schools and colleges closed to avoid mass gatherings and communication. To help the education system cope with this virus, there was a need to understand how students would accept the change and what could be the impact of students' learning approaches due to Covid-19. This research focuses on examining students' learning habits during the pandemic. A dataset was constructed to examine Indian (Maharashtra) Students' learning habits during the time schools, and colleges were suspended due to the novel coronavirus- {SARS}-{CoV}-2 ({COVID}-19). In response to understanding the potential effects of the coronavirus pandemic, the questionnaires were spread over a network of educational communities on Facebook and Whatsapp from September 30 to October 20, 2020. Researchers delivered the given survey to teachers and parents to collect information. In order to live the influence of students' socioeconomic status and occupational aspirations on their learning habits of students during school closures, the survey included three significant information concerns: (A) Individual demographics, including family socioeconomic status(B) Student's learning time spent during {COVID}-19, Support system as teachers and parents guidance; and (C) Importance of Self-learning and Effectiveness of it. But this research focuses on the Student's learning time spent during {COVID}-19. Around 859 responses were received through the survey. With the effective aid of the {LP} model and the Simplex method, the importance of instructors during online learning can be analyzed. This paper presents results with the applied approach.},
+        pages = {100266},
+        number = {1},
+        journaltitle = {Social Sciences \& Humanities Open},
+        shortjournal = {Social Sciences \& Humanities Open},
+        author = {Pardeshi, Sujata and Gawade, Sushopti and Hemant, Palivela},
+        urldate = {2025-05-02},
+        date = {2022-01-01},
+        keywords = {{COVID}-19, Educational systems, learning habits, Linear programming, Offline, Online, Simplex method}
+    }
+    ```
+      
+  </details>
+
+- [Using Educational Data Mining to Identify and Analyze Student Learning Strategies in an Online Flipped Classroom](https://www.mdpi.com/2227-7102/11/11/668)
+
+  <details>
+    <summary>Abstract</summary>
+    Analyzing the learning analytics from a course provides insights that can impact instructional design decisions. This study used educational data mining techniques, specifically a longitudinal k-means cluster analysis, to identify the strategies students used when completing the online portion of an online flipped spreadsheet course. An analysis of these results showed that students did tend to follow a specific learning strategy as they completed this course. However, students also self-regulated to some degree, based on the topic and context of specific lessons. These insights not only improve our understanding about the students taking the course, but they also provide guidance for how the instructional design of the course might be improved. Of note is the practical value of this proof-of-concept study in using educational data mining to improve the instructional design of a course.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{davies_using_2021,
+        title = {Using Educational Data Mining to Identify and Analyze Student Learning Strategies in an Online Flipped Classroom},
+        volume = {11},
+        rights = {[http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)},
+        issn = {2227-7102},
+        url = {[https://www.mdpi.com/2227-7102/11/11/668](https://www.mdpi.com/2227-7102/11/11/668)},
+        doi = {10.3390/educsci11110668},
+        abstract = {Analyzing the learning analytics from a course provides insights that can impact instructional design decisions. This study used educational data mining techniques, specifically a longitudinal k-means cluster analysis, to identify the strategies students used when completing the online portion of an online flipped spreadsheet course. An analysis of these results showed that students did tend to follow a specific learning strategy as they completed this course. However, students also self-regulated to some degree, based on the topic and context of specific lessons. These insights not only improve our understanding about the students taking the course, but they also provide guidance for how the instructional design of the course might be improved. Of note is the practical value of this proof-of-concept study in using educational data mining to improve the instructional design of a course.},
+        pages = {668},
+        number = {11},
+        journaltitle = {Education Sciences},
+        author = {Davies, Randall and Allen, Gove and Albrecht, Conan and Bakir, Nesrin and Ball, Nick},
+        urldate = {2025-05-02},
+        date = {2021-11},
+        langid = {english},
+        note = {Number: 11 Publisher: Multidisciplinary Digital Publishing Institute},
+        keywords = {data analytics, education, instructional design, learning analytics, online learning}
+    }
+    ```
+      
+  </details>
+
+- [Analysis of the Factors Influencing Learners’ Performance Prediction With Learning Analytics](https://ieeexplore.ieee.org/document/8948025)
+
+  <details>
+    <summary>Abstract</summary>
+    The advancement of learning analytics has enabled the development of predictive models to forecast learners' behaviors and outcomes (e.g., performance). However, many of these models are only applicable to specific learning environments and it is usually difficult to know which factors influence prediction results, including the predictor variables as well as the type of prediction outcome. Knowing these factors would be relevant to generalize to other contexts, compare approaches, improve the predictive models and enhance the possible interventions. In this direction, this work aims to analyze how several factors can make an influence on the prediction of students' performance. These factors include the effect of previous grades, forum variables, variables related to exercises, clickstream data, course duration, type of assignments, data collection procedure, question format in an exam, and the prediction outcome (considering intermediate assignment grades, including the final exam, and the final grade). Results show that variables related to exercises are the best predictors, unlike variables about forum, which are useless. Clickstream data can be acceptable predictors when exercises are not available, but they do not add prediction power if variables related to exercises are present. Predictive power was also better for concept-oriented assignments and best models usually contained only the last interactions. In addition, results showed that multiple-choice questions were easier to predict than coding questions, and the final exam grade (actual knowledge at a specific moment) was harder to predict than the final grade (average knowledge in the long term), based on different assignments during the course.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{moreno-marcos_analysis_2020,
+        title = {Analysis of the Factors Influencing Learners’ Performance Prediction With Learning Analytics},
+        volume = {8},
+        issn = {2169-3536},
+        url = {[https://ieeexplore.ieee.org/document/8948025](https://ieeexplore.ieee.org/document/8948025)},
+        doi = {10.1109/ACCESS.2019.2963503},
+        abstract = {The advancement of learning analytics has enabled the development of predictive models to forecast learners' behaviors and outcomes (e.g., performance). However, many of these models are only applicable to specific learning environments and it is usually difficult to know which factors influence prediction results, including the predictor variables as well as the type of prediction outcome. Knowing these factors would be relevant to generalize to other contexts, compare approaches, improve the predictive models and enhance the possible interventions. In this direction, this work aims to analyze how several factors can make an influence on the prediction of students' performance. These factors include the effect of previous grades, forum variables, variables related to exercises, clickstream data, course duration, type of assignments, data collection procedure, question format in an exam, and the prediction outcome (considering intermediate assignment grades, including the final exam, and the final grade). Results show that variables related to exercises are the best predictors, unlike variables about forum, which are useless. Clickstream data can be acceptable predictors when exercises are not available, but they do not add prediction power if variables related to exercises are present. Predictive power was also better for concept-oriented assignments and best models usually contained only the last interactions. In addition, results showed that multiple-choice questions were easier to predict than coding questions, and the final exam grade (actual knowledge at a specific moment) was harder to predict than the final grade (average knowledge in the long term), based on different assignments during the course.},
+        pages = {5264--5282},
+        journaltitle = {{IEEE} Access},
+        author = {Moreno-Marcos, Pedro Manuel and Pong, Ting-Chuen and Muñoz-Merino, Pedro J. and Delgado Kloos, Carlos},
+        urldate = {2025-05-05},
+        date = {2020},
+        keywords = {Behavioral sciences, Computer aided instruction, Educational courses, {edX}, Human factors, learners’ grades, learning analytics, {MOOCs}, Prediction, Predictive models}
+    }
+    ```
+      
+  </details>
+
+- [Knowledge Tracing: A Survey](https://dl.acm.org/doi/10.1145/3569576)
+
+  <details>
+    <summary>Abstract</summary>
+    Humans’ ability to transfer knowledge through teaching is one of the essential aspects for human intelligence. A human teacher can track the knowledge of students to customize the teaching on students’ needs. With the rise of online education platforms, there is a similar need for machines to track the knowledge of students and tailor their learning experience. This is known as the Knowledge Tracing (KT) problem in the literature. Effectively solving the KT problem would unlock the potential of computer-aided education applications such as intelligent tutoring systems, curriculum learning, and learning materials’ recommendation. Moreover, from a more general viewpoint, a student may represent any kind of intelligent agents including both human and artificial agents. Thus, the potential of KT can be extended to any machine teaching application scenarios which seek for customizing the learning experience for a student agent (i.e., a machine learning model). In this paper, we provide a comprehensive survey for the KT literature. We cover a broad range of methods starting from the early attempts to the recent state-of-the-art methods using deep learning, while highlighting the theoretical aspects of models and the characteristics of benchmark datasets. Besides these, we shed light on key modelling differences between closely related methods and summarize them in an easy-to-understand format. Finally, we discuss current research gaps in the KT literature and possible future research and application directions.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{abdelrahman_knowledge_2023,
+        title = {Knowledge Tracing: A Survey},
+        volume = {55},
+        url = {[https://dl.acm.org/doi/10.1145/3569576](https://dl.acm.org/doi/10.1145/3569576)},
+        doi = {10.1145/3569576},
+        shorttitle = {Knowledge Tracing},
+        abstract = {Humans’ ability to transfer knowledge through teaching is one of the essential aspects for human intelligence. A human teacher can track the knowledge of students to customize the teaching on students’ needs. With the rise of online education platforms, there is a similar need for machines to track the knowledge of students and tailor their learning experience. This is known as the Knowledge Tracing ({KT}) problem in the literature. Effectively solving the {KT} problem would unlock the potential of computer-aided education applications such as intelligent tutoring systems, curriculum learning, and learning materials’ recommendation. Moreover, from a more general viewpoint, a student may represent any kind of intelligent agents including both human and artificial agents. Thus, the potential of {KT} can be extended to any machine teaching application scenarios which seek for customizing the learning experience for a student agent (i.e., a machine learning model). In this paper, we provide a comprehensive survey for the {KT} literature. We cover a broad range of methods starting from the early attempts to the recent state-of-the-art methods using deep learning, while highlighting the theoretical aspects of models and the characteristics of benchmark datasets. Besides these, we shed light on key modelling differences between closely related methods and summarize them in an easy-to-understand format. Finally, we discuss current research gaps in the {KT} literature and possible future research and application directions.},
+        pages = {1--37},
+        number = {11},
+        journaltitle = {{ACM} Computing Surveys},
+        author = {Abdelrahman, Ghodai and {[https://orcid.org/0000-0002-7470-0494](https://orcid.org/0000-0002-7470-0494)} and {View Profile} and Wang, Qing and {[https://orcid.org/0000-0001-9504-4273](https://orcid.org/0000-0001-9504-4273)} and {View Profile} and Nunes, Bernardo and {[https://orcid.org/0000-0001-9764-9401](https://orcid.org/0000-0001-9764-9401)} and {View Profile}},
+        urldate = {2025-05-06},
+        date = {2023-02-09},
+        note = {Publisher: Association for Computing Machinery},
+        keywords = {Bayesian knowledge tracing ({BKT}), deep learning, factor analysis, intelligent education, key-value memory, Knowledge tracing, memory networks, sequence modelling, survey}
+    }
+    ```
+      
+  </details>
+
+- [Improving precision of ability estimation: Getting more from response times](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)
+
+  <details>
+    <summary>Abstract</summary>
+    By considering information about response time (RT) in addition to response accuracy (RA), joint models for RA and RT such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider RA. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between RT and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual RTs. We propose a posterior predictive check for evaluating the assumption of conditional independence between RT and ability given speed. Furthermore, we propose an extension of the hierarchical model that contains cross-loadings between ability and RT, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an RA-only model is considered. The model is applied to data from a high-stakes educational test.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{bolsinova_improving_2018,
+        title = {Improving precision of ability estimation: Getting more from response times},
+        volume = {71},
+        rights = {© 2017 The British Psychological Society},
+        issn = {2044-8317},
+        url = {[https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/abs/10.1111/bmsp.12104)},
+        doi = {10.1111/bmsp.12104},
+        shorttitle = {Improving precision of ability estimation},
+        abstract = {By considering information about response time ({RT}) in addition to response accuracy ({RA}), joint models for {RA} and {RT} such as the hierarchical model (van der Linden, 2007) can improve the precision with which ability is estimated over models that only consider {RA}. The hierarchical model, however, assumes that only the person's speed is informative of ability. This assumption of conditional independence between {RT} and ability given speed may be violated in practice, and ignores collateral information about ability that may be present in the residual {RTs}. We propose a posterior predictive check for evaluating the assumption of conditional independence between {RT} and ability given speed. Furthermore, we propose an extension of the hierarchical model that contains cross-loadings between ability and {RT}, which enables one to take additional collateral information about ability into account beyond what is possible in the standard hierarchical model. A Bayesian estimation procedure is proposed for the model. Using simulation studies, the performance of the model is evaluated in terms of parameter recovery, and the possible gain in precision over the standard hierarchical model and an {RA}-only model is considered. The model is applied to data from a high-stakes educational test.},
+        pages = {13--38},
+        number = {1},
+        journaltitle = {British Journal of Mathematical and Statistical Psychology},
+        author = {Bolsinova, Maria and Tijmstra, Jesper},
+        urldate = {2025-05-06},
+        date = {2018},
+        langid = {english},
+        note = {\_eprint: [https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12104)},
+        keywords = {collateral information, hierarchical model, item response theory, measurement precision, response times}
+    }
+    ```
+      
+  </details>
+
+- [Modeling the Effort and Learning Ability of Students in MOOCs](https://ieeexplore.ieee.org/document/8818052)
+
+  <details>
+    <summary>Abstract</summary>
+    With the popularity of MOOCs and other online learning platforms, Educational Data Mining (EDM) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability (ELA) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{gao_modeling_2019,
+        title = {Modeling the Effort and Learning Ability of Students in {MOOCs}},
+        volume = {7},
+        issn = {2169-3536},
+        url = {[https://ieeexplore.ieee.org/document/8818052](https://ieeexplore.ieee.org/document/8818052)},
+        doi = {10.1109/ACCESS.2019.2937985},
+        abstract = {With the popularity of {MOOCs} and other online learning platforms, Educational Data Mining ({EDM}) has been receiving tremendous attention from researchers due to its great significance. Modeling students' effort and learning ability is a very interesting but challenging research topic. It is beneficial for student profiling, personalization recommendation, etc. Thus, numerous attempts have been devoted to this study. However, most of the existing work treat the problem in a static scenario, but they ignore the dynamic characteristics in real word applications. To address this problem, we propose a novel model to describe students' effort and learning ability ({ELA}) from a generative perspective. The temporal variations of both effort and learning ability of students are taken into account. To evaluate the performance of the proposed model, some extensive experiments are carried out. The experimental results have demonstrated that the proposed model outperforms other competitive methods greatly.},
+        pages = {128035--128042},
+        journaltitle = {{IEEE} Access},
+        author = {Gao, Lina and Zhao, Zhongying and Qi, Liang and Liang, Yongquan and Du, Junwei},
+        urldate = {2025-05-06},
+        date = {2019},
+        keywords = {Computational modeling, computer science, Computer science, Correlation, Data mining, Educational data mining, effort, information processing, learning ability, Markov processes, Statistical analysis, Task analysis}
+    }
+    ```
+      
+  </details>
+
+- [SMART: Student modeling approach for responsive tutoring](https://doi.org/10.1007/BF01101800)
+
+  <details>
+    <summary>Abstract</summary>
+    This paper describes a new student modeling paradigm called SMART. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the SMART approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). SMART works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of SMART examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+      
+    ```bibtex
+    @article{shute_smart_1995,
+        title = {{SMART}: Student modeling approach for responsive tutoring},
+        volume = {5},
+        issn = {1573-1391},
+        url = {[https://doi.org/10.1007/BF01101800](https://doi.org/10.1007/BF01101800)},
+        doi = {10.1007/BF01101800},
+        shorttitle = {{SMART}},
+        abstract = {This paper describes a new student modeling paradigm called {SMART}. The premise is that a single, principled approach to student modeling, involving both theoretical and empirical methods, can render automated instruction more efficacious across a broad array of instructional domains. After defining key terms and discussing limitations to previous student modeling paradigms, I describe the {SMART} approach, as embedded within a statistics tutor called Stat Lady (Shute and Gluck, 1994). {SMART} works in conjunction with a tutor design where low-level knowledge and skills (i.e., curricular elements) are identified and separated into three main outcome types. Throughout the tutor, curricular elements with values below a pre-set mastery criterion are instructed, evaluated, and remediated, if necessary. The diagnostic part of the student model is driven by a series of regression equations based on the level of assistance the computer gives each person, per curriculum element. Remediation on a given element occurs when a subject fails to achieve mastery during assessment, which follows instruction. Remediation is precise because each element knows its location within the tutor where it is instructed and assessed. I end with a summary of results from two controlled evaluations of {SMART} examining the following research issues: (a) diagnostic validity, (b) individual differences in learning from Stat Lady, (c) affective perceptions of the tutorial experience, and (d) contributions of mastery and remediation to learning outcome and efficiency. Comments about related and future research with this paradigm are offered.},
+        pages = {1--44},
+        number = {1},
+        journaltitle = {User Modeling and User-Adapted Interaction},
+        shortjournal = {User Model User-Adap Inter},
+        author = {Shute, Valerie J.},
+        urldate = {2025-05-06},
+        date = {1995-03-01},
+        langid = {english},
+        keywords = {Aptitudes, cognitive diagnosis, learning outcomes, macroadaptation, mastery learning, microadaptation, remediation},
+    }
+    ```
+      
+  </details>
+
+- [Analysis of Online Learning Time in Flipped classroom Based on MCMC | Proceedings of the 5th International Conference on Distance Education and Learning](https://dl.acm.org/doi/10.1145/3402569.3402579)
+
+  <details>
+    <summary>Abstract</summary>
+    (Abstract not provided in the BibTeX entry)
+  </details>
+
+  <details>
+    <summary>Cite</summary>
+
+    ```bibtex
+    @online{noauthor_analysis_nodate,
+        title = {Analysis of Online Learning Time in Flipped classroom Based on {MCMC} {\textbar} Proceedings of the 5th International Conference on Distance Education and Learning},
+        url = {[https://dl.acm.org/doi/10.1145/3402569.3402579](https://dl.acm.org/doi/10.1145/3402569.3402579)},
+        titleaddon = {{ACM} Other conferences},
+        urldate = {2025-05-06},
+        doi = {10.1145/3402569.3402579},
+        note = {Archive Location: world},
+        author={Hongli Yuan, Wenjuan Sun, Yan Chen},
+        Year={2020}
+    }
+    ```
+
+  </details>
