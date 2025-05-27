@@ -304,27 +304,6 @@
       
   </details>
 
-- [`(Not exist)` Educational Data Mining: A review of the state of the art ](https://ieeexplore.ieee.org/document/5524021)
-
-  <details>
-    <summary>Abstract</summary>
-    Educational data mining (EDM) is an emerging interdisciplinary research area that deals with the development of methods to explore data originating in an educational context. EDM uses computational approaches to analyze educational data in order to study educational questions. This paper surveys the most relevant studies carried out in this field to date. First, it introduces EDM and describes the different groups of user, types of educational environments, and the data they provide. It then goes on to list the most typical/common tasks in the educational environment that have been resolved through data-mining techniques, and finally, some of the most promising future lines of research are discussed.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
 - [Stochastic Application of Absorbing Markov Chain to Secondary Schools: a Case Study of Monrovia Consolidated Schools System (Mcss), Monrovia-liberia.](https://erepository.uonbi.ac.ke/bitstream/handle/11295/155854)
 
   <details>
@@ -625,27 +604,6 @@
       
   </details>
 
-- [`(Not exist)` Deep Knowledge Tracing](https://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf)
-
-  <details>
-    <summary>Abstract</summary>
-    Knowledge tracing—where a machine models the knowledge of a student as they interact with coursework—is a well established problem in computer supported education. Though effectively modeling student knowledge would have high educational impact, the task has many inherent challenges. In this paper we explore the utility of using Recurrent Neural Networks (RNNs) to model student learning. The RNN family of models have important advantages over previous methods in that they do not require the explicit encoding of human domain knowledge, and can capture more complex representations of student knowledge. Using neural networks results in substantial improvements in prediction performance on a range of knowledge tracing datasets. Moreover the learned model can be used for intelligent curriculum design and allows straightforward interpretation and discovery of structure in student tasks. These results suggest a promising new line of research for knowledge tracing and an exemplary application task for RNNs
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
 - [How Deep is Knowledge Tracing? ](https://arxiv.org/abs/1604.02416)
 
   <details>
@@ -676,27 +634,6 @@
     	eprint = {1604.02416 [cs]},
     	keywords = {Computer Science - Artificial Intelligence, Computer Science - Neural and Evolutionary Computing}
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Deep learning for knowledge tracing in learning analytics: an overview](https://core.ac.uk/download/pdf/541259322.pdf)
-
-  <details>
-    <summary>Abstract</summary>
-    Learning Analytics (LA) is a recent research branch that refers to methods for measuring, collecting, analyzing, and reporting learners’ data, in order to better understand and optimize the processes and the environments. Knowledge Tracing (KT) deals with the modeling of the evolution, during the time, of the students’ learning process. Particularly its aim is to predict students’ outcomes in order to avoid failures and to support both students and teachers. Recently, KT has been tackled by exploiting Deep Learning (DL) models and generating a new, ongoing, research line that is known as Deep Knowledge Tracing (DKT). This was made possible by the digitalization process that has simplified the gathering of educational data from many different sources such as online learning platforms, intelligent objects, and mainstream IT-based systems for education. DKT predicts the student’s performances by using the information embedded in the collected data. Moreover, it has been shown to be able to outperform the state-of-the-art models for KT. In this paper, we briefly describe the most promising DL models, by focusing on their prominent contribution in solving the KT task.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -766,69 +703,6 @@
     	url = {https://www.sciencedirect.com/science/article/pii/000437029090093F},
     	author = {John R. Anderson and C.Franklin Boyle and Albert T. Corbett and Matthew W. Lewis}
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Learning for Mastery](https://files.eric.ed.gov/fulltext/ED053419.pdf)
-
-  <details>
-    <summary>Abstract</summary>
-    Most students, perhaps over 90 percent, can master what teachers have to teach them, and it is the task of instruction to find the means which will enable students to master the subject under consideration. A basic task is to determine what is meant by mastery of the subject and to search for methods and materials which will enable the largest proportion of students to attain such mastery. That is, the basic task in education is to find strategies which will take individual differences into consideration but in such a way as to promote the fullest development of the individual. The thesis of this paper is that, to promote mastery learning, 5 variables must be dealt with effectively: (1) aptitude for kinds of learning, viewed as the amount of time required by the learner to attain mastery of the task; (2) quality of instruction, viewed in terms of its approaching the optimum for a given learner; (3) ability to understand instruction, i.e., to understand the nature of the task and the procedures to follow; (4) perseverance, the amount of time one is willing to spend in learning; and (5) time allowed for learning, the key to mastery. (Author/TA)
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
-- [`(Not exist)` Learning Factors Transfer Analysis: Using Learning Curve Analysis to Automatically Generate Domain Models](https://files.eric.ed.gov/fulltext/ED506306.pdf)
-
-  <details>
-    <summary>Abstract</summary>
-    This paper describes a novel method to create a quantitative model of an educational content domain of related practice item-types using learning curves. By using a pairwise test to search for the relationships between learning curves for these item-types, we show how the test results in a set of pairwise transfer relationships that can be expressed in a Q-matrix domain model. Creating these Q-matrices for various test criteria we show that the new domain model results in consistently better learning curve fits as shown by cross-validation. Further, the Q-matrices produced can be used by educators or curriculum designers to gain a richer, more integrated perspective on concepts in the domain. The model may also have implications for tracing student knowledge more effectively to sequence practice in tutoring/training software. (Contains 2 figures.) [This research was funded by the U.S. Department of Education, Carnegie Learning Inc., the Pittsburgh Science of Learning Center and DataShop team, and Ronald Zdrojkowski.]
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
-- [`(Not exist)` The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems ](https://www.tandfonline.com/doi/abs/10.1080/00461520.2011.611369)
-
-  <details>
-    <summary>Abstract</summary>
-    This article is a review of experiments comparing the effectiveness of human tutoring, computer tutoring, and no tutoring. “No tutoring” refers to instruction that teaches the same content without tutoring. The computer tutoring systems were divided by their granularity of the user interface interaction into answer-based, step-based, and substep-based tutoring systems. Most intelligent tutoring systems have step-based or substep-based granularities of interaction, whereas most other tutoring systems (often called CAI, CBT, or CAL systems) have answer-based user interfaces. It is widely believed as the granularity of tutoring decreases, the effectiveness increases. In particular, when compared to No tutoring, the effect sizes of answer-based tutoring systems, intelligent tutoring systems, and adult human tutors are believed to be d = 0.3, 1.0, and 2.0 respectively. This review did not confirm these beliefs. Instead, it found that the effect size of human tutoring was much lower: d = 0.79. Moreover, the effect size of intelligent tutoring systems was 0.76, so they are nearly as effective as human tutoring.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -929,27 +803,6 @@
       doi = {10.1207/S15326985EP3801_1},
       abstract={Cognitive load theory (CLT) originated in the 1980s and underwent substantial development and expansion in the 1990s by researchers from around the globe. As the articles in this special issue demonstrate, it is a major theory providing a framework for investigations into cognitive processes and instructional design. By simultaneously considering the structure of information and the cognitive architecture that allows learners to process that information, cognitive load theorists have been able to generate a unique variety of new and sometimes counterintuitive instructional designs and procedures.},
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions](https://link.springer.com/article/10.1007/s10648-005-3951-0)
-
-  <details>
-    <summary>Abstract</summary>
-    Traditionally, Cognitive Load Theory (CLT) has focused on instructional methods to decrease extraneous cognitive load so that available cognitive resources can be fully devoted to learning. This article strengthens the cognitive base of CLT by linking cognitive processes to the processes used by biological evolution. The article discusses recent developments in CLT related to the current view in instructional design that real-life tasks should be the driving force for complex learning. First, the complexity, or intrinsic cognitive load, of such tasks is often high so that new methods are needed to manage cognitive load. Second, complex learning is a lengthy process requiring learners’ motivational states and levels of expertise development to be taken into account. Third, this perspective requires more advanced methods to measure expertise and cognitive load so that instruction can be flexibly adapted to individual learners’ needs. Experimental studies are reviewed to illustrate these recent developments. Guidelines for future research are provided.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -1086,27 +939,6 @@
     	note = {Google-Books-{ID}: {pDeLy}5L14mAC},
     	keywords = {Education / Evaluation \& Assessment, Education / Reference, Education / Testing \& Measurement, Mathematics / Probability \& Statistics / General, Psychology / Assessment, Testing \& Measurement, Psychology / General, Psychology / Statistics, Social Science / General, Social Science / Research, Social Science / Statistics},
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Adaptive Bayesian Knowledge Tracing Based on Personalized Characteristics](https://ieeexplore.ieee.org/document/10761945)
-
-  <details>
-    <summary>Abstract</summary>
-    Bayesian Knowledge Tracing (BKT) model is a student knowledge state model that currently widely used in intelligent teaching system. However, BKT still has limitations in capturing dynamic changes during the student learning process and handling multiple characteristics as well as individualized needs. To address the above problems, this paper proposes an adaptive BKT model based on students' personalized features. The core of the model lies in constructing a feature set based on students' previous personalized question-answering data, and dynamically classifying students' current learning situation accordingly. The dynamic classification method classifies students by analyzing their question-answering performance in real time and adjusts the BKT parameters accordingly to more accurately reflect their current knowledge status. On this basis, it predicts students' future learning status and question-answering performance. Comparative experiments show that the model can better adapt to individual learning differences and significantly improve the accuracy of predicting students' future question-answering correctness.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -1307,48 +1139,6 @@
     	url={https://dergipark.org.tr/en/download/article-file/59807},
     	langid = {english}
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Time-on-task effects in digital reading are non-linear and moderated by persons' skills and tasks' demands](https://www.sciencedirect.com/science/article/abs/pii/S1041608016302199?via%3Dihub)
-
-  <details>
-    <summary>Abstract</summary>
-    Time-on-task effects on response accuracy in digital reading tasks were examined using PISA 2009 data (N = 34,062, 19 countries/economies). As a baseline, task responses were explained by time on task, tasks' easiness, and persons' digital reading skill (Model 1). Model 2 added a quadratic time-on-task effect, persons' comprehension skill and tasks' navigation demands as predictors. In each country, linear and quadratic time-on-task effects were moderated by person and task characteristics. Strongly positive linear time-on-task effects were found for persons being poor digital readers (Model 1) and poor comprehenders (Model 2), which decreased with increasing skill. Positive linear time-on-task effects were found for hard tasks (Model 1) and tasks high in navigation demands (Model 2). For easy tasks and tasks low in navigation demands, the time-on-task effects were negative, or close to zero, respectively. A negative quadratic component of the time-on-task effect was more pronounced for strong comprehenders, while the linear component was weaker. Correspondingly, for tasks high in navigation demands the negative quadratic component to the time-on-task effect was weaker, and the linear component was stronger. These results are in line with a dual-processing account of digital reading that distinguishes automatic reading components from resource-demanding regulation and navigation processes.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
-- [`(Not exist)` Mathematics Achievement Effects of Three Levels of Individualization: Whole Class, Ability Grouped, and Individualized Instruction](http://files.eric.ed.gov/fulltext/ED242559.pdf)
-
-  <details>
-    <summary>Abstract</summary>
-    This research evaluated mathematics achievement and attitudinal effects of three instructional methods directed in varying degrees toward accommodating diversity in students' prior achievement. Two randomized field experiments of 16 and 18 weeks' duration, respectively, compared an individualized model, Team Assisted Individualization (TAI); an ability grouped model, Ability Grouped Active Teaching (AGAT); a group-paced model, the Missouri Mathematics Program (MMP); and, in Experiment 2 only, untreated control classes. The first experiment involved pupils in grades 4-6, while the second experiment was conducted with pupils in grades 3-5. Nested analysis of variance on CTBS Computations scores adjusted for pretests indicated that in both experiments, TAI and AGAT exceeded MMP. In Experiment 2, TAI, AGAT, and MMP also exceeded control. No interactions with prior achievement were found. Effects on Liking of Math Class and (in Experiment 1) Self-Concept in Math favored TAI. (Author/MNS)
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -1763,48 +1553,6 @@
       
   </details>
 
-- [`(Not exist)` Accelerating Early Math Learning with Research-Based Personalized Learning Games: A Cluster Randomized Controlled Trial](https://www.tandfonline.com/doi/full/10.1080/19345747.2021.1969710)
-
-  <details>
-    <summary>Abstract</summary>
-    This study examines whether My Math Academy, a digital gamebased learning environment that provides personalized content and adaptive embedded assessments, can improve math knowledge of Transitional Kindergarten and Kindergarten students. A cluster randomized study was conducted with 20 classrooms, 10 of which were randomly assigned to use My Math Academy for 12–14 weeks. Results of hierarchical linear models indicated that after using the app for about 5 hours, treatment students significantly outperformed the control group in math knowledge and skills as measured by TEMA-3. My Math Academy produced the greatest learning gains in students who began with a moderate level of math knowledge and on the most difficult skills assessed. Additionally, the more games students played, the greater the learning gains they experienced. Teacher surveys revealed that My Math Academy produced positive impacts on students’ interest and self-confidence in learning math. Teachers also recognized My Math Academy as a user-friendly, valuable learning resource that they will continue to use. The study results will inform ongoing development of My Math Academy, including tools to enable teachers to help children with low levels of prior math knowledge.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
-- [`(Not exist)` Systematic Review: Trends in Intelligent Tutoring Systems in Mathematics Teaching and Learning](https://ijemst.net/index.php/ijemst/article/view/3189)
-
-  <details>
-    <summary>Abstract</summary>
-    The use of intelligent tutoring systems (ITSs) is growing rapidly in the field of education. In mathematics, adaptive and personalized scenarios mediated by these systems have been implemented to aid concept comprehension and skill development. This study presents a systematic review on the current status of the use of ITSs in mathematics education in higher education institutions (HEI). More specifically, it inquires about elements rarely addressed in reviews, such as the purposes, advantages, effectiveness, limitations, characteristics, and development and research methodologies in ITSs used for mathematics education. We analyzed 43 documents in 15 specialized and indexed journals in the years 2012-2022. In addition to providing a global overview of the implementation of ITSs in mathematics teaching and learning, we also present trends and opportunities for future research on building educational environments guided by these technologies.that promote SRL to decrease math anxiety and improve student performance.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
 - [A student modeling method combining Deep Learning and forgetting models with Knowledge Tracing](https://www.sciencedirect.com/science/article/pii/S1877050923012656?via%3Dihub)
 
   <details>
@@ -2136,27 +1884,6 @@
       
   </details>
 
-- [`(Not exist)` A latent Markov Rasch model to study the development of student achievement](https://www.researchgate.net/profile/Fulvia-Pennoni/publication/257304645_A_latent_Markov_Rasch_model_to_study_the_development_of_student_achievement/links/0deec524d41b04280f000000/A-latent-Markov-Rasch-model-to-study-the-development-of-student-achievement.pdf)
-
-  <details>
-    <summary>Abstract</summary>
-    In this paper we propose the use of a latent Markov Rasch model to investigate the development of the achievement level in math of a group of students in Italy. The latent Markov Rasch model may be seen as an extended version of the Latent Markov model (Wiggins, 1973; Langeheine and van de Pol, 2002). The last is a standard tool for the analysis of binary longitudinal data when the interest is for the individual changes with respect to a certain latent status. This model assumes that the response variables corresponding to the different time occasions are conditionally independent given a discrete latent process which follows a first-order Markov chain. In the latent Markov Rasch model a Rasch parametrization is assumed for the conditional distribution of the response variables given the latent process and this process is time-homogeneous. It may be seen also as an extended version of the latent class Rasch (LCR) model (de Leeuw and Verhelst, 1986, Lindsay at al., 1991) in which a subject is allowed to move between latent classes during time. For the application at hand the achievement is estimated by analyzing a set of binary items which are administrated to the same student for more than one time occasion. The measurement of achievements in a longitudinal setting however, typically by cognitive tests, raises thorny problems. Different approaches have been followed to asses this problem. Rost (1989) proposed to treat different time points as independent data. Another way suggested by Meiser et. al.(1995) was to treat each items as a test of its own with t virtual items reflecting participant item responses to the test at each time point. They propose to use longitudinal mixture Rasch model on this type of data structure. Another way proposed by Fischer (1995) was to treat each time point as different items in one long test.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
 - [Markov analysis of academic performance of students in higher education: a case study of an engineering institution](https://www.inderscienceonline.com/doi/abs/10.1504/IJSOM.2022.121696)
 
   <details>
@@ -2190,27 +1917,6 @@
     	note = {Publisher: Inderscience Publishers},
     	keywords = {academic performance, engineering education, Markov chain},
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Student Retention Performance Using Absorbing Markov Chains](https://www.igi-global.com/gateway/chapter/166526)
-
-  <details>
-    <summary>Abstract</summary>
-    Performance models are well established in the literature. More specifically, student performance has been of growing concern at all levels. To confront the challenges, researchers have collected data, monitored performance criterion, developed quantitative models, and analyzed patterns to formulate theories and adaptive measures. At the university level, many students' performance deficiencies are keenly noticed and actualized for a variety of reasons. Some reasons may include transition from a home-reporting educational environment to an autonomous setting; lack of a friendly support system; or a host of behavioral circumstances which exacerbate latent academic deficits. One such technique for reviewing student performance can be employed and analyzed using absorbing Markov chains. The use of Markov Chains can provide quantitative information such the characterization potential delays (latency points) within and throughout the system, prediction of probabilistic metrics which define transitions between each stage of a defined state, and adaptability options for enrollment outcomes for use by school administrators. Furthermore, Markov chains can be employed to determine the impact on system resources such as limitations in faculty schedules, classroom assignments, and technology availability. Managers, administrators and advisors may find this information useful when notified of such limitations. This paper is of value to a broad audience such as researchers, managers, and administrators since it augments standard approaches of the Markov model. The blend of stochastic mathematics, applications of stochastic methods and retention theory, as well as the inclusion of adaptive sensitivity analysis are effective performance measures. Therefore, applications in Markov chains and subsequent forecasting models are of contemporary values in educational performance. Each of these concepts and methods contribute to a broader consideration of Markov properties in a branch of mathematics known as Markov Decision Processes (MDP). These types of processes allow researchers the ability to adjust parameters based on rewards, sets of actions, and discount factors. The cases outlined in this paper may be helpful when considering reductions in recidivism rates, improving policies to diminish recidivism, and increasing enrollment options using Markov analysis.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -2330,27 +2036,6 @@
       date = {2021-04-09},
       keywords = {Longitudinal study, Markov chain model, Progress tests, {USMLE} step 1 performance}
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Work in Progress: A Markov Chain Method for Modeling Student Behaviors](https://peer.asee.org/work-in-progress-a-markov-chain-method-for-modeling-student-behaviors)
-
-  <details>
-    <summary>Abstract</summary>
-    Students from a middle school (N=152) and from a high school (N=33) completed the same energy-efficient home design challenges in a simulated environment for engineering design (SEED) supported by rich design tool with construction and analysis capabilities, Energy3D. As students design in Energy3D, a log of all of their design actions are collected. In this work-in-progress a subsample of the five most engaged students from both the middle and high school samples are analyzed to identify similarities and differences in their design sequences through Markov chain models. Sequence learning is important to many fields of study, particularly fields that have a large practice component such as engineering and design. Design sequences represent micro-strategies for developing a design. By aggregating these sequences into a model we aim to characterize and compare their design process. Markov chains aid in modeling these sequences by developing a matrix of transition probabilities between actions. Preliminary results suggest we can identify similarities and differences between the groups and that their design sequences reflect important considerations of the design problem. We conclude that Markov chains hold promise for modeling student practices.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -2901,48 +2586,6 @@
       
   </details>
 
-- [`(Not exist)` Multi-Graph Spatial-Temporal Synchronous Network for Student Performance Prediction](https://ieeexplore.ieee.org/document/10701484)
-
-  <details>
-    <summary>Abstract</summary>
-    In the realm of intelligent education, which is crucial for fostering sustainable student growth, predicting student performance stands out as a pivotal element. At its heart, the challenge of forecasting academic success lies in unraveling the complex, hidden relationships within performance data. While numerous investigations have addressed this challenge, existing approaches often overlook comprehensive, multi-perspective modeling and fail to capture the intricate spatial and temporal dependencies synchronously. To bridge these gaps, this study introduces a multi-graph spatial-temporal synchronous network (MGSTSN) to enhance the precision of performance predictions. By innovatively crafting spatial trend and pattern graphs alongside temporal causal graphs, this approach enables a holistic representation of the diverse spatial-temporal dynamics at play. Furthermore, the development of dual spatial-temporal synchronous graphs and their allied synchronous modules marks a novel strategy for simultaneously learning the interplay between spatial and temporal factors affecting student performance. Rigorous evaluations on authentic datasets reveal that MGSTSN significantly outperforms existing models, demonstrating an 8.17% to 11.34% enhancement across various metrics. This validates MGSTSN’s advanced capability in capturing the multifaceted nature of student performance data.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
-- [`(Not exist)` Open Service for Video Learning Analytics](https://ieeexplore.ieee.org/document/6901389)
-
-  <details>
-    <summary>Abstract</summary>
-    Video learning analytics are not open to education stakeholders, such as researchers and teachers, because online video platforms do not share the interactions of the users with their systems. Nevertheless, video learning analytics are necessary to all researchers and teachers that need to understand and improve the effectiveness of the video lecture pedagogy. In this paper, we present an open video learning analytics service, which is freely accessible online. The video learning analytics service (named Social Skip) facilitates the analysis of video learning behavior by capturing learners' interactions with the video player (e.g., seek/scrub, play, pause). The service empowers any researcher or teacher to create a custom video-based experiment by selecting: 1) a video lecture from You Tube, 2) quiz questions from Google Drive, and 3) custom video player buttons. The open video analytics system has been validated through dozens of user studies, which produced thousands of video interactions. In this study, we present an indicative example, which highlights the usability and usefulness of the system. In addition to interaction frequencies, the system models the captured data as a learner activity time series. Further research should consider user modeling and personalization in order to dynamically respond to the interactivity of students with video lectures.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
-    ```
-      
-  </details>
-
 - [Prediction of Learning Performance in Online Course Based on Linear Regression Model: IEEE ITAIC(ISSN:2693-2865)](https://ieeexplore.ieee.org/document/9836468)
 
   <details>
@@ -2975,27 +2618,6 @@
     	note = {{ISSN}: 2693-2865},
     	keywords = {Analytical models, Correlation, Data models, Education, Learning Performance Prediction, Linear regression, Linear Regression Model, Online Course, Predictive models, Solid modeling},
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Modeling of Learning Processes Using Continuous-Time Markov Chain for Virtual-Reality-Based Surgical Training in Laparoscopic Surgery](https://ieeexplore.ieee.org/document/10016672)
-
-  <details>
-    <summary>Abstract</summary>
-    Recent usage of virtual reality (VR) technology in surgical training has emerged because of its cost-effectiveness, time savings, and cognition-based feedback generation. However, the quantitative evaluation of its effectiveness in training is still not thoroughly studied. This article demonstrates the effectiveness of a VR-based surgical training simulator in laparoscopic surgery and investigates how stochastic modeling, represented as continuous-time Markov chain (CTMC), can be used to explicit determine the training status of the surgeon. By comparing the training in real environments and in VR-based training simulators, the authors also explore the validity of the VR simulator in laparoscopic surgery. The study further aids in establishing learning models for surgeons, supporting continuous evaluation of training processes for the derivation of real-time feedback by CTMC-based modeling.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
@@ -3505,27 +3127,6 @@
     	langid = {english},
     	keywords = {Academic performance, Learning interest, Learning persistence, Strategies for self-regulated learning behaviors},
     }
-    ```
-      
-  </details>
-
-- [`(Not exist)` Effect of Combined Use of Flipped Learning and Inquiry-Based Learning on a System Modeling and Control Course](https://ieeexplore.ieee.org/document/8126236)
-
-  <details>
-    <summary>Abstract</summary>
-    Contribution: This paper illustrates how to design and implement curricula in terms of the combined use of flipped learning and inquiry-based learning in an engineering course. Background: Elementary courses in engineering schools are conventional and foundational, and involve a considerable amount of knowledge. Throughout such courses, students are also expected to develop insight, which cannot be obtained by only listening to instructors. Having relevant discussions is also difficult for most instructors. Intended Outcomes: The combined use of flipped learning and inquiry-based learning would be beneficial to broaden student achievement. Application Design: Based on an epistemological approach about knowledge and knowing, this paper applies the combined use of flipped learning and inquiry-based learning to enhance student knowledge and advance ways of thinking on a System Modeling and Control course. Findings: The extended learning time and the collective responsibility for learning are discussed as critical issues in applying the combined use of flipped learning and inquiry-based learning in an engineering school.
-  </details>
-
-  <!-- <details>
-    <summary>Finding</summary>
-    In progress
-  </details> -->
-
-  <details>
-    <summary>Cite</summary>
-      
-    ```bibtex
-    @
     ```
       
   </details>
